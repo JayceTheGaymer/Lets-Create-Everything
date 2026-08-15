@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "edibleItems": [
+    "minecraft:andesite",
+    "minecraft:polished_andesite"
+  ],
+  "hungerLossPoints": 1,
+  "slownessDurationTicks": 100,
+  "slownessAmplifier": 0,
+  "eatDurationTicks": 32,
+  "replaceBlockPlacement": false
+}
