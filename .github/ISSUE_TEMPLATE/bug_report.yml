@@ -1,0 +1,126 @@
+name: 🐛 Bug Report
+description: Report a crash, compatibility issue, or unexpected behavior
+title: "[BUG] "
+labels: ["bug", "needs-triage"]
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 🐛 Bug Report
+        
+        Thanks for taking the time to report an issue! Please fill out all 
+        sections below — incomplete reports may be closed without investigation.
+
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      description: Where did the issue occur?
+      options:
+        - Singleplayer
+        - Multiplayer (Dedicated Server)
+        - Multiplayer (LAN)
+        - Both Singleplayer & Multiplayer
+    validations:
+      required: true
+
+  - type: input
+    id: pack_version
+    attributes:
+      label: Modpack Version
+      description: Which version of the modpack are you playing?
+      placeholder: "e.g., 0.1.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: How impactful is this issue?
+      options:
+        - 💥 Crash — Game won't launch or world won't load
+        - 🔴 Major — Core feature broken, unplayable
+        - 🟡 Moderate — Workaround exists but inconvenient
+        - 🟢 Minor — Cosmetic or non-critical
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Issue Description
+      description: Clearly describe what happened. What were you doing when it occurred?
+      placeholder: |
+        I was placing a Create Aeronautics ship assembler on the ground 
+        and the entire world went invisible. The HUD still rendered but 
+        all blocks, entities, and terrain were gone.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction Steps
+      description: Step-by-step instructions to reproduce the issue.
+      value: |
+        1. 
+        2. 
+        3.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen instead?
+      placeholder: "The world should render normally with all blocks and entities visible."
+    validations:
+      required: true
+
+  - type: input
+    id: suspected_mod
+    attributes:
+      label: Suspected Mod (Optional)
+      description: If you have an idea which mod is causing the issue, list it here.
+      placeholder: "e.g., Sodium, Create Aeronautics, Supplementaries"
+
+  - type: textarea
+    id: mod_list
+    attributes:
+      label: Mods Added/Removed (Optional)
+      description: Did you add or remove any mods from the base pack before this happened?
+      placeholder: |
+        Added: Iris Shaders 1.8.13
+        Removed: None
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Crash Report / Logs
+      description: |
+        Paste relevant crash reports or log excerpts. Use a service like 
+        [mclo.gs](https://mclo.gs) or [Pastebin](https://pastebin.com) for 
+        long logs and share the link here.
+        **Do NOT paste full log files directly — they're hard to read.**
+      placeholder: |
+        Crash report: https://mclo.gs/xxxxxx
+        Latest log: https://mclo.gs/yyyyyy
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched existing issues to avoid duplicates
+          required: true
+        - label: I am using the exact mod versions listed in the pack (no unlisted mod swaps)
+          required: false
+        - label: I can reproduce this issue consistently
+          required: false
