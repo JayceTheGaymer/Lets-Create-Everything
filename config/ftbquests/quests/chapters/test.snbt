@@ -31,7 +31,7 @@
 					type: "item"
 				}
 			]
-			x: -1.5d
+			x: 1.0d
 			y: -0.5d
 		}
 		{
@@ -51,7 +51,7 @@
 				item: { count: 1, id: "betterbeginnings:stone_hatchet" }
 				type: "item"
 			}]
-			x: 0.5d
+			x: 2.5d
 			y: -0.5d
 		}
 		{
@@ -62,7 +62,7 @@
 				item: { count: 1, id: "minecraft:crafting_table" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 4.0d
 			y: -0.5d
 		}
 		{
@@ -73,7 +73,7 @@
 				item: { count: 1, id: "minecraft:stone_pickaxe" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 4.0d
 			y: -2.5d
 		}
 		{
@@ -91,6 +91,7 @@
 			dependencies: ["16475B0D00F1DF13"]
 			id: "29707092A53D4AAF"
 			tasks: [{
+				count: 3L
 				id: "125F0BB1DDE71002"
 				item: { count: 1, id: "minecraft:raw_copper" }
 				type: "item"
@@ -107,7 +108,7 @@
 				type: "item"
 			}]
 			x: 8.0d
-			y: -0.5d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -132,43 +133,29 @@
 				item: { count: 1, id: "minecraft:raw_iron" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 1.0d
+			x: 9.5d
+			y: -1.0d
 		}
 		{
-			dependencies: [
-				"7B51DA14155497B4"
-				"1AF4119006BBD07B"
-			]
-			dependency_requirement: "one_completed"
+			dependencies: ["553B12306F604327"]
 			id: "357C17BFAF372EB5"
 			tasks: [
 				{
-					id: "4DB1A0D908B2E5CD"
+					id: "5988A27D32FC2211"
+					item: { count: 1, id: "jayces_tweaks:iron_pickaxe_head" }
+					type: "item"
+				}
+				{
+					id: "348D2BB4CB2DADB6"
 					item: { count: 1, id: "minecraft:iron_pickaxe" }
 					type: "item"
 				}
-				{
-					id: "7EE645C12C419D97"
-					item: { count: 1, id: "minecraft:iron_axe" }
-					type: "item"
-				}
-				{
-					id: "05D7BDDF2AD93BC9"
-					item: { count: 1, id: "minecraft:iron_shovel" }
-					type: "item"
-				}
-				{
-					id: "38AFCB2CD4C9FDFA"
-					item: { count: 1, id: "minecraft:iron_sword" }
-					type: "item"
-				}
 			]
-			x: 14.5d
-			y: 1.0d
+			x: 15.5d
+			y: -1.0d
 		}
 		{
-			dependencies: ["2AAA8436F604C8F6"]
+			dependencies: ["7B51DA14155497B4"]
 			id: "2A00EF3CA92BE209"
 			rewards: [{
 				id: "397841E5A6DAF092"
@@ -190,8 +177,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -1.5d
+			x: 11.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["2A00EF3CA92BE209"]
@@ -208,8 +195,8 @@
 					type: "item"
 				}
 			]
-			x: 12.0d
-			y: -1.5d
+			x: 11.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["2D87E3C395E97550"]
@@ -219,8 +206,8 @@
 				item: { count: 1, id: "create:hand_crank" }
 				type: "item"
 			}]
-			x: 14.0d
-			y: -1.5d
+			x: 12.5d
+			y: -2.5d
 		}
 		{
 			dependencies: [
@@ -249,8 +236,35 @@
 					type: "item"
 				}
 			]
-			x: 12.0d
-			y: 0.0d
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1AF4119006BBD07B"]
+			id: "553B12306F604327"
+			rewards: [{
+				count: 3
+				id: "204BE6759A5EAD5F"
+				item: {
+					count: 1
+					id: "minecraft:charcoal"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5C6BDE72230C4664"
+					item: { count: 1, id: "createlowheated:basic_burner" }
+					type: "item"
+				}
+				{
+					id: "1B21B18BBD56104C"
+					item: { count: 1, id: "minecraft:flint_and_steel" }
+					type: "item"
+				}
+			]
+			x: 14.0d
+			y: -1.0d
 		}
 	]
 }

@@ -2,15 +2,24 @@
 	chapter.0F9A5B1205ECF47B.title: "Humble Beginings"
 	quest.16475B0D00F1DF13.quest_desc: ["Use 3 rocks and 2 sticks to get yourself a Stone Pickaxe. Don't get too excited, you can't even collect cobblestone with it."]
 	quest.16475B0D00F1DF13.title: "Baby's First Pick"
-	quest.1AF4119006BBD07B.quest_desc: ["In order to get your first set of Iron tools You will need the mechanical press and a basin, this is how you will get your tool heads. We recommend using the hand crank only for tool creation, where automating it gets funky."]
+	quest.1AF4119006BBD07B.quest_desc: ["In order to get your first set of Iron tools You will need the mechanical press and a basin, this is how you will get your tool heads. We recommend using the hand crank only for tool creation, where automating it gets funky without recipe filters."]
 	quest.29707092A53D4AAF.quest_desc: ["Now that you have a pickaxe your next stop is &miron&r copper! Look for it around the entrance to caves."]
 	quest.2AAA8436F604C8F6.quest_desc: [""]
-	quest.357C17BFAF372EB5.quest_desc: ["Smelt up your Raw Iron and craft your first Iron Pickaxe!"]
+	quest.357C17BFAF372EB5.quest_desc: [
+		"Smelt up your Raw Iron and craft your first Iron Pickaxe!"
+		""
+		"All other Iron tools will be made similarly, Remember to use JEI!"
+	]
 	quest.357C17BFAF372EB5.quest_subtitle: "Yes, this can actually mine stone."
-	quest.357C17BFAF372EB5.title: "Now That's A Pick!"
+	quest.357C17BFAF372EB5.title: "Now Thats A Pick!"
 	quest.4C42BD1E264F5365.quest_desc: ["Now that you have your sticks and stones, craft 1 of each into a hatchet. Use this to cut down your first trees."]
 	quest.54FB4C5B0F2890BA.quest_desc: ["To get your first Copper Ingots place your Raw Copper onto the campfire."]
 	quest.54FB4C5B0F2890BA.title: "3x Copper Ingots"
+	quest.553B12306F604327.quest_desc: [
+		"To work with iron, its gotta be heated! "
+		"Slap a basic burner under your basin, throw in some charcoal, and youll be able to craft some Iron tool heads!"
+	]
+	quest.553B12306F604327.title: "Heating"
 	quest.6CF4337005785644.quest_desc: ["Don't go trying to punch trees with your fist just yet. To get started you need to collect rocks from the ground and break some leaves to get sticks."]
 	quest.6CF4337005785644.quest_subtitle: "These may break your bones..."
 	quest.6CF4337005785644.title: "Sticks \\& Stones"
