@@ -1,14 +1,47 @@
 {
-	chapter.0F9A5B1205ECF47B.title: "Humble Beginings"
+	chapter.0F9A5B1205ECF47B.title: "Humble Beginnings"
+	chapter.73266F7C8B5E10EF.title: "Storage"
+	quest.0D0E239059813776.quest_desc: [
+		"Different mobs can be used with this,"
+		"Path block in a 7x7 around will speed up the RPM"
+		""
+		"Small Creatures: 128 Su"
+		""
+		"- Pig"
+		"- Sheep"
+		""
+		"Medium Creatures: 256 Su"
+		""
+		"- Cow"
+		"- Goat"
+		"- llama"
+		""
+		"Large Creatures: 512 Su"
+		""
+		"- Horse"
+		"- Camel"
+		""
+		"Paths:"
+		""
+		"- Poor: dirt, grass block"
+		"  .5x rpm multiplier"
+		""
+		"- normal: dirt path, gravel"
+		"  1x rpm multiplier"
+		""
+		"- Great: vanilla bricks, ice"
+		"  2x rpm multiplier"
+	]
 	quest.16475B0D00F1DF13.quest_desc: ["Use 3 rocks and 2 sticks to get yourself a Stone Pickaxe. Don't get too excited, you can't even collect cobblestone with it."]
 	quest.16475B0D00F1DF13.title: "Baby's First Pick"
 	quest.1AF4119006BBD07B.quest_desc: ["In order to get your first set of Iron tools You will need the mechanical press and a basin, this is how you will get your tool heads. We recommend using the hand crank only for tool creation, where automating it gets funky without recipe filters."]
 	quest.29707092A53D4AAF.quest_desc: ["Now that you have a pickaxe your next stop is &miron&r copper! Look for it around the entrance to caves."]
-	quest.2AAA8436F604C8F6.quest_desc: [""]
+	quest.2AAA8436F604C8F6.quest_desc: ["ahhh.. finally, having access to mining stone and iron, Sadly coal is still out of reach."]
 	quest.357C17BFAF372EB5.quest_desc: [
 		"Smelt up your Raw Iron and craft your first Iron Pickaxe!"
 		""
 		"All other Iron tools will be made similarly, Remember to use JEI!"
+		"Some tools require Iron Sheets, you could use a depot or a solid block replacing the basin."
 	]
 	quest.357C17BFAF372EB5.quest_subtitle: "Yes, this can actually mine stone."
 	quest.357C17BFAF372EB5.title: "Now Thats A Pick!"
