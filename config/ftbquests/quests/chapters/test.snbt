@@ -73,8 +73,8 @@
 				item: { count: 1, id: "minecraft:stone_pickaxe" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: -1.5d
+			x: 3.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["5E2B89D9EB7C3C39"]
@@ -84,8 +84,8 @@
 				item: { count: 1, id: "minecraft:campfire" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 0.5d
+			x: 5.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["16475B0D00F1DF13"]
@@ -95,8 +95,8 @@
 				item: { count: 1, id: "minecraft:raw_copper" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: -1.5d
+			x: 5.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["54FB4C5B0F2890BA"]
@@ -106,7 +106,7 @@
 				item: { count: 1, id: "betterbeginnings:copper_pickaxe" }
 				type: "item"
 			}]
-			x: 9.5d
+			x: 8.0d
 			y: -0.5d
 		}
 		{
@@ -121,8 +121,8 @@
 				item: { count: 1, id: "minecraft:copper_ingot" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -0.5d
+			x: 6.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["2AAA8436F604C8F6"]
@@ -132,19 +132,124 @@
 				item: { count: 1, id: "minecraft:raw_iron" }
 				type: "item"
 			}]
-			x: 11.0d
+			x: 10.0d
 			y: -0.5d
 		}
 		{
-			dependencies: ["7B51DA14155497B4"]
+			dependencies: [
+				"7B51DA14155497B4"
+				"1AF4119006BBD07B"
+			]
+			dependency_requirement: "one_completed"
 			id: "357C17BFAF372EB5"
+			tasks: [
+				{
+					id: "4DB1A0D908B2E5CD"
+					item: { count: 1, id: "minecraft:iron_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "7EE645C12C419D97"
+					item: { count: 1, id: "minecraft:iron_axe" }
+					type: "item"
+				}
+				{
+					id: "05D7BDDF2AD93BC9"
+					item: { count: 1, id: "minecraft:iron_shovel" }
+					type: "item"
+				}
+				{
+					id: "38AFCB2CD4C9FDFA"
+					item: { count: 1, id: "minecraft:iron_sword" }
+					type: "item"
+				}
+			]
+			x: 11.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2D87E3C395E97550"]
+			id: "2E947926FE633169"
 			tasks: [{
-				id: "4DB1A0D908B2E5CD"
-				item: { count: 1, id: "minecraft:iron_pickaxe" }
+				id: "687AF7455234491E"
+				item: { count: 1, id: "createhorsepower:horse_crank" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: -0.5d
+			x: 7.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["2AAA8436F604C8F6"]
+			id: "2A00EF3CA92BE209"
+			rewards: [{
+				id: "397841E5A6DAF092"
+				item: {
+					count: 1
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "590CD86F1ECAFC9F"
+					item: { count: 1, id: "create:andesite_alloy" }
+					type: "item"
+				}
+				{
+					id: "5C3F90175E370C27"
+					item: { count: 1, id: "create:andesite_casing" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2A00EF3CA92BE209"]
+			id: "2D87E3C395E97550"
+			tasks: [
+				{
+					id: "0AE4591B12361657"
+					item: { count: 1, id: "create:cogwheel" }
+					type: "item"
+				}
+				{
+					id: "6BED54DA2E5D90AB"
+					item: { count: 1, id: "create:shaft" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2D87E3C395E97550"]
+			id: "39307676CADEBE59"
+			tasks: [{
+				id: "4AB68FA0E3E29A69"
+				item: { count: 1, id: "create:hand_crank" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["2A00EF3CA92BE209"]
+			id: "1AF4119006BBD07B"
+			tasks: [
+				{
+					id: "617B7099D8EACFDB"
+					item: { count: 1, id: "create:mechanical_press" }
+					type: "item"
+				}
+				{
+					id: "3D0556D21149F0A8"
+					item: { count: 1, id: "create:basin" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -2.5d
 		}
 	]
 }
