@@ -133,7 +133,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: -0.5d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -164,19 +164,8 @@
 					type: "item"
 				}
 			]
-			x: 11.5d
-			y: -1.5d
-		}
-		{
-			dependencies: ["2D87E3C395E97550"]
-			id: "2E947926FE633169"
-			tasks: [{
-				id: "687AF7455234491E"
-				item: { count: 1, id: "createhorsepower:horse_crank" }
-				type: "item"
-			}]
-			x: 7.0d
-			y: -6.5d
+			x: 14.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["2AAA8436F604C8F6"]
@@ -201,8 +190,8 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
-			y: -2.5d
+			x: 10.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["2A00EF3CA92BE209"]
@@ -219,8 +208,8 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
-			y: -4.5d
+			x: 12.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["2D87E3C395E97550"]
@@ -230,12 +219,24 @@
 				item: { count: 1, id: "create:hand_crank" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: -6.5d
+			x: 14.0d
+			y: -1.5d
 		}
 		{
-			dependencies: ["2A00EF3CA92BE209"]
+			dependencies: [
+				"2A00EF3CA92BE209"
+				"39307676CADEBE59"
+			]
 			id: "1AF4119006BBD07B"
+			rewards: [{
+				count: 3
+				id: "5E68DDC4BDA2D68C"
+				item: {
+					count: 1
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "617B7099D8EACFDB"
@@ -248,8 +249,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: -2.5d
+			x: 12.0d
+			y: 0.0d
 		}
 	]
 }
