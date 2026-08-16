@@ -4,7 +4,16 @@
 	filename: "test"
 	group: ""
 	id: "0F9A5B1205ECF47B"
-	images: [ ]
+	images: [{
+		click_action: "none:"
+		height: 2.0d
+		id: "263945E4399DDA25"
+		image: "create_confectionery:textures/mob_effect/stimulation.png"
+		rotation: 0.0d
+		width: 2.0d
+		x: 8.5d
+		y: -3.0d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -32,7 +41,7 @@
 				}
 			]
 			x: 1.0d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["6CF4337005785644"]
@@ -52,7 +61,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["4C42BD1E264F5365"]
@@ -63,7 +72,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["5E2B89D9EB7C3C39"]
@@ -74,7 +83,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: -2.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["5E2B89D9EB7C3C39"]
@@ -85,7 +94,7 @@
 				type: "item"
 			}]
 			x: 5.5d
-			y: -0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["16475B0D00F1DF13"]
@@ -97,7 +106,7 @@
 				type: "item"
 			}]
 			x: 5.5d
-			y: -2.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["54FB4C5B0F2890BA"]
@@ -123,7 +132,7 @@
 				type: "item"
 			}]
 			x: 6.5d
-			y: -1.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["2AAA8436F604C8F6"]
