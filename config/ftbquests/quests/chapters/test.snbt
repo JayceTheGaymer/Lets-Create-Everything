@@ -1,0 +1,150 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "test"
+	group: ""
+	id: "0F9A5B1205ECF47B"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6CF4337005785644"
+			rewards: [{
+				count: 2
+				id: "19B2FF7EDAE77CCB"
+				item: {
+					count: 1
+					id: "minecraft:stick"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3CC0D35EEEB2B581"
+					item: { count: 1, id: "betterbeginnings:rock_block" }
+					type: "item"
+				}
+				{
+					id: "7F3AFC51B1DA6200"
+					item: { count: 1, id: "minecraft:stick" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6CF4337005785644"]
+			id: "4C42BD1E264F5365"
+			rewards: [{
+				count: 4
+				id: "400D54910CCC928C"
+				item: {
+					count: 1
+					id: "minecraft:apple"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "39680020FE240223"
+				item: { count: 1, id: "betterbeginnings:stone_hatchet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4C42BD1E264F5365"]
+			id: "5E2B89D9EB7C3C39"
+			tasks: [{
+				id: "589A4A19C34FAD48"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5E2B89D9EB7C3C39"]
+			id: "16475B0D00F1DF13"
+			tasks: [{
+				id: "03E87309A0809E1B"
+				item: { count: 1, id: "minecraft:stone_pickaxe" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5E2B89D9EB7C3C39"]
+			id: "16C7DD2BA3F67A5E"
+			tasks: [{
+				id: "06390EA117BE9072"
+				item: { count: 1, id: "minecraft:campfire" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["16475B0D00F1DF13"]
+			id: "29707092A53D4AAF"
+			tasks: [{
+				id: "125F0BB1DDE71002"
+				item: { count: 1, id: "minecraft:raw_copper" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["54FB4C5B0F2890BA"]
+			id: "2AAA8436F604C8F6"
+			tasks: [{
+				id: "70D3910A932531F9"
+				item: { count: 1, id: "betterbeginnings:copper_pickaxe" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"16C7DD2BA3F67A5E"
+				"29707092A53D4AAF"
+			]
+			id: "54FB4C5B0F2890BA"
+			tasks: [{
+				count: 3L
+				id: "5DCD44C33DF35713"
+				item: { count: 1, id: "minecraft:copper_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2AAA8436F604C8F6"]
+			id: "7B51DA14155497B4"
+			tasks: [{
+				id: "632BA7E94167F4CC"
+				item: { count: 1, id: "minecraft:raw_iron" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7B51DA14155497B4"]
+			id: "357C17BFAF372EB5"
+			tasks: [{
+				id: "4DB1A0D908B2E5CD"
+				item: { count: 1, id: "minecraft:iron_pickaxe" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -0.5d
+		}
+	]
+}
