@@ -41,7 +41,7 @@ rebornEnergyConversionCoefficient = 0.0625
 	#quarry Default: true
 	quarry = true
 	#adv_quarry Default: true
-	adv_quarry = true
+	adv_quarry = false
 	#mover Default: true
 	mover = true
 	#placer_plus Default: true
