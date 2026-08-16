@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "ABA",
+    "C#C"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:leathers"
+    },
+    "A": {
+      "item": "jayces_tweaks:leather_strap"
+    },
+    "B": {
+      "tag": "c:chests/wooden"
+    },
+    "C": {
+      "tag": "c:strings"
+    }
+  },
+  "result": {
+    "id": "sophisticatedbackpacks:backpack",
+    "count": 1,
+    "components": {
+      "sophisticatedcore:number_of_inventory_slots": 27,
+      "sophisticatedcore:number_of_upgrade_slots": 0
+    }
+  }
+}
