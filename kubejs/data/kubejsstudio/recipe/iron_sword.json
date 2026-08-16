@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "A"
+  ],
+  "key": {
+    "#": {
+      "item": "jayces_tweaks:iron_sword_blade"
+    },
+    "A": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+  }
+}
