@@ -128,7 +128,17 @@
 		{
 			dependencies: ["2AAA8436F604C8F6"]
 			id: "7B51DA14155497B4"
+			rewards: [{
+				count: 8
+				id: "4A8B733B3C549A5D"
+				item: {
+					count: 1
+					id: "minecraft:raw_iron"
+				}
+				type: "item"
+			}]
 			tasks: [{
+				count: 8L
 				id: "632BA7E94167F4CC"
 				item: { count: 1, id: "minecraft:raw_iron" }
 				type: "item"
@@ -178,36 +188,18 @@
 				}
 			]
 			x: 11.0d
-			y: -1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["2A00EF3CA92BE209"]
-			id: "2D87E3C395E97550"
-			tasks: [
-				{
-					id: "0AE4591B12361657"
-					item: { count: 1, id: "create:cogwheel" }
-					type: "item"
-				}
-				{
-					id: "6BED54DA2E5D90AB"
-					item: { count: 1, id: "create:shaft" }
-					type: "item"
-				}
-			]
-			x: 11.0d
-			y: -2.5d
-		}
-		{
-			dependencies: ["2D87E3C395E97550"]
 			id: "39307676CADEBE59"
 			tasks: [{
 				id: "4AB68FA0E3E29A69"
 				item: { count: 1, id: "create:hand_crank" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: -2.5d
+			x: 11.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -265,6 +257,80 @@
 			]
 			x: 14.0d
 			y: -1.0d
+		}
+		{
+			dependencies: ["6BF4935C9315EA0B"]
+			id: "136FA8005C646988"
+			tasks: [
+				{
+					id: "710864CF314BCF4F"
+					item: { components: { "sophisticatedcore:number_of_inventory_slots": 27, "sophisticatedcore:number_of_upgrade_slots": 0 }, count: 1, id: "sophisticatedbackpacks:backpack" }
+					type: "item"
+				}
+				{
+					id: "618BB6149EC12745"
+					item: { count: 1, id: "minecraft:leather" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "5D88EAD8EBC445E8"
+					item: { count: 1, id: "jayces_tweaks:leather_strip" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "061F1525BC90E770"
+					item: { count: 1, id: "jayces_tweaks:leather_strap" }
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["0D0E239059813776"]
+			id: "6BF4935C9315EA0B"
+			tasks: [{
+				id: "4B26C901A7ED512C"
+				item: { count: 1, id: "create:mechanical_saw" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["39307676CADEBE59"]
+			id: "0D0E239059813776"
+			tasks: [{
+				id: "550235B7C5E055EF"
+				item: { count: 1, id: "createhorsepower:horse_crank" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0D0E239059813776"]
+			id: "3DC3C055D3CAC041"
+			tasks: [{
+				id: "4DF650155876F89E"
+				item: { count: 1, id: "create:millstone" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0D0E239059813776"]
+			id: "05385743C91B10EF"
+			tasks: [{
+				id: "67AC57CCF468982D"
+				item: { count: 1, id: "create:depot" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -4.5d
 		}
 	]
 }
