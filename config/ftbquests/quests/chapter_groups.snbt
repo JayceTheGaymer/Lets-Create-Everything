@@ -1,3 +1,6 @@
 {
-	chapter_groups: [ ]
+	chapter_groups: [
+		{ id: "67189B7E1ED0A8FD" }
+		{ id: "2FD7CB0B96627668" }
+	]
 }

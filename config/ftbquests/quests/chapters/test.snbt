@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "test"
-	group: ""
+	group: "67189B7E1ED0A8FD"
 	id: "0F9A5B1205ECF47B"
 	images: [{
 		click_action: "none:"
@@ -312,6 +312,7 @@
 		{
 			dependencies: ["39307676CADEBE59"]
 			id: "0D0E239059813776"
+			shape: "gear"
 			tasks: [{
 				id: "550235B7C5E055EF"
 				item: { count: 1, id: "createhorsepower:horse_crank" }

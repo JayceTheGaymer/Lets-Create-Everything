@@ -1,0 +1,76 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_power"
+	group: "2FD7CB0B96627668"
+	id: "06DCDD4E47C714FE"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0D0E239059813776"]
+			id: "585731D1D1090925"
+			shape: "gear"
+			tasks: [{
+				id: "283A1027329B7ED2"
+				item: { count: 1, id: "createhorsepower:horse_crank" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "7BA11EA3FE58F587"
+			tasks: [{
+				id: "0F15CE206475C9A3"
+				item: { count: 1, id: "create:water_wheel" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "4A50AA5B33B1BC52"
+			tasks: [{
+				id: "5BA197999DB7DF15"
+				item: { count: 1, id: "create:white_sail" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "51E7AF47FBB54723"
+			tasks: [{
+				id: "63305588B17AE347"
+				item: { count: 1, id: "create:large_water_wheel" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1FD466E1ACF4B299"]
+			id: "5713D602851800E8"
+			tasks: [{
+				id: "26B0E1ECF3B079F9"
+				item: { count: 1, id: "create:steam_engine" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			id: "1FD466E1ACF4B299"
+			shape: "gear"
+			tasks: [{
+				id: "3DDD4F0FFC09E34C"
+				item: { count: 1, id: "create:brass_ingot" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+	]
+}
