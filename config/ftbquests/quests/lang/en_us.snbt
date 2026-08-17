@@ -41,6 +41,17 @@
 	quest.16475B0D00F1DF13.quest_desc: ["Use 3 rocks and 2 sticks to get yourself a Stone Pickaxe. Don't get too excited, you can't even collect cobblestone with it."]
 	quest.16475B0D00F1DF13.title: "Baby's First Pick"
 	quest.1AF4119006BBD07B.quest_desc: ["In order to get your first set of Iron tools You will need the mechanical press and a basin, this is how you will get your tool heads. We recommend using the hand crank only for tool creation, where automating it gets funky without recipe filters."]
+	quest.2647B21344C5A841.quest_desc: [
+		"To process &9Lapis&r youll need to right click &9Rough Lazurite&r on a &7Grindstone&r!"
+		""
+		"However if you want to process &bDiamonds&r and &aEmeralds&r you'll need to craft the &bDiamond Grindstone&r!"
+		""
+		"Right clicking &aRough Emerald&r and &bRough Diamond&r onto the &bDiamond Grindstone&r will give you &bDiamonds&r and &aEmeralds&r!"
+		""
+		"The &bDiamond Grindstone&r depletes by 3 stages, once it hits depleted 3 you will need to shift right click"
+		"&bDiamond Shards&r onto the &bDiamond Grindstone&r to repair it."
+	]
+	quest.2647B21344C5A841.quest_subtitle: "Ore no! It's Spelunkery!"
 	quest.29707092A53D4AAF.quest_desc: ["Now that you have a pickaxe your next stop is &miron&r copper! Look for it around the entrance to caves."]
 	quest.2AAA8436F604C8F6.quest_desc: ["ahhh.. finally, having access to mining stone and iron, Sadly coal is still out of reach."]
 	quest.357C17BFAF372EB5.quest_desc: [
