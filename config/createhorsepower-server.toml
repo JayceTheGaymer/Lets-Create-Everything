@@ -31,10 +31,10 @@ poorPathBlock = ["minecraft:dirt", "minecraft:grass_block"]
 #Types of blocks valid as "Normal" quality
 normalPathBlock = ["minecraft:dirt_path", "minecraft:gravel"]
 #Types of blocks valid as "Great" quality
-greatPathBlock = ["minecraft:ice", "minecraft:packed_ice", "minecraft:blue_ice"]
+greatPathBlock = ["minecraft:ice", "minecraft:packed_ice", "minecraft:bricks"]
 #Valid "Small" creatures
-smallCreatures = ["minecraft:wolf"]
+smallCreatures = ["minecraft:pig", "minecraft:sheep"]
 #Valid "Medium" creatures
-mediumCreatures = ["minecraft:cow"]
+mediumCreatures = ["minecraft:cow", "minecraft:goat", "minecraft:llama"]
 #Valid "Large" creatures
-largeCreatures = ["minecraft:horse"]
+largeCreatures = ["minecraft:horse", "minecraft:camel"]

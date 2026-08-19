@@ -19,7 +19,7 @@
 	calcite_generator = true
 	deepslate_generator = true
 	creative_tab = true
-	sugi_and_stratified_pillars = true
+	sugi_and_stratified_pillars = false
 
 [datapack]
 	vanilla_trees_toggle = false
