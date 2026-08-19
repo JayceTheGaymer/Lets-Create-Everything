@@ -1,9 +1,11 @@
 {
-	chapter.06DCDD4E47C714FE.title: "Create Power!"
+	chapter.06DCDD4E47C714FE.title: "Create"
 	chapter.0F9A5B1205ECF47B.title: "Humble Beginnings"
 	chapter.73266F7C8B5E10EF.title: "Storage"
 	chapter_group.2FD7CB0B96627668.title: "Automation"
 	chapter_group.67189B7E1ED0A8FD.title: "Getting Started"
+	quest.05385743C91B10EF.quest_desc: ["You don't &oneed&r a &lDepot&r but it does make some Mechanical Press recipes a little easier."]
+	quest.05385743C91B10EF.quest_subtitle: "Not necessary, but helpful."
 	quest.0D0E239059813776.quest_desc: [
 		"Different mobs can be attached to the &bHorse Crank&r with a lead. How well they perform is up to you."
 		""
@@ -40,10 +42,16 @@
 		"- &aGreat:&r vanilla bricks, ice"
 		"  &62x rpm multiplier&r"
 	]
-	quest.0D0E239059813776.quest_subtitle: "Time For Horsing Around"
+	quest.0D0E239059813776.quest_subtitle: "Quit horsing around!"
+	quest.109938A7176DF606.quest_desc: ["Make sure to collect a few &6Blaze Rods&r, you'll need them for later. Also, if you've started to dive further into Create take a look at the &l&nBlaze Burner&r&r quest."]
 	quest.16475B0D00F1DF13.quest_desc: ["Use 3 rocks and 2 sticks to get yourself a Stone Pickaxe. Don't get too excited, you can't even collect cobblestone with it."]
 	quest.16475B0D00F1DF13.title: "Baby's First Pick"
-	quest.1AF4119006BBD07B.quest_desc: ["In order to get your first set of Iron tools You will need the mechanical press and a basin, this is how you will get your tool heads. We recommend using the hand crank only for tool creation, where automating it gets funky without recipe filters."]
+	quest.16C7DD2BA3F67A5E.quest_subtitle: "C A M P F I R E S O N G SONG!"
+	quest.1AF4119006BBD07B.quest_desc: [
+		"In order to get your first set of Iron tools you will need the &lMechanical Press&r and a &lBasin&r, this is how you will get your tool heads."
+		""
+		"We recommend using the hand crank only for tool creation, as automating it can get funky without recipe filters which you likely don't have yet."
+	]
 	quest.2647B21344C5A841.quest_desc: [
 		"To process &9Lapis&r youll need to right click &9Rough Lazurite&r on a &7Grindstone&r!"
 		""
@@ -55,26 +63,62 @@
 		"&bDiamond Shards&r onto the &bDiamond Grindstone&r to repair it."
 	]
 	quest.2647B21344C5A841.quest_subtitle: "Ore no! It's Spelunkery!"
-	quest.29707092A53D4AAF.quest_desc: ["Now that you have a pickaxe your next stop is &miron&r copper! Look for it around the entrance to caves."]
-	quest.2AAA8436F604C8F6.quest_desc: ["ahhh.. finally, having access to mining stone and iron, Sadly coal is still out of reach."]
+	quest.29707092A53D4AAF.quest_desc: ["Now that you have a pickaxe your next stop is &miron&r &6copper&r! Look for it around the entrance to caves."]
+	quest.2A00EF3CA92BE209.quest_desc: [
+		"To get started with Create (and subsequently get your Iron Pickaxe) you're going to need &l&7Andesite Alloy&r&r, and a whole lot more the further you go."
+		""
+		"Start by collecting some &7&lAndesite&r&r and either Zinc or Iron nuggets."
+	]
+	quest.2A00EF3CA92BE209.quest_subtitle: "The key to Create"
+	quest.2AAA8436F604C8F6.quest_desc: ["Ahhh.. finally, having access to mining stone and iron. Sadly coal is still out of reach, but we're taking baby steps here."]
+	quest.2E2D6D1F41D7BA21.quest_desc: [
+		"Something might look a little different if you haven't played a lot of modpacks, that's thanks to YUNG!"
+		""
+		"Take some time to look around and explore the redesigned fortress. While you're at it you may as well stuff your pockets (and backpack) with all the treausers inside!"
+	]
 	quest.357C17BFAF372EB5.quest_desc: [
-		"Smelt up your Raw Iron and craft your first Iron Pickaxe!"
+		"Smelt up your Raw Iron and craft your first &lIron Pickaxe!&r"
 		""
 		"All other Iron tools will be made similarly, Remember to use JEI!"
-		"Some tools require Iron Sheets, you could use a depot or a solid block replacing the basin."
+		"Some tools require Iron Sheets, with the mechanical press you could use a depot or a solid block replacing the basin to create them."
 	]
 	quest.357C17BFAF372EB5.quest_subtitle: "Yes, this can actually mine stone."
 	quest.357C17BFAF372EB5.title: "Now Thats A Pick!"
-	quest.4C42BD1E264F5365.quest_desc: ["Now that you have your sticks and stones, craft 1 of each into a hatchet. Use this to cut down your first trees."]
-	quest.54FB4C5B0F2890BA.quest_desc: ["To get your first Copper Ingots place your Raw Copper onto the campfire."]
+	quest.39307676CADEBE59.quest_desc: [
+		"Your first source of &bRotational Power&r to begin your journey into &6Create!&r This power source will make you hungry quickly and requires you to constantly crank it to keep your machines going."
+		""
+		"Don't worry though, soon we'll &mexploit&r enlist an animal or two to help out!"
+	]
+	quest.39307676CADEBE59.quest_subtitle: "You powered machinary!"
+	quest.39307676CADEBE59.title: "Hand Crank"
+	quest.3AB2F38FBA28F641.quest_subtitle: "Have some water, it's hot down here."
+	quest.3DC3C055D3CAC041.quest_subtitle: "MAYBE MOVE TO CREATE CHAPTER?"
+	quest.4C42BD1E264F5365.quest_desc: ["Now that you have your sticks and stones, craft 1 of each into a &lhatchet&r. Use this to cut down your first trees."]
+	quest.54FB4C5B0F2890BA.quest_desc: ["To get your first &6Copper Ingots&r place your Raw Copper onto the campfire."]
 	quest.54FB4C5B0F2890BA.title: "3x Copper Ingots"
 	quest.553B12306F604327.quest_desc: [
-		"To work with iron, its gotta be heated! "
-		"Slap a basic burner under your basin, throw in some charcoal, and youll be able to craft some Iron tool heads!"
+		"To work with iron, its gotta be &4heated&r! "
+		"Slap a Basic Burner under your Basin, throw in some charcoal, light it, and you'll be able to craft some iron tool heads!"
+		""
+		""
+		"{image:nonamepack:textures/quests/low_heated_compactor.png width:100 height:100 align:center fit:true}"
 	]
+	quest.553B12306F604327.quest_subtitle: "It's getting hot in here..."
 	quest.553B12306F604327.title: "Heating"
-	quest.6CF4337005785644.quest_desc: ["Don't go trying to punch trees with your fist just yet. To get started you need to collect rocks from the ground and break some leaves to get sticks."]
+	quest.5E2B89D9EB7C3C39.quest_subtitle: "It is called MineCRAFT after all"
+	quest.6791E24A9CFA844A.quest_desc: [
+		"While you're exploring the fortress you'll likely enounter a few Wither Skeletons that are trying to &mkill you&r give you hugs. Be sure to &mcollect their skulls&r hug them back!"
+		""
+		"Once you have 3 of them, if you feel prepared, you can take on the Wither!"
+	]
+	quest.6791E24A9CFA844A.title: "Spooky Scary Skeletons"
+	quest.6CF4337005785644.quest_desc: ["Don't go trying to punch trees with your fist just yet. To get started you need to collect &7&lrocks&r&r from the ground and break some leaves to get sticks."]
 	quest.6CF4337005785644.quest_subtitle: "These may break your bones..."
 	quest.6CF4337005785644.title: "Sticks \\& Stones"
-	quest.7B51DA14155497B4.quest_desc: ["Now that you have a Copper Pickaxe, it's finally time to go collect some Raw Iron."]
+	quest.7B51DA14155497B4.quest_desc: ["Now that you have a &6Copper Pickaxe&r, it's finally time to go collect some Raw Iron. Don't rush to crafting an Iron Pickaxe though. First, you have to dip into Create."]
+	quest.7B51DA14155497B4.quest_subtitle: "Don't let it rust though"
+	quest.7B51DA14155497B4.title: "Time for iron!"
+	task.2B6189EA1DC50557.title: "Storm The Fortress!"
+	task.6077E4F3B91394D2.title: "Blaze"
+	task.653DAD8BB0F61C91.title: "We Need To Go Deeper"
 }

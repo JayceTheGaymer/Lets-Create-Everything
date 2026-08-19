@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "create_power"
 	group: "2FD7CB0B96627668"
+	icon: {
+		id: "create:wrench"
+	}
 	id: "06DCDD4E47C714FE"
 	images: [ ]
 	order_index: 0

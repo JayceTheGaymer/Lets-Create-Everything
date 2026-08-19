@@ -3,17 +3,11 @@
 	default_quest_shape: ""
 	filename: "test"
 	group: "67189B7E1ED0A8FD"
+	icon: {
+		id: "minecraft:oak_log"
+	}
 	id: "0F9A5B1205ECF47B"
-	images: [{
-		click_action: "none:"
-		height: 2.0d
-		id: "263945E4399DDA25"
-		image: "create_confectionery:textures/mob_effect/stimulation.png"
-		rotation: 0.0d
-		width: 2.0d
-		x: 8.5d
-		y: -3.0d
-	}]
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -77,6 +71,14 @@
 		{
 			dependencies: ["5E2B89D9EB7C3C39"]
 			id: "16475B0D00F1DF13"
+			rewards: [{
+				id: "5A31E6E88DE03834"
+				item: {
+					count: 1
+					id: "betterbeginnings:rock_block"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "03E87309A0809E1B"
 				item: { count: 1, id: "minecraft:stone_pickaxe" }
@@ -111,6 +113,14 @@
 		{
 			dependencies: ["54FB4C5B0F2890BA"]
 			id: "2AAA8436F604C8F6"
+			rewards: [{
+				id: "513729CDB30158D4"
+				item: {
+					count: 1
+					id: "minecraft:cookie"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "70D3910A932531F9"
 				item: { count: 1, id: "betterbeginnings:copper_pickaxe" }
@@ -125,6 +135,15 @@
 				"29707092A53D4AAF"
 			]
 			id: "54FB4C5B0F2890BA"
+			rewards: [{
+				count: 3
+				id: "04513E9788C5C59A"
+				item: {
+					count: 1
+					id: "minecraft:raw_copper"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 3L
 				id: "5DCD44C33DF35713"
@@ -158,6 +177,15 @@
 		{
 			dependencies: ["553B12306F604327"]
 			id: "357C17BFAF372EB5"
+			rewards: [{
+				count: 3
+				id: "0E63EBD72579811E"
+				item: {
+					count: 1
+					id: "minecraft:raw_iron"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "5988A27D32FC2211"
@@ -270,7 +298,6 @@
 		{
 			dependencies: ["6BF4935C9315EA0B"]
 			id: "136FA8005C646988"
-			shape: "gear"
 			tasks: [
 				{
 					id: "710864CF314BCF4F"
@@ -335,6 +362,7 @@
 		{
 			dependencies: ["0D0E239059813776"]
 			id: "05385743C91B10EF"
+			optional: true
 			tasks: [{
 				id: "67AC57CCF468982D"
 				item: { count: 1, id: "create:depot" }
@@ -422,6 +450,109 @@
 			]
 			x: 17.0d
 			y: -1.0d
+		}
+		{
+			dependencies: ["6C13696A75659F6E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "3AB2F38FBA28F641"
+			rewards: [{
+				id: "7729E4359CCDAC22"
+				item: {
+					components: {
+						"minecraft:potion_contents": {
+							potion: "minecraft:water"
+						}
+					}
+					count: 1
+					id: "minecraft:potion"
+				}
+				type: "item"
+			}]
+			shape: "none"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:block/nether_portal"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "653DAD8BB0F61C91"
+				type: "dimension"
+			}]
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3AB2F38FBA28F641"]
+			id: "2E2D6D1F41D7BA21"
+			rewards: [{
+				id: "7D4B29BCC822F649"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "supplementaries:textures/map/decorations/nether_fortress.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "2B6189EA1DC50557"
+				structure: "betterfortresses:fortress"
+				type: "structure"
+			}]
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2E2D6D1F41D7BA21"]
+			id: "109938A7176DF606"
+			rewards: [{
+				count: 3
+				id: "740E2D06092D1B18"
+				item: {
+					count: 1
+					id: "minecraft:blaze_rod"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:blaze"
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:item/blaze_rod"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "6077E4F3B91394D2"
+				type: "kill"
+				value: 3L
+			}]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2E2D6D1F41D7BA21"]
+			id: "6791E24A9CFA844A"
+			rewards: [{
+				count: 4
+				id: "6120E90560E6ED78"
+				item: {
+					count: 1
+					id: "minecraft:soul_sand"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 3L
+				id: "4050627EB05E0700"
+				item: { count: 1, id: "minecraft:wither_skeleton_skull" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.5d
 		}
 	]
 }

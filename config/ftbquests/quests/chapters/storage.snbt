@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "storage"
 	group: "67189B7E1ED0A8FD"
+	icon: {
+		id: "toms_storage:storage_terminal"
+	}
 	id: "73266F7C8B5E10EF"
 	images: [ ]
 	order_index: 1
@@ -11,7 +14,6 @@
 		{
 			dependencies: ["136FA8005C646988"]
 			id: "0376A791F9A7EA05"
-			shape: "gear"
 			tasks: [{
 				id: "257EAAF5E2C3AAAE"
 				item: { components: { "sophisticatedcore:number_of_inventory_slots": 27, "sophisticatedcore:number_of_upgrade_slots": 0 }, count: 1, id: "sophisticatedbackpacks:backpack" }
