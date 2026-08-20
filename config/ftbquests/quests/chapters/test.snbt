@@ -554,5 +554,20 @@
 			x: 7.0d
 			y: 5.5d
 		}
+		{
+			dependencies: ["6791E24A9CFA844A"]
+			id: "21EA72337097ADBF"
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: {
+					id: "minecraft:nether_star"
+				}
+				id: "5E61D5953E0044B4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: 7.5d
+		}
 	]
 }

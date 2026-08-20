@@ -52,6 +52,8 @@
 		""
 		"We recommend using the hand crank only for tool creation, as automating it can get funky without recipe filters which you likely don't have yet."
 	]
+	quest.21EA72337097ADBF.quest_desc: ["{image:entity:minecraft:wither width:96 height:96 align:center}"]
+	quest.21EA72337097ADBF.quest_subtitle: "Are you ready?"
 	quest.2647B21344C5A841.quest_desc: [
 		"To process &9Lapis&r youll need to right click &9Rough Lazurite&r on a &7Grindstone&r!"
 		""
@@ -119,6 +121,7 @@
 	quest.7B51DA14155497B4.quest_subtitle: "Don't let it rust though"
 	quest.7B51DA14155497B4.title: "Time for iron!"
 	task.2B6189EA1DC50557.title: "Storm The Fortress!"
+	task.5E61D5953E0044B4.title: "Kill the Wither"
 	task.6077E4F3B91394D2.title: "Blaze"
 	task.653DAD8BB0F61C91.title: "We Need To Go Deeper"
 }
