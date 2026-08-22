@@ -36,10 +36,11 @@ Links to GitHub issue(s) if one exists.
 
 ## Blazes & Mob Fire Invisible
 
-**Status:** 🟡 Pending Investigation
+**Status:** ⚠️ Workaround Exists
 
 **Mods Affected:**
-- N/A
+- Jaden's Nether Expansion
+- Iris Shaders
 
 **Severity:** 🟡 Moderate
 
@@ -47,10 +48,10 @@ Links to GitHub issue(s) if one exists.
 Blaze models are completely invisible with only smoke particles seen and if a mob is on fire the fire is not visible. Believed these are related.
 
 **Root Cause (if known):**
-Unknown.
+Jaden's Nether Expansion makes several changes to fire particles and effects. These changes conflict with Iris Shaders. Some users have reported online that disabling these effects in the config solves the issue. Testing did not have the same results.
 
 **Workaround / Resolution:**
-Unknown.
+Attempted disabling effects in config, did not fix it. Current workaround is disabling Jaden's Nether Expansion. Mod may be removed at a later point entirely.
 
 **Related:**
 N/A
