@@ -604,19 +604,19 @@
 				item: { count: 1, id: "toms_storage:inventory_connector" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -3.5d
+			x: -1.0d
+			y: -3.0d
 		}
 		{
-			dependencies: ["190A54FA76E605B5"]
+			dependencies: ["2F6A6F49E6FDBDF0"]
 			id: "61A778F0F80DE9CC"
 			tasks: [{
 				id: "2382A01A602B77F0"
 				item: { count: 1, id: "toms_storage:storage_terminal" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -3.5d
+			x: 0.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["61A778F0F80DE9CC"]
@@ -626,38 +626,41 @@
 				item: { count: 1, id: "toms_storage:crafting_terminal" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: -3.5d
+			x: 2.0d
+			y: -3.0d
 		}
 		{
+			dependencies: ["2F6A6F49E6FDBDF0"]
 			id: "0718A7ABAFEACF56"
 			tasks: [{
 				id: "6363B2C7F2B981BF"
 				item: { count: 1, id: "toms_storage:inventory_cable" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -5.0d
+			x: 0.5d
+			y: -4.5d
 		}
 		{
+			dependencies: ["2F6A6F49E6FDBDF0"]
 			id: "59C13A411CB983E1"
 			tasks: [{
 				id: "78080DB8631D7FB6"
 				item: { count: 1, id: "toms_storage:inventory_configurator" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: -3.5d
+			x: -2.5d
+			y: -3.0d
 		}
 		{
+			dependencies: ["2F6A6F49E6FDBDF0"]
 			id: "190A54FA76E605B5"
 			tasks: [{
 				id: "4AB8D2D1F75DA659"
 				item: { count: 1, id: "toms_storage:inventory_interface" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -3.5d
+			x: -1.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["38BCC378C7ED6C29"]
@@ -782,6 +785,68 @@
 			}]
 			x: 11.5d
 			y: -6.0d
+		}
+		{
+			dependencies: ["59C13A411CB983E1"]
+			id: "10A2C829DB91A106"
+			tasks: [
+				{
+					id: "1810B2B4E5475343"
+					item: { count: 1, id: "toms_storage:item_filter" }
+					type: "item"
+				}
+				{
+					id: "543334E2FC95BB04"
+					item: { count: 1, id: "toms_storage:polymorphic_item_filter" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["70FC6C6FF5458E12"]
+			id: "0DE72F7DD2E2422B"
+			tasks: [{
+				id: "53374AE0E66CA741"
+				item: { count: 1, id: "toms_storage:wireless_terminal" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0DE72F7DD2E2422B"]
+			id: "0F2C4185701E5DCC"
+			tasks: [{
+				id: "567272325F713265"
+				item: { count: 1, id: "toms_storage:adv_wireless_terminal" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0F2C4185701E5DCC"]
+			id: "4348EF13457DBBD2"
+			tasks: [{
+				id: "14F0AC8EB9C915C5"
+				item: { count: 1, id: "minecraft:beacon" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["38BCC378C7ED6C29"]
+			id: "63F4BD414FD42479"
+			tasks: [{
+				id: "764EEC599D56F6D7"
+				item: { count: 1, id: "functionalstorage:fluid_1" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -8.5d
 		}
 	]
 }
