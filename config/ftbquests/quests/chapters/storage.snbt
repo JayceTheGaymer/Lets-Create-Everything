@@ -9,7 +9,7 @@
 	}
 	id: "73266F7C8B5E10EF"
 	images: [ ]
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -640,6 +640,26 @@
 			}]
 			x: -0.5d
 			y: 11.5d
+		}
+		{
+			id: "38BCC378C7ED6C29"
+			tasks: [{
+				id: "6F036C17EF68AA8B"
+				item: { count: 1, id: "functionalstorage:storage_controller" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "2F6A6F49E6FDBDF0"
+			tasks: [{
+				id: "57B2FA7284B9ED28"
+				item: { count: 1, id: "toms_storage:inventory_connector" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
 		}
 	]
 }

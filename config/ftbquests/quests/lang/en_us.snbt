@@ -1,9 +1,23 @@
 {
-	chapter.06DCDD4E47C714FE.title: "Create"
+	chapter.06DCDD4E47C714FE.title: "Main"
 	chapter.0F9A5B1205ECF47B.title: "Humble Beginnings"
+	chapter.28B6BC235F495499.title: "Tips and Tricks"
+	chapter.2B6E8490DA9EA7F6.title: "Logistics"
+	chapter.34F3310DB1738B84.title: "Farming With Create"
+	chapter.35DC3403618653DE.title: "Hexalia"
+	chapter.3951F8DB09323F41.title: "The Factory Must Grow"
+	chapter.47FE06F133E44270.title: "Powerful Pots"
+	chapter.558617BD05AB8337.title: "Aeronautics"
+	chapter.6653667F232C5AE5.title: "Enchantment Industry"
+	chapter.6F58124B4E3A55C7.title: "Farmers Delight"
+	chapter.7077BB47F08FC3C9.title: "Welcome"
 	chapter.73266F7C8B5E10EF.title: "Storage"
-	chapter_group.2FD7CB0B96627668.title: "Automation"
-	chapter_group.67189B7E1ED0A8FD.title: "Getting Started"
+	chapter.7E7D896806AD6356.title: "Getting an Upgrade"
+	chapter_group.2FD7CB0B96627668.title: "&eCreate"
+	chapter_group.3D9C656A01DEE4F8.title: "&aFarming"
+	chapter_group.4B8D942BD15204CD.title: "&dMystical \\& Magical"
+	chapter_group.67189B7E1ED0A8FD.title: "&bGetting Started"
+	chapter_group.718FD040212D6C62.title: "Introduction"
 	quest.05385743C91B10EF.quest_desc: ["You don't &oneed&r a &lDepot&r but it does make some Mechanical Press recipes a little easier."]
 	quest.05385743C91B10EF.quest_subtitle: "Not necessary, but helpful."
 	quest.0D0E239059813776.quest_desc: [
@@ -44,6 +58,7 @@
 	]
 	quest.0D0E239059813776.quest_subtitle: "Quit horsing around!"
 	quest.109938A7176DF606.quest_desc: ["Make sure to collect a few &6Blaze Rods&r, you'll need them for later. Also, if you've started to dive further into Create take a look at the &l&nBlaze Burner&r&r quest."]
+	quest.15B8A416EE240939.title: "Book Shelves"
 	quest.16475B0D00F1DF13.quest_desc: ["Use 3 rocks and 2 sticks to get yourself a Stone Pickaxe. Don't get too excited, you can't even collect cobblestone with it."]
 	quest.16475B0D00F1DF13.title: "Baby's First Pick"
 	quest.16C7DD2BA3F67A5E.quest_subtitle: "C A M P F I R E S O N G SONG!"
@@ -73,6 +88,7 @@
 	]
 	quest.2A00EF3CA92BE209.quest_subtitle: "The key to Create"
 	quest.2AAA8436F604C8F6.quest_desc: ["Ahhh.. finally, having access to mining stone and iron. Sadly coal is still out of reach, but we're taking baby steps here."]
+	quest.2AAE061C954D7E04.quest_desc: ["Placing a handle on a contraption lets you pull and move your contraption around!"]
 	quest.2E2D6D1F41D7BA21.quest_desc: [
 		"Something might look a little different if you haven't played a lot of modpacks, that's thanks to YUNG!"
 		""
@@ -94,8 +110,14 @@
 	quest.39307676CADEBE59.quest_subtitle: "You powered machinary!"
 	quest.39307676CADEBE59.title: "Hand Crank"
 	quest.3AB2F38FBA28F641.quest_subtitle: "Have some water, it's hot down here."
+	quest.3C93AD1A6F98B62B.quest_desc: [
+		"Arguably the most neccesary component to &zAeronautics&r: The &3Contraption Diagram&r!"
+		""
+		"Place this onto your contraption and right click it, you can see the effect of mass, gravity, and even watch your center of mass."
+	]
 	quest.3DC3C055D3CAC041.quest_subtitle: "MAYBE MOVE TO CREATE CHAPTER?"
 	quest.4C42BD1E264F5365.quest_desc: ["Now that you have your sticks and stones, craft 1 of each into a &lhatchet&r. Use this to cut down your first trees."]
+	quest.4E928F73B2BDB3E6.title: "Take To The Sky"
 	quest.54FB4C5B0F2890BA.quest_desc: ["To get your first &6Copper Ingots&r place your Raw Copper onto the campfire."]
 	quest.54FB4C5B0F2890BA.title: "3x Copper Ingots"
 	quest.553B12306F604327.quest_desc: [
@@ -117,10 +139,19 @@
 	quest.6CF4337005785644.quest_desc: ["Don't go trying to punch trees with your fist just yet. To get started you need to collect &7&lrocks&r&r from the ground and break some leaves to get sticks."]
 	quest.6CF4337005785644.quest_subtitle: "These may break your bones..."
 	quest.6CF4337005785644.title: "Sticks \\& Stones"
+	quest.707A04EA9F99F727.quest_desc: [
+		"By placing a &#994D1BPhysics Assembler&r on a block and flipping the lever you get a simulated physics block, which roll tumble and fall."
+		""
+		"You can then build onto that block to build a contraption or you can just build you contraption, glue it together, and then place a &#994D1BPhysics Assembler&r onto the contraption to activate its simulated physics."
+	]
+	quest.707A04EA9F99F727.quest_subtitle: "Lets Get Physical"
+	quest.707A04EA9F99F727.title: "Your First Contraption"
 	quest.7B51DA14155497B4.quest_desc: ["Now that you have a &6Copper Pickaxe&r, it's finally time to go collect some Raw Iron. Don't rush to crafting an Iron Pickaxe though. First, you have to dip into Create."]
 	quest.7B51DA14155497B4.quest_subtitle: "Don't let it rust though"
 	quest.7B51DA14155497B4.title: "Time for iron!"
 	task.2B6189EA1DC50557.title: "Storm The Fortress!"
+	task.4C3076E2E49B30C9.title: "Book Shelves"
+	task.58BC83970537FFF1.title: "Helpful Tools"
 	task.5E61D5953E0044B4.title: "Kill the Wither"
 	task.6077E4F3B91394D2.title: "Blaze"
 	task.653DAD8BB0F61C91.title: "We Need To Go Deeper"

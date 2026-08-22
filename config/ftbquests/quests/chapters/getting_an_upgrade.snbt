@@ -1,0 +1,33 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_an_upgrade"
+	group: "67189B7E1ED0A8FD"
+	id: "7E7D896806AD6356"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "79732E1F5A69C5C0"
+			shape: "gear"
+			tasks: [{
+				id: "6FFB63E39073ED74"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "4F7BCB654B796C54"
+			tasks: [{
+				id: "5730E1A450856563"
+				item: { count: 1, id: "create_deep_dark:echo_ingot" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+	]
+}

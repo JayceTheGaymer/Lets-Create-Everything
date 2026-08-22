@@ -1,0 +1,107 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aeronautics"
+	group: "2FD7CB0B96627668"
+	icon: {
+		id: "simulated:physics_assembler"
+	}
+	id: "558617BD05AB8337"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7F4031C1852AB92B"
+			tasks: [{
+				id: "43C500972EB6A78E"
+				item: { count: 1, id: "simulated:linked_typewriter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "707A04EA9F99F727"
+			tasks: [{
+				id: "4770746E7334BFCF"
+				item: { count: 1, id: "simulated:physics_assembler" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["707A04EA9F99F727"]
+			id: "2AAE061C954D7E04"
+			tasks: [{
+				id: "0CAA42DBD8EA1E4B"
+				item: { count: 1, id: "simulated:iron_handle" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["707A04EA9F99F727"]
+			id: "3C93AD1A6F98B62B"
+			tasks: [{
+				id: "06B5B3233E710FF4"
+				item: { count: 1, id: "simulated:contraption_diagram" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"2AAE061C954D7E04"
+				"3C93AD1A6F98B62B"
+			]
+			id: "4E928F73B2BDB3E6"
+			tasks: [
+				{
+					id: "4D7A82142E995904"
+					item: { count: 1, id: "aeronautics:white_envelope" }
+					type: "item"
+				}
+				{
+					id: "339BD793150E1218"
+					item: { count: 1, id: "aeronautics:adjustable_burner" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			id: "652CFD63AAB6469D"
+			optional: true
+			tasks: [{
+				id: "72ACE808977823E2"
+				item: { count: 1, id: "simulated:honey_glue" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4E928F73B2BDB3E6"]
+			id: "173E5461263BC6D5"
+			tasks: [
+				{
+					id: "0FF39A987F6B8850"
+					item: { count: 1, id: "simulated:red_portable_engine" }
+					type: "item"
+				}
+				{
+					id: "1FC2AEAE9011294E"
+					item: { count: 1, id: "aeronautics:wooden_propeller" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: 1.0d
+		}
+	]
+}

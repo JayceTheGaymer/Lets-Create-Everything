@@ -176,6 +176,9 @@
 		}
 		{
 			dependencies: ["553B12306F604327"]
+			icon: {
+				id: "minecraft:iron_pickaxe"
+			}
 			id: "357C17BFAF372EB5"
 			rewards: [{
 				count: 3
@@ -243,6 +246,9 @@
 				"2A00EF3CA92BE209"
 				"39307676CADEBE59"
 			]
+			icon: {
+				id: "create:mechanical_press"
+			}
 			id: "1AF4119006BBD07B"
 			rewards: [{
 				count: 3
@@ -270,6 +276,9 @@
 		}
 		{
 			dependencies: ["1AF4119006BBD07B"]
+			icon: {
+				id: "createlowheated:basic_burner"
+			}
 			id: "553B12306F604327"
 			rewards: [{
 				count: 3
@@ -323,7 +332,7 @@
 				}
 			]
 			x: 11.0d
-			y: -7.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["0D0E239059813776"]
@@ -389,8 +398,8 @@
 				item: { count: 1, id: "minecraft:diamond" }
 				type: "item"
 			}]
-			x: 18.0d
-			y: -2.0d
+			x: 18.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["2647B21344C5A841"]
@@ -430,8 +439,8 @@
 				item: { count: 1, id: "minecraft:emerald" }
 				type: "item"
 			}]
-			x: 18.5d
-			y: -1.0d
+			x: 18.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["357C17BFAF372EB5"]
@@ -481,8 +490,8 @@
 				id: "653DAD8BB0F61C91"
 				type: "dimension"
 			}]
-			x: 7.0d
-			y: 1.5d
+			x: 8.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["3AB2F38FBA28F641"]
@@ -503,8 +512,8 @@
 				structure: "betterfortresses:fortress"
 				type: "structure"
 			}]
-			x: 7.0d
-			y: 3.5d
+			x: 8.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["2E2D6D1F41D7BA21"]
@@ -530,8 +539,8 @@
 				type: "kill"
 				value: 3L
 			}]
-			x: 9.0d
-			y: 3.5d
+			x: 9.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["2E2D6D1F41D7BA21"]
@@ -551,8 +560,8 @@
 				item: { count: 1, id: "minecraft:wither_skeleton_skull" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 5.5d
+			x: 8.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["6791E24A9CFA844A"]
@@ -566,8 +575,111 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.0d
-			y: 7.5d
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3AB2F38FBA28F641"]
+			id: "435120395F5D5C4C"
+			tasks: [{
+				id: "51F155A55797FFD6"
+				item: { count: 1, id: "minecraft:ancient_debris" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["435120395F5D5C4C"]
+			id: "13872D6B8868C218"
+			shape: "gear"
+			tasks: [{
+				id: "386D38D451F6D401"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"6C13696A75659F6E"
+				"3EAB74F6B03F0356"
+			]
+			id: "4B263774B219D778"
+			tasks: [{
+				id: "46C3EEA328CED98E"
+				item: { count: 1, id: "minecraft:enchanting_table" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B263774B219D778"]
+			id: "15B8A416EE240939"
+			rewards: [
+				{
+					count: 3
+					id: "352B39768044DEDB"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+				{
+					id: "58E120EC17DBFD33"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tasks: [{
+				count: 15L
+				id: "4C3076E2E49B30C9"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(c:bookshelves)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 21.0d
+			y: 0.0d
+		}
+		{
+			id: "34BEAF6B56B4C6DE"
+			tasks: [{
+				id: "137A0914BDADEB07"
+				item: { count: 1, id: "minecraft:diamond_pickaxe" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5958A1BABEDA1FBD"]
+			id: "330D27B0EC043F16"
+			tasks: [{
+				id: "7DB1B319A1EFD696"
+				item: { count: 1, id: "minecraft:netherite_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3AB2F38FBA28F641"]
+			id: "5958A1BABEDA1FBD"
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "supplementaries:textures/map/decorations/bastion.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "7C09AE6BB6096C2D"
+				structure: "minecraft:bastion_remnant"
+				type: "structure"
+			}]
+			x: 9.5d
+			y: 2.0d
 		}
 	]
 }
