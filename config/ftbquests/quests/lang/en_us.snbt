@@ -62,11 +62,13 @@
 	quest.16475B0D00F1DF13.quest_desc: ["Use 3 rocks and 2 sticks to get yourself a Stone Pickaxe. Don't get too excited, you can't even collect cobblestone with it."]
 	quest.16475B0D00F1DF13.title: "Baby's First Pick"
 	quest.16C7DD2BA3F67A5E.quest_subtitle: "C A M P F I R E S O N G SONG!"
+	quest.173E5461263BC6D5.title: "Propel Forward"
 	quest.1AF4119006BBD07B.quest_desc: [
 		"In order to get your first set of Iron tools you will need the &lMechanical Press&r and a &lBasin&r, this is how you will get your tool heads."
 		""
 		"We recommend using the hand crank only for tool creation, as automating it can get funky without recipe filters which you likely don't have yet."
 	]
+	quest.1EE40E7D422DBE54.title: "Compacting Storage"
 	quest.21EA72337097ADBF.quest_desc: ["{image:entity:minecraft:wither width:96 height:96 align:center}"]
 	quest.21EA72337097ADBF.quest_subtitle: "Are you ready?"
 	quest.2647B21344C5A841.quest_desc: [
@@ -80,6 +82,7 @@
 		"&bDiamond Shards&r onto the &bDiamond Grindstone&r to repair it."
 	]
 	quest.2647B21344C5A841.quest_subtitle: "Ore no! It's Spelunkery!"
+	quest.2720C4F1BB44C3DC.title: "Drawer 1x2"
 	quest.29707092A53D4AAF.quest_desc: ["Now that you have a pickaxe your next stop is &miron&r &6copper&r! Look for it around the entrance to caves."]
 	quest.2A00EF3CA92BE209.quest_desc: [
 		"To get started with Create (and subsequently get your Iron Pickaxe) you're going to need &l&7Andesite Alloy&r&r, and a whole lot more the further you go."
@@ -118,6 +121,7 @@
 	]
 	quest.3DC3C055D3CAC041.quest_subtitle: "MAYBE MOVE TO CREATE CHAPTER?"
 	quest.4C42BD1E264F5365.quest_desc: ["Now that you have your sticks and stones, craft 1 of each into a &lhatchet&r. Use this to cut down your first trees."]
+	quest.4D2D84D3D098679C.title: "Drawer 2x2"
 	quest.4E928F73B2BDB3E6.title: "Take To The Sky"
 	quest.54FB4C5B0F2890BA.quest_desc: ["To get your first &6Copper Ingots&r place your Raw Copper onto the campfire."]
 	quest.54FB4C5B0F2890BA.title: "3x Copper Ingots"
@@ -137,6 +141,7 @@
 		"Once you have 3 of them, if you feel prepared, you can take on the Wither!"
 	]
 	quest.6791E24A9CFA844A.title: "Spooky Scary Skeletons"
+	quest.6C194A6B436F7907.title: "Drawer 1x1"
 	quest.6CF4337005785644.quest_desc: ["Don't go trying to punch trees with your fist just yet. To get started you need to collect &7&lrocks&r&r from the ground and break some leaves to get sticks."]
 	quest.6CF4337005785644.quest_subtitle: "These may break your bones..."
 	quest.6CF4337005785644.title: "Sticks \\& Stones"

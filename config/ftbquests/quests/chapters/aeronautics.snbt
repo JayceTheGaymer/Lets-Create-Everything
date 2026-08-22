@@ -14,7 +14,7 @@
 		image: "nonamepack:textures/quests/auronautics_blimp.png"
 		rotation: 0.0d
 		width: 4.0d
-		x: -8.0d
+		x: -10.0d
 		y: -1.5d
 	}]
 	order_index: 1
@@ -37,7 +37,7 @@
 				item: { count: 1, id: "simulated:physics_assembler" }
 				type: "item"
 			}]
-			x: -15.0d
+			x: -17.0d
 			y: 1.0d
 		}
 		{
@@ -55,7 +55,7 @@
 					type: "item"
 				}
 			]
-			x: -12.0d
+			x: -12.5d
 			y: 1.0d
 		}
 		{
@@ -72,8 +72,13 @@
 					item: { count: 1, id: "aeronautics:adjustable_burner" }
 					type: "item"
 				}
+				{
+					id: "3B9E759B0FCF02B4"
+					item: { count: 1, id: "create:analog_lever" }
+					type: "item"
+				}
 			]
-			x: -9.0d
+			x: -10.0d
 			y: 1.0d
 		}
 		{
@@ -84,7 +89,7 @@
 				item: { count: 1, id: "simulated:honey_glue" }
 				type: "item"
 			}]
-			x: -14.0d
+			x: -16.5d
 			y: 0.0d
 		}
 		{

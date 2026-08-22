@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "logistics"
 	group: "2FD7CB0B96627668"
+	icon: {
+		id: "create_vibrant_vaults:cyan_package_frogport"
+	}
 	id: "2B6E8490DA9EA7F6"
 	images: [ ]
 	order_index: 3
