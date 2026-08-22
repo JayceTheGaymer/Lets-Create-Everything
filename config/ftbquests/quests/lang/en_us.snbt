@@ -88,7 +88,6 @@
 	]
 	quest.2A00EF3CA92BE209.quest_subtitle: "The key to Create"
 	quest.2AAA8436F604C8F6.quest_desc: ["Ahhh.. finally, having access to mining stone and iron. Sadly coal is still out of reach, but we're taking baby steps here."]
-	quest.2AAE061C954D7E04.quest_desc: ["Placing a handle on a contraption lets you pull and move your contraption around!"]
 	quest.2E2D6D1F41D7BA21.quest_desc: [
 		"Something might look a little different if you haven't played a lot of modpacks, that's thanks to YUNG!"
 		""
@@ -114,6 +113,8 @@
 		"Arguably the most neccesary component to &zAeronautics&r: The &3Contraption Diagram&r!"
 		""
 		"Place this onto your contraption and right click it, you can see the effect of mass, gravity, and even watch your center of mass."
+		""
+		"Attach a Handle so you can pull you contraption around!"
 	]
 	quest.3DC3C055D3CAC041.quest_subtitle: "MAYBE MOVE TO CREATE CHAPTER?"
 	quest.4C42BD1E264F5365.quest_desc: ["Now that you have your sticks and stones, craft 1 of each into a &lhatchet&r. Use this to cut down your first trees."]
@@ -146,6 +147,7 @@
 	]
 	quest.707A04EA9F99F727.quest_subtitle: "Lets Get Physical"
 	quest.707A04EA9F99F727.title: "Your First Contraption"
+	quest.76FAFD6C5E57C363.title: "Time To Drive"
 	quest.7B51DA14155497B4.quest_desc: ["Now that you have a &6Copper Pickaxe&r, it's finally time to go collect some Raw Iron. Don't rush to crafting an Iron Pickaxe though. First, you have to dip into Create."]
 	quest.7B51DA14155497B4.quest_subtitle: "Don't let it rust though"
 	quest.7B51DA14155497B4.title: "Time for iron!"

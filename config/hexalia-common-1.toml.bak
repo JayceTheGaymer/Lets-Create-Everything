@@ -50,9 +50,6 @@
 	# Default: 9600
 	# Range: 20 ~ 24000
 	eggClusterHatchDuration = 9600
-	# Default: 8
-	# Range: 0 ~ 32
-	naturesRitualCropRequirement = 8
 
 [plants]
 	# Default: 2400

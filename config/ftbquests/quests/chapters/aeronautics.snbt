@@ -7,7 +7,16 @@
 		id: "simulated:physics_assembler"
 	}
 	id: "558617BD05AB8337"
-	images: [ ]
+	images: [{
+		click_action: "none:"
+		height: 4.0d
+		id: "756F4971EFDD9ACF"
+		image: "nonamepack:textures/quests/auronautics_blimp.png"
+		rotation: 0.0d
+		width: 4.0d
+		x: -8.0d
+		y: -1.5d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -28,36 +37,29 @@
 				item: { count: 1, id: "simulated:physics_assembler" }
 				type: "item"
 			}]
-			x: -12.0d
+			x: -15.0d
 			y: 1.0d
 		}
 		{
 			dependencies: ["707A04EA9F99F727"]
-			id: "2AAE061C954D7E04"
-			tasks: [{
-				id: "0CAA42DBD8EA1E4B"
-				item: { count: 1, id: "simulated:iron_handle" }
-				type: "item"
-			}]
-			x: -10.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["707A04EA9F99F727"]
 			id: "3C93AD1A6F98B62B"
-			tasks: [{
-				id: "06B5B3233E710FF4"
-				item: { count: 1, id: "simulated:contraption_diagram" }
-				type: "item"
-			}]
-			x: -10.5d
-			y: 2.0d
+			tasks: [
+				{
+					id: "06B5B3233E710FF4"
+					item: { count: 1, id: "simulated:contraption_diagram" }
+					type: "item"
+				}
+				{
+					id: "2CFF956FEBE10316"
+					item: { count: 1, id: "simulated:iron_handle" }
+					type: "item"
+				}
+			]
+			x: -12.0d
+			y: 1.0d
 		}
 		{
-			dependencies: [
-				"2AAE061C954D7E04"
-				"3C93AD1A6F98B62B"
-			]
+			dependencies: ["3C93AD1A6F98B62B"]
 			id: "4E928F73B2BDB3E6"
 			tasks: [
 				{
@@ -82,8 +84,8 @@
 				item: { count: 1, id: "simulated:honey_glue" }
 				type: "item"
 			}]
-			x: -13.0d
-			y: 1.5d
+			x: -14.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["4E928F73B2BDB3E6"]
@@ -102,6 +104,17 @@
 			]
 			x: -7.5d
 			y: 1.0d
+		}
+		{
+			dependencies: ["3C93AD1A6F98B62B"]
+			id: "76FAFD6C5E57C363"
+			tasks: [{
+				id: "4E368152DA0A903A"
+				item: { count: 1, id: "offroad:tire" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 3.5d
 		}
 	]
 }
