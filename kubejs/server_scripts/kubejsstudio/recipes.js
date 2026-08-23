@@ -10,4 +10,5 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'createvintageneoforged:coiling/iron_spring' })
     event.remove({ id: 'createvintageneoforged:coiling/iron_rod' })
     event.remove({ id: 'createvintageneoforged:hammering/netherite_ingot' })
+    event.shaped('createvintageneoforged:lathe', ['#A#', 'BBC', '#A#'], { '#': 'create:andesite_alloy', 'A': 'create:shaft', 'B': 'create:andesite_casing', 'C': '#c:storage_blocks/iron' }).id('kubejsstudio:mechanical_crafting/lathe')
 })
