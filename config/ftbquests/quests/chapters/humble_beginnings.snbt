@@ -644,13 +644,30 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["58AC8BB07E727365"]
 			id: "34BEAF6B56B4C6DE"
-			tasks: [{
-				id: "137A0914BDADEB07"
-				item: { count: 1, id: "minecraft:diamond_pickaxe" }
+			rewards: [{
+				count: 6
+				id: "727232E0B9223EA4"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
 				type: "item"
 			}]
-			x: 19.5d
+			tasks: [
+				{
+					id: "137A0914BDADEB07"
+					item: { count: 1, id: "minecraft:diamond_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "23603BF0502E338F"
+					item: { count: 1, id: "jayces_tweaks:diamond_pickaxe_head" }
+					type: "item"
+				}
+			]
+			x: 21.0d
 			y: -2.0d
 		}
 		{
@@ -680,6 +697,46 @@
 			}]
 			x: 9.5d
 			y: 2.0d
+		}
+		{
+			dependencies: ["6C13696A75659F6E"]
+			id: "58AC8BB07E727365"
+			tasks: [{
+				id: "41B96FF92005C6FF"
+				item: { count: 1, id: "createvintageneoforged:lathe" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["34BEAF6B56B4C6DE"]
+			id: "530ACB2BC238A0CA"
+			tasks: [
+				{
+					id: "32B67FBD088A08CC"
+					item: { count: 1, id: "createvintageneoforged:helve_hammer" }
+					type: "item"
+				}
+				{
+					id: "13E75B65D1141FD2"
+					item: { count: 1, id: "minecraft:smithing_table" }
+					type: "item"
+				}
+			]
+			x: 22.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["530ACB2BC238A0CA"]
+			id: "1047963F64C7A95A"
+			tasks: [{
+				id: "3D98EA21E91742A4"
+				item: { count: 1, id: "minecraft:netherite_pickaxe" }
+				type: "item"
+			}]
+			x: 24.0d
+			y: -1.0d
 		}
 	]
 }

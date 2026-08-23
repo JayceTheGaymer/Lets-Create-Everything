@@ -1,0 +1,13 @@
+{
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/diamond"
+    }
+  ],
+  "results": [
+    {
+      "id": "jayces_tweaks:diamond_pickaxe_head"
+    }
+  ],
+  "type": "createvintageneoforged:turning"
+}

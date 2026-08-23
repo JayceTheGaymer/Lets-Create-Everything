@@ -26,8 +26,8 @@
 				item: { count: 1, id: "create_deep_dark:echo_ingot" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -1.5d
+			x: -1.5d
+			y: 0.0d
 		}
 	]
 }

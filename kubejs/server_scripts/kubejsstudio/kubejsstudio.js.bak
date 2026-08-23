@@ -124,8 +124,95 @@ ServerEvents.generateData('after_mods', event => {
     event.json(
       'kubejsstudio:recipe/turning/convex_curving_head',
       {
-        "ingredients": [{"tag":"c:gems/diamond"}],
-        "results": [{"id":"createvintageneoforged:convex_curving_head"}],
+        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
+        "results": [{"id":"jayces_tweaks/"}],
+        "type": "createvintageneoforged:turning"
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:diamond_pickaxe
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/diamond_pickaxe',
+      {
+        "category": "misc",
+        "key": {
+          "A": {"tag":"c:rods/wooden"},
+          "#": {"item":"jayces_tweaks:diamond_sword_blade"}
+        },
+        "pattern": ["#","A"],
+        "result": {"id":"minecraft:diamond_pickaxe","count":1},
+        "type": "kubejs:shaped"
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:diamond_axe
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/diamond_axe',
+      {
+        "category": "misc",
+        "key": {
+          "A": {"tag":"c:rods/wooden"},
+          "#": {"item":"jayces_tweaks:diamond_axe_head"}
+        },
+        "pattern": ["#","A"],
+        "result": {"id":"minecraft:diamond_axe","count":1},
+        "type": "kubejs:shaped"
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:diamond_pickaxe_head
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/diamond_pickaxe_head',
+      {
+        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
+        "results": [{"id":"jayces_tweaks:diamond_shovel_head"}],
+        "type": "createvintageneoforged:turning"
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:diamond_axe_head
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/diamond_axe_head',
+      {
+        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
+        "results": [{"id":"jayces_tweaks:diamond_axe_head"}],
+        "type": "createvintageneoforged:turning"
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:diamond_shovel_head
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/diamond_shovel_head',
+      {
+        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
+        "results": [{"id":"jayces_tweaks:diamond_shovel_head"}],
+        "type": "createvintageneoforged:turning"
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:diamond_hoe_head
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/diamond_hoe_head',
+      {
+        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
+        "results": [{"id":"jayces_tweaks:diamond_hoe_head"}],
+        "type": "createvintageneoforged:turning"
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:diamond_sword_blade
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/diamond_sword_blade',
+      {
+        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
+        "results": [{"id":"jayces_tweaks:diamond_sword_blade"}],
         "type": "createvintageneoforged:turning"
       }
     )
