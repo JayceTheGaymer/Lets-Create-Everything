@@ -1,8 +1,12 @@
 {
+	autofocus_id: "43A8512AB27EDDFF"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "tips_and_tricks"
 	group: "718FD040212D6C62"
+	icon: {
+		id: "comforts:sleeping_bag_white"
+	}
 	id: "28B6BC235F495499"
 	images: [ ]
 	order_index: 1
@@ -13,7 +17,7 @@
 			id: "1E2F38E0BB379506"
 			tasks: [{
 				id: "051062613B3CAF05"
-				item: { count: 1, id: "comforts:sleeping_bag_white" }
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(comforts:sleeping_bags)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -22,9 +26,14 @@
 		{
 			dependencies: ["43A8512AB27EDDFF"]
 			id: "35595CFFC02E715C"
+			rewards: [{
+				id: "2B92CB26C28D4644"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
 			tasks: [{
 				id: "4777A3B45D1E47DE"
-				item: { count: 1, id: "constructionstick:diamond_stick" }
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(constructionstick:construction_sticks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -35,7 +44,7 @@
 			id: "1AD8C03269041C22"
 			tasks: [{
 				id: "5B1D9749FBABEAAE"
-				item: { count: 1, id: "comforts:hammock_white" }
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(comforts:hammocks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -2.5d
@@ -48,6 +57,22 @@
 				type: "checkmark"
 			}]
 			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["35595CFFC02E715C"]
+			id: "33A44F2C578DD264"
+			rewards: [{
+				id: "0EEB90DD5FE1CD54"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "62F43647E1FD7F18"
+				item: { count: 1, id: "constructionstick:template_unbreakable" }
+				type: "item"
+			}]
+			x: 2.0d
 			y: -1.5d
 		}
 	]
