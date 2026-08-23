@@ -125,10 +125,7 @@ ServerEvents.generateData('after_mods', event => {
       'kubejsstudio:recipe/turning/convex_curving_head',
       {
         "ingredients": [{"tag":"c:gems/diamond"}],
-        "results": [
-          {"id":"createvintageneoforged:convex_curving_head"},
-          {"id":"createvintageneoforged:convex_curving_head"}
-        ],
+        "results": [{"id":"createvintageneoforged:convex_curving_head"}],
         "type": "createvintageneoforged:turning"
       }
     )
