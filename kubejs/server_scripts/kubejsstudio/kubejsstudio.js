@@ -217,3 +217,38 @@ ServerEvents.generateData('after_mods', event => {
       }
     )
 })
+// kubejsstudio custom: kubejsstudio:iron_sword
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/iron_sword',
+      {
+        "category": "misc",
+        "key": {
+          "A": {"tag":"c:rods/wooden"},
+          "#": {"item":"jayces_tweaks:iron_sword_blade"}
+        },
+        "pattern": ["#","A"],
+        "result": {"id":"minecraft:iron_sword","count":1},
+        "type": "kubejs:shaped"
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:horse_crank
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/horse_crank',
+      {
+        "group": "Create",
+        "category": "misc",
+        "key": {
+          "A": {"item":"create:andesite_alloy"},
+          "B": {"item":"create:cogwheel"},
+          "#": {"tag":"minecraft:fences"},
+          "C": {"item":"minecraft:stone_slab"}
+        },
+        "pattern": [" # ","ABA","CCC"],
+        "result": {"id":"createhorsepower:horse_crank","count":1},
+        "type": "kubejs:shaped"
+      }
+    )
+})
