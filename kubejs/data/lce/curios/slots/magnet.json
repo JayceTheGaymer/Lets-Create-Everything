@@ -2,5 +2,5 @@
   "order": 20,
   "size": 1,
   "icon": "curios:slot/item_magnet_slot",
-  "add_cosmetic": true
+  "add_cosmetic": false
 }
