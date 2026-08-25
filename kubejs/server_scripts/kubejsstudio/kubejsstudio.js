@@ -61,13 +61,6 @@ ServerEvents.generateData('after_mods', event => {
       }
     )
 })
-// kubejsstudio custom: kubejsstudio:my_recipe
-ServerEvents.recipes(event => {
-    event.shapeless(
-      'minecraft:stone',
-      ['minecraft:cobblestone']
-    ).id('kubejsstudio:my_recipe')
-})
 // kubejsstudio custom: kubejsstudio:coiling/iron_spring
 ServerEvents.generateData('after_mods', event => {
     event.json(
@@ -116,17 +109,6 @@ ServerEvents.generateData('after_mods', event => {
         "results": [{"id":"minecraft:diamond_pickaxe"}],
         "hammer_blows": 3,
         "type": "createvintageneoforged:hammering"
-      }
-    )
-})
-// kubejsstudio custom: kubejsstudio:turning/convex_curving_head
-ServerEvents.generateData('after_mods', event => {
-    event.json(
-      'kubejsstudio:recipe/turning/convex_curving_head',
-      {
-        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
-        "results": [{"id":"jayces_tweaks/"}],
-        "type": "createvintageneoforged:turning"
       }
     )
 })
@@ -249,6 +231,18 @@ ServerEvents.generateData('after_mods', event => {
         "pattern": [" # ","ABA","CCC"],
         "result": {"id":"createhorsepower:horse_crank","count":1},
         "type": "kubejs:shaped"
+      }
+    )
+})
+// kubejsstudio custom: tfmg:compacting/cast_iron
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'tfmg:recipe/compacting/cast_iron',
+      {
+        "type": "create:compacting",
+        "ingredients": [{"tag":"c:ingots/iron"},{"item":"minecraft:coal"}],
+        "results": [{"id":"tfmg:cast_iron_ingot"}],
+        "heat_requirement": "lowheated"
       }
     )
 })
