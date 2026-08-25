@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "enchantment_industry"
+	group: "2FD7CB0B96627668"
+	id: "6653667F232C5AE5"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [{
+		id: "09D0DA7D7611D892"
+		tasks: [{
+			id: "63FF68801CE7773E"
+			item: { count: 1, id: "create_enchantment_industry:enchanting_template" }
+			type: "item"
+		}]
+		x: -0.5d
+		y: 1.0d
+	}]
+}

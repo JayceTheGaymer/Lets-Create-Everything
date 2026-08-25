@@ -1,9 +1,23 @@
 {
-	chapter.06DCDD4E47C714FE.title: "Create"
+	chapter.06DCDD4E47C714FE.title: "Main"
 	chapter.0F9A5B1205ECF47B.title: "Humble Beginnings"
+	chapter.28B6BC235F495499.title: "Tips \\& Tricks"
+	chapter.2B6E8490DA9EA7F6.title: "Logistics"
+	chapter.34F3310DB1738B84.title: "Farming With Create"
+	chapter.35DC3403618653DE.title: "Hexalia"
+	chapter.3951F8DB09323F41.title: "The Factory Must Grow"
+	chapter.47FE06F133E44270.title: "Powerful Pots"
+	chapter.558617BD05AB8337.title: "Aeronautics"
+	chapter.6653667F232C5AE5.title: "Enchantment Industry"
+	chapter.6F58124B4E3A55C7.title: "Farmers Delight"
+	chapter.7077BB47F08FC3C9.title: "Welcome"
 	chapter.73266F7C8B5E10EF.title: "Storage"
-	chapter_group.2FD7CB0B96627668.title: "Automation"
-	chapter_group.67189B7E1ED0A8FD.title: "Getting Started"
+	chapter.7E7D896806AD6356.title: "Getting an Upgrade"
+	chapter_group.2FD7CB0B96627668.title: "&eCreate"
+	chapter_group.3D9C656A01DEE4F8.title: "&aFarming"
+	chapter_group.4B8D942BD15204CD.title: "&dMystical \\& Magical"
+	chapter_group.67189B7E1ED0A8FD.title: "&bGetting Started"
+	chapter_group.718FD040212D6C62.title: "Introduction"
 	quest.05385743C91B10EF.quest_desc: ["You don't &oneed&r a &lDepot&r but it does make some Mechanical Press recipes a little easier."]
 	quest.05385743C91B10EF.quest_subtitle: "Not necessary, but helpful."
 	quest.0D0E239059813776.quest_desc: [
@@ -44,14 +58,29 @@
 	]
 	quest.0D0E239059813776.quest_subtitle: "Quit horsing around!"
 	quest.109938A7176DF606.quest_desc: ["Make sure to collect a few &6Blaze Rods&r, you'll need them for later. Also, if you've started to dive further into Create take a look at the &l&nBlaze Burner&r&r quest."]
+	quest.14843176225FA014.quest_desc: [
+		"Quests are entirely optional and you can completely ignore them if you so chose. We do NOT recommend this though because there are many custom changes to mechanics and recipes in our pack. The quests are designed to guide you through this process."
+		""
+		"[ \"Head on over to \", { \"text\": \"Humble Beginnings\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6CF4337005785644\" } }, \" to get started when you're ready!\" ]"
+	]
+	quest.14843176225FA014.title: "Questing"
+	quest.15B8A416EE240939.title: "Book Shelves"
 	quest.16475B0D00F1DF13.quest_desc: ["Use 3 rocks and 2 sticks to get yourself a Stone Pickaxe. Don't get too excited, you can't even collect cobblestone with it."]
 	quest.16475B0D00F1DF13.title: "Baby's First Pick"
 	quest.16C7DD2BA3F67A5E.quest_subtitle: "C A M P F I R E S O N G SONG!"
+	quest.173E5461263BC6D5.title: "Propel Forward"
+	quest.1AD8C03269041C22.quest_desc: ["Hunting for a specific mob and don't want to wait for the night? Use a Hammock to nap the day away!"]
+	quest.1AD8C03269041C22.title: "Hammocks"
 	quest.1AF4119006BBD07B.quest_desc: [
 		"In order to get your first set of Iron tools you will need the &lMechanical Press&r and a &lBasin&r, this is how you will get your tool heads."
 		""
 		"We recommend using the hand crank only for tool creation, as automating it can get funky without recipe filters which you likely don't have yet."
 	]
+	quest.1E2F38E0BB379506.quest_desc: ["Tired of placing your bed when traveling to sleep and reseting your spawn point? With Sleeping Bags you can quickly sleep anywhere without changing your spawn point."]
+	quest.1E2F38E0BB379506.title: "Sleeping Bags"
+	quest.1EE40E7D422DBE54.title: "Compacting Storage"
+	quest.21EA72337097ADBF.quest_desc: ["{image:entity:minecraft:wither width:96 height:96 align:center}"]
+	quest.21EA72337097ADBF.quest_subtitle: "Are you ready?"
 	quest.2647B21344C5A841.quest_desc: [
 		"To process &9Lapis&r youll need to right click &9Rough Lazurite&r on a &7Grindstone&r!"
 		""
@@ -63,6 +92,7 @@
 		"&bDiamond Shards&r onto the &bDiamond Grindstone&r to repair it."
 	]
 	quest.2647B21344C5A841.quest_subtitle: "Ore no! It's Spelunkery!"
+	quest.2720C4F1BB44C3DC.title: "Drawer 1x2"
 	quest.29707092A53D4AAF.quest_desc: ["Now that you have a pickaxe your next stop is &miron&r &6copper&r! Look for it around the entrance to caves."]
 	quest.2A00EF3CA92BE209.quest_desc: [
 		"To get started with Create (and subsequently get your Iron Pickaxe) you're going to need &l&7Andesite Alloy&r&r, and a whole lot more the further you go."
@@ -76,6 +106,14 @@
 		""
 		"Take some time to look around and explore the redesigned fortress. While you're at it you may as well stuff your pockets (and backpack) with all the treausers inside!"
 	]
+	quest.33A44F2C578DD264.quest_desc: ["Tired of worrying about durability on your Construction Stick? Well now you can make it unbreakable! It's just a little expensive..."]
+	quest.33A44F2C578DD264.title: "Unbreakable Sticks"
+	quest.35595CFFC02E715C.quest_desc: [
+		"Construction Sticks are your new best friend for building. These aren't just any ol' stick, they allow you to build much quicker then by hand."
+		""
+		"They also have upgrades, search @Construction in JEI to see them all!"
+	]
+	quest.35595CFFC02E715C.title: "Construction Sticks"
 	quest.357C17BFAF372EB5.quest_desc: [
 		"Smelt up your Raw Iron and craft your first &lIron Pickaxe!&r"
 		""
@@ -92,8 +130,19 @@
 	quest.39307676CADEBE59.quest_subtitle: "You powered machinary!"
 	quest.39307676CADEBE59.title: "Hand Crank"
 	quest.3AB2F38FBA28F641.quest_subtitle: "Have some water, it's hot down here."
+	quest.3C93AD1A6F98B62B.quest_desc: [
+		"Arguably the most neccesary component to &zAeronautics&r: The &3Contraption Diagram&r!"
+		""
+		"Place this onto your contraption and right click it, you can see the effect of mass, gravity, and even watch your center of mass."
+		""
+		"Attach a Handle so you can pull you contraption around!"
+	]
 	quest.3DC3C055D3CAC041.quest_subtitle: "MAYBE MOVE TO CREATE CHAPTER?"
+	quest.43A8512AB27EDDFF.quest_desc: ["This section is full of helpful things within the pack that don't quite belong in another section and aren't big enough for their own quest line."]
+	quest.43A8512AB27EDDFF.title: "Tips \\& Tricks"
 	quest.4C42BD1E264F5365.quest_desc: ["Now that you have your sticks and stones, craft 1 of each into a &lhatchet&r. Use this to cut down your first trees."]
+	quest.4D2D84D3D098679C.title: "Drawer 2x2"
+	quest.4E928F73B2BDB3E6.title: "Take To The Sky"
 	quest.54FB4C5B0F2890BA.quest_desc: ["To get your first &6Copper Ingots&r place your Raw Copper onto the campfire."]
 	quest.54FB4C5B0F2890BA.title: "3x Copper Ingots"
 	quest.553B12306F604327.quest_desc: [
@@ -106,19 +155,36 @@
 	quest.553B12306F604327.quest_subtitle: "It's getting hot in here..."
 	quest.553B12306F604327.title: "Heating"
 	quest.5E2B89D9EB7C3C39.quest_subtitle: "It is called MineCRAFT after all"
+	quest.6117F4FC083336E6.quest_desc: ["[ \"The pack is still a work in progress and is considered in an Alpha state. Please report any bugs/issues, or make suggestions over on \", { \"text\": \"Github\", \"underlined\": true, \"clickEvent\": { \"action\": \"open_url\", \"value\": \"https://github.com/JayceTheGaymer/NoNameModpack/issues\" } } ]"]
+	quest.6117F4FC083336E6.title: "Welcome To Our Pack!"
 	quest.6791E24A9CFA844A.quest_desc: [
 		"While you're exploring the fortress you'll likely enounter a few Wither Skeletons that are trying to &mkill you&r give you hugs. Be sure to &mcollect their skulls&r hug them back!"
 		""
 		"Once you have 3 of them, if you feel prepared, you can take on the Wither!"
 	]
 	quest.6791E24A9CFA844A.title: "Spooky Scary Skeletons"
+	quest.6C194A6B436F7907.title: "Drawer 1x1"
 	quest.6CF4337005785644.quest_desc: ["Don't go trying to punch trees with your fist just yet. To get started you need to collect &7&lrocks&r&r from the ground and break some leaves to get sticks."]
 	quest.6CF4337005785644.quest_subtitle: "These may break your bones..."
 	quest.6CF4337005785644.title: "Sticks \\& Stones"
+	quest.707A04EA9F99F727.quest_desc: [
+		"By placing a &#994D1BPhysics Assembler&r on a block and flipping the lever you get a simulated physics block, which roll tumble and fall."
+		""
+		"You can then build onto that block to build a contraption or you can just build you contraption, glue it together, and then place a &#994D1BPhysics Assembler&r onto the contraption to activate its simulated physics."
+	]
+	quest.707A04EA9F99F727.quest_subtitle: "Lets Get Physical"
+	quest.707A04EA9F99F727.title: "Your First Contraption"
+	quest.76FAFD6C5E57C363.title: "Time To Drive"
 	quest.7B51DA14155497B4.quest_desc: ["Now that you have a &6Copper Pickaxe&r, it's finally time to go collect some Raw Iron. Don't rush to crafting an Iron Pickaxe though. First, you have to dip into Create."]
 	quest.7B51DA14155497B4.quest_subtitle: "Don't let it rust though"
 	quest.7B51DA14155497B4.title: "Time for iron!"
+	task.051062613B3CAF05.title: "Sleeping Bags"
+	task.2734F92DC5D53EDF.title: "Click To Complete"
 	task.2B6189EA1DC50557.title: "Storm The Fortress!"
+	task.4777A3B45D1E47DE.title: "Any #constructionstick:construction_sticks"
+	task.4C3076E2E49B30C9.title: "Book Shelves"
+	task.5B1D9749FBABEAAE.title: "Hammocks"
+	task.5E61D5953E0044B4.title: "Kill the Wither"
 	task.6077E4F3B91394D2.title: "Blaze"
 	task.653DAD8BB0F61C91.title: "We Need To Go Deeper"
 }

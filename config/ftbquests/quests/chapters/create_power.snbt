@@ -75,5 +75,35 @@
 			x: 4.5d
 			y: -1.0d
 		}
+		{
+			id: "0E3A25DA30C2097E"
+			tasks: [{
+				id: "51E0B5B194ABB139"
+				item: { count: 1, id: "create_power_loader:andesite_chunk_loader" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "15380A45C1662810"
+			tasks: [{
+				id: "26D4F58B12966013"
+				item: { count: 1, id: "minecraft:totem_of_undying" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			id: "2C7CCC9D4A1744FA"
+			tasks: [{
+				id: "1A442E56FCD6E5C1"
+				item: { count: 1, id: "create:blaze_burner" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
 	]
 }

@@ -1,0 +1,42 @@
+{
+	autofocus_id: "6117F4FC083336E6"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "welcome"
+	group: "718FD040212D6C62"
+	icon: {
+		id: "simulatedcoasters:red_balloon"
+	}
+	id: "7077BB47F08FC3C9"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "simulatedcoasters:red_balloon"
+			}
+			id: "6117F4FC083336E6"
+			shape: "rsquare"
+			tasks: [{
+				id: "2734F92DC5D53EDF"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "ftbquests:book"
+			}
+			id: "14843176225FA014"
+			tasks: [{
+				id: "2C90BBBFA347B363"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+}
