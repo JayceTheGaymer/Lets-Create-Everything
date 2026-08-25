@@ -25,6 +25,8 @@
 		""
 		"Grass/ Dirt blocks in a &4&l7x7&r&r from center beneath the &bHorse Crank&r is &4&l&nREQUIRED!!!&r&r&r"
 		""
+		"&4NOTE&r: Sometimes unloading the chunk stops the crank from spinning, just reconnect the animal to resume production."
+		""
 		"Small Creatures Produce: &6128 Su&r"
 		""
 		"- Pig"
