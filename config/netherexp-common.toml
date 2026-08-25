@@ -246,7 +246,7 @@
 	#Projectiles specified in the "phantasm_hull_protects_blacklist" tag still hit these entities regardless
 	projectilesPhaseThroughGhosts = true
 	#Blazes will visibly become dimmer the lower their health is much like Minecraft: Dungeons
-	diminishingBlazes = false
+	diminishingBlazes = true
 	#Magma Cube textures will scale with the model and conform to pixel consistency
 	pixelConsistentMagmaCubes = true
 	#The minimum amount of shotgun pellets fired from a vessel
@@ -576,11 +576,11 @@
 	#Fired will o' wisps will make a weeping sound that helps with knowing if one is homing in on you
 	willOWispSounds = true
 	#Adds more dynamic and animated particles to all fire blocks
-	improvedFireParticles = false
+	improvedFireParticles = true
 	#Enables new smoke particles for fire
-	fireSmokeParticles = false
+	fireSmokeParticles = true
 	#Enables new ember particles for fire
-	fireEmberParticles = false
+	fireEmberParticles = true
 	#Adds slight color variation gradients to lava to break up the repetitive texture in large areas
 	lavaPerlinNoiseGradient = true
 	#The first color that is applied to the lava perlin noise gradient
@@ -632,7 +632,7 @@
 	#Minimum distance from the camera that heat distortion starts at when close to lava sources
 	# Default: 0.0
 	# Range: 0.0 ~ 1.7976931348623157E308
-	heatDistortionLavaMinDistance = 4.9E-324
+	heatDistortionLavaMinDistance = 0.0
 	#Maximum distance from the camera that heat distortion reaches its max intensity at when close to lava sources
 	# Default: 64.0
 	# Range: 0.0 ~ 1.7976931348623157E308

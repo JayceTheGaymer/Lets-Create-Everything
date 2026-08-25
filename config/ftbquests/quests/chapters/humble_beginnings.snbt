@@ -461,7 +461,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["6C13696A75659F6E"]
+			dependencies: ["34BEAF6B56B4C6DE"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "3AB2F38FBA28F641"
@@ -602,18 +602,15 @@
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"6C13696A75659F6E"
-				"3EAB74F6B03F0356"
-			]
+			dependencies: ["34BEAF6B56B4C6DE"]
 			id: "4B263774B219D778"
 			tasks: [{
 				id: "46C3EEA328CED98E"
 				item: { count: 1, id: "minecraft:enchanting_table" }
 				type: "item"
 			}]
-			x: 19.5d
-			y: 0.0d
+			x: 22.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["4B263774B219D778"]
@@ -640,8 +637,8 @@
 				item: { components: { "ftbfiltersystem:filter": "item_tag(c:bookshelves)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 21.0d
-			y: 0.0d
+			x: 24.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["58AC8BB07E727365"]
