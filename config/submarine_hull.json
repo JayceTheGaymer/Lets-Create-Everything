@@ -501,10 +501,6 @@
     "maxWaterDepth": 58,
     "implosionChance": 0.65
   },
-  "amendments:netherexp/wall_treacherous_lantern": {
-    "maxWaterDepth": 58,
-    "implosionChance": 0.65
-  },
   "amendments:skull_candle": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -40397,6 +40393,3010 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
+  "createcasing:acacia_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:acacia_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:acacia_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:andesite_automatic_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:andesite_configurable_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_acacia_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_acacia_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_acacia_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_andesite_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_encased_andesite_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_bamboo_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_bamboo_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_bamboo_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_birch_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_birch_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_birch_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_brass_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_encased_brass_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_brass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_cherry_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_cherry_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_cherry_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_copper_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_copper_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_copper_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_crimson_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_crimson_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_crimson_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_dark_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_dark_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_dark_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_encased_glass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_jungle_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_jungle_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_jungle_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_mangrove_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_mangrove_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_mangrove_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_mldeg_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_spruce_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_warped_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_warped_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_warped_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_zinc_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_encased_zinc_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_encased_zinc_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_fluid_tank": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_fluid_valve": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_glass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_hose_pulley": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_item_drain": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:andesite_mechanical_pump": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_portable_fluid_interface": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_smart_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_spout": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_steam_engine": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_steam_whistle": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:andesite_valve_handle": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:bamboo_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:bamboo_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:bamboo_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:birch_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:birch_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:birch_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:brass_adjustable_chain_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_automatic_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_chain_conveyor": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:brass_configurable_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_deployer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_depot": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_acacia_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_acacia_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_acacia_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_andesite_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_encased_andesite_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_bamboo_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_bamboo_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_bamboo_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_birch_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_birch_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_birch_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_brass_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_encased_brass_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_brass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_chain_drive": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_cherry_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_cherry_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_cherry_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_copper_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_copper_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_copper_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_crimson_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_crimson_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_crimson_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_dark_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_dark_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_dark_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_fan": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_encased_glass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_jungle_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_jungle_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_jungle_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_mangrove_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_mangrove_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_mangrove_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_mldeg_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_spruce_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_warped_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_warped_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_warped_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_zinc_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_encased_zinc_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_encased_zinc_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_fluid_tank": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_fluid_valve": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_glass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_hose_pulley": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_item_drain": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:brass_mechanical_drill": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_mechanical_harvester": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_mechanical_plough": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_mechanical_pump": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_mechanical_roller": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_mechanical_saw": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_mixer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_portable_fluid_interface": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_portable_storage_interface": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_press": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:brass_slicer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:brass_smart_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_spout": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_steam_engine": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_steam_whistle": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:brass_valve_handle": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:cherry_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:cherry_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:cherry_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:copper_adjustable_chain_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_automatic_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_chain_conveyor": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:copper_configurable_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_deployer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_depot": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_acacia_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_acacia_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_acacia_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_andesite_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:copper_encased_andesite_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_bamboo_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_bamboo_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_bamboo_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_birch_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_birch_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_birch_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_brass_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:copper_encased_brass_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_brass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_chain_drive": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_cherry_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_cherry_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_cherry_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_copper_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_copper_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_copper_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_crimson_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_crimson_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_crimson_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_dark_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_dark_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_dark_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_fan": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_glass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_jungle_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_jungle_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_jungle_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_mangrove_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_mangrove_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_mangrove_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_mldeg_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_spruce_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_warped_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_warped_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_warped_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_zinc_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:copper_encased_zinc_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_encased_zinc_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:copper_mechanical_drill": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_mechanical_harvester": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_mechanical_plough": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_mechanical_roller": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_mechanical_saw": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_mixer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_portable_storage_interface": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_press": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:copper_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:copper_slicer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_adjustable_chain_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_automatic_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_casing": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:creative_chain_conveyor": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_configurable_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_deployer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_depot": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_acacia_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_acacia_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_acacia_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_andesite_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:creative_encased_andesite_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_bamboo_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_bamboo_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_bamboo_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_birch_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_birch_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_birch_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_brass_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:creative_encased_brass_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_brass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_chain_drive": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_cherry_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_cherry_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_cherry_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_copper_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_copper_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_copper_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_crimson_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_crimson_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_crimson_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_dark_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_dark_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_dark_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_fan": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:creative_encased_glass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_jungle_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_jungle_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_jungle_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_mangrove_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_mangrove_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_mangrove_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_mldeg_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_spruce_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_warped_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_warped_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_warped_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_zinc_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:creative_encased_zinc_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_encased_zinc_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_mechanical_drill": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_mechanical_harvester": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_mechanical_plough": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_mechanical_roller": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_mechanical_saw": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_mixer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_portable_storage_interface": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_press": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:creative_slicer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:crimson_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:crimson_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:crimson_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:dark_oak_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:dark_oak_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:dark_oak_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:glass_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:industrial_iron_adjustable_chain_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_automatic_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_chain_conveyor": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_configurable_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_deployer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_depot": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_acacia_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_acacia_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_acacia_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_andesite_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:industrial_iron_encased_andesite_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_bamboo_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_bamboo_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_bamboo_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_birch_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_birch_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_birch_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_brass_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:industrial_iron_encased_brass_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_brass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_chain_drive": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_cherry_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_cherry_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_cherry_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_copper_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_copper_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_copper_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_crimson_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_crimson_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_crimson_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_dark_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_dark_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_dark_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_fan": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:industrial_iron_encased_glass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_jungle_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_jungle_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_jungle_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_mangrove_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_mangrove_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_mangrove_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_mldeg_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_spruce_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_warped_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_warped_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_warped_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_zinc_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:industrial_iron_encased_zinc_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_encased_zinc_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_mechanical_drill": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_mechanical_harvester": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_mechanical_plough": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_mechanical_roller": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_mechanical_saw": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_mixer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_portable_storage_interface": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_press": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:industrial_iron_slicer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:jungle_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:jungle_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:jungle_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:mangrove_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:mangrove_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:mangrove_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:mldeg_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:oak_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:oak_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:oak_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:railway_adjustable_chain_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_automatic_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_chain_conveyor": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_configurable_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_deployer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_depot": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_acacia_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_acacia_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_acacia_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_andesite_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:railway_encased_andesite_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_bamboo_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_bamboo_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_bamboo_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_birch_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_birch_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_birch_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_brass_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:railway_encased_brass_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_brass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_chain_drive": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_cherry_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_cherry_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_cherry_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_copper_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_copper_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_copper_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_crimson_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_crimson_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_crimson_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_dark_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_dark_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_dark_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_fan": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:railway_encased_glass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_jungle_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_jungle_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_jungle_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_mangrove_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_mangrove_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_mangrove_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_mldeg_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_spruce_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_warped_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_warped_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_warped_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_zinc_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:railway_encased_zinc_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_encased_zinc_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_mechanical_drill": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_mechanical_harvester": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_mechanical_plough": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_mechanical_roller": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_mechanical_saw": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_mixer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_portable_storage_interface": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_press": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:railway_slicer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_adjustable_chain_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_automatic_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_chain_conveyor": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_configurable_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_deployer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_depot": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_acacia_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_acacia_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_acacia_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_andesite_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:refined_radiance_encased_andesite_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_bamboo_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_bamboo_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_bamboo_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_birch_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_birch_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_birch_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_brass_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:refined_radiance_encased_brass_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_brass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_chain_drive": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_cherry_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_cherry_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_cherry_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_copper_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_copper_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_copper_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_crimson_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_crimson_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_crimson_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_dark_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_dark_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_dark_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_fan": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:refined_radiance_encased_glass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_jungle_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_jungle_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_jungle_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_mangrove_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_mangrove_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_mangrove_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_mldeg_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_spruce_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_warped_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_warped_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_warped_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_zinc_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:refined_radiance_encased_zinc_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_encased_zinc_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_mechanical_drill": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_mechanical_harvester": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_mechanical_plough": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_mechanical_roller": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_mechanical_saw": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_mixer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_portable_storage_interface": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_press": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:refined_radiance_slicer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_adjustable_chain_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_automatic_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_chain_conveyor": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_configurable_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_deployer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_depot": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_acacia_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_acacia_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_acacia_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_andesite_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:shadow_steel_encased_andesite_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_bamboo_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_bamboo_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_bamboo_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_birch_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_birch_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_birch_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_brass_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:shadow_steel_encased_brass_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_brass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_chain_drive": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_cherry_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_cherry_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_cherry_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_copper_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_copper_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_copper_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_crimson_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_crimson_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_crimson_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_dark_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_dark_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_dark_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_fan": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:shadow_steel_encased_glass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_jungle_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_jungle_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_jungle_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_mangrove_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_mangrove_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_mangrove_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_mldeg_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_spruce_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_warped_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_warped_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_warped_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_zinc_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:shadow_steel_encased_zinc_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_encased_zinc_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_mechanical_drill": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_mechanical_harvester": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_mechanical_plough": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_mechanical_roller": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_mechanical_saw": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_mixer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_portable_storage_interface": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_press": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:shadow_steel_slicer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:spruce_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:warped_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:warped_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:warped_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:weathered_iron_adjustable_chain_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_automatic_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_chain_conveyor": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_clutch": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_configurable_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_deployer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_depot": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_acacia_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_acacia_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_acacia_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_andesite_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:weathered_iron_encased_andesite_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_bamboo_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_bamboo_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_bamboo_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_birch_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_birch_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_birch_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_brass_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:weathered_iron_encased_brass_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_brass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_chain_drive": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_cherry_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_cherry_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_cherry_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_copper_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_copper_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_copper_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_crimson_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_crimson_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_crimson_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_dark_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_dark_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_dark_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_fan": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:weathered_iron_encased_glass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_jungle_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_jungle_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_jungle_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_mangrove_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_mangrove_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_mangrove_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_mldeg_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_spruce_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_warped_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_warped_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_warped_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_zinc_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:weathered_iron_encased_zinc_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_encased_zinc_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_gearbox": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_gearshift": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_mechanical_drill": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_mechanical_harvester": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_mechanical_plough": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_mechanical_roller": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_mechanical_saw": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_mixer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_portable_storage_interface": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_press": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:weathered_iron_slicer": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_casing": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:zinc_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:zinc_encased_acacia_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_acacia_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_acacia_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_andesite_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_andesite_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_encased_andesite_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_bamboo_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_bamboo_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_bamboo_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_birch_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_birch_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_birch_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_brass_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_brass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_encased_brass_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_brass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_cherry_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_cherry_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_cherry_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_copper_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_copper_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_copper_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_crimson_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_crimson_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_crimson_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_dark_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_dark_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_dark_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_encased_glass_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_jungle_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_jungle_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_jungle_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_mangrove_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_mangrove_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_mangrove_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_mldeg_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_oak_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_oak_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_oak_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_spruce_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_warped_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_warped_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_warped_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_zinc_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_encased_zinc_large_cogwheel": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_encased_zinc_shaft": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "createcasing:zinc_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_fluid_tank": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_fluid_valve": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_glass_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_hose_pulley": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_item_drain": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_large_cogwheel": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "createcasing:zinc_mechanical_pump": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_portable_fluid_interface": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_shaft": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "createcasing:zinc_smart_fluid_pipe": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_spout": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_steam_engine": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_steam_whistle": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "createcasing:zinc_valve_handle": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
   "createdeco:andesite_bars": {
     "maxWaterDepth": 89,
     "implosionChance": 0.46666667
@@ -59692,798 +62692,6 @@
   "netherdescent:wailing_wart_block": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
-  },
-  "netherexp:basalt_slab": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:basalt_stairs": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:basalt_wall": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:basaltic_geyser": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:black_ice": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "netherexp:black_icicle": {
-    "maxWaterDepth": 17,
-    "implosionChance": 0.85
-  },
-  "netherexp:blotted_netherrack": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:blue_mixed_nether_bricks": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "netherexp:blue_nether_brick_slab": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "netherexp:blue_nether_brick_stairs": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "netherexp:blue_nether_brick_wall": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "netherexp:blue_nether_bricks": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "netherexp:bone_fence": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:bone_pike": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:brazier_chest": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "netherexp:burning_skull_block": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:burning_wither_skull_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.4
-  },
-  "netherexp:carved_sorrowsquash": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "netherexp:cerebrage_claret_hyphae": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:cerebrage_claret_stem": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:cerebrage_kale": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:cerebrage_skull": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "netherexp:chiseled_quartz_pillar": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "netherexp:chiseled_soul_slate_bricks": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:chiseled_soul_slate_tiles": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:cierge_of_treachery": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "netherexp:cirripedia_gargoyle_statue": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:claret_button": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:claret_door": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "netherexp:claret_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:claret_fence_gate": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:claret_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "netherexp:claret_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:claret_pressure_plate": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:claret_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "netherexp:claret_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:claret_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:claret_trapdoor": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "netherexp:claret_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "netherexp:claret_wall_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "netherexp:cracked_quartz_bricks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "netherexp:cracked_soul_slate_bricks": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:crimson_nylium_path": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:crimson_sporeshroom": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:crimson_sprouts": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:cut_netherite_block": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:cut_netherite_pillar": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:cut_netherite_slab": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:cut_netherite_stairs": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:damp_siltmarram": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:discernment_glass": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "netherexp:drifting_souls": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:dry_siltmarram": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:ecto_soul_sand": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:ectoplasm": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "netherexp:ectoplasm_cauldron": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "netherexp:etched_soul_slate_bricks": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:etched_soul_slate_tiles": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:fossil_fuel_ore": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "netherexp:fossil_ore": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "netherexp:ghoul_gargoyle_statue": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:ghoul_o_lantern": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "netherexp:haze_block": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:inscribed_panel": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:magma_cream_block": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:moist_siltmarram": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:nether_brick_pillar": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "netherexp:nether_pizza": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:nether_wart_beard": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:netherite_grate": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:netherite_plated_block": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:netherrack_brick_slab": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:netherrack_brick_stairs": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:netherrack_brick_wall": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:netherrack_bricks": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:netherrack_pillar": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:netherrack_tiles": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:obfuscated_gargoyle_statue": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:occult_gargoyle_statue": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:ochre_frogmist": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:ossified_gargoyle_statue": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:pale_soul_slate": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:pearlescent_frogmist": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:petrified_swirls": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "netherexp:phase_gargoyle_statue": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:phasmo_slab": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "netherexp:polished_basalt_brick_slab": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:polished_basalt_brick_stairs": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:polished_basalt_brick_wall": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:polished_basalt_bricks": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:polished_basalt_slab": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:polished_basalt_stairs": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:polished_basalt_wall": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.7766667
-  },
-  "netherexp:polished_blackstone_fence": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "netherexp:polished_blackstone_pillar": {
-    "maxWaterDepth": 61,
-    "implosionChance": 0.6333333
-  },
-  "netherexp:potted_crimson_sporeshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:potted_soul_swirls": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:potted_soul_torchflower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:potted_warped_sporeshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:pyroclast": {
-    "maxWaterDepth": 17,
-    "implosionChance": 0.85
-  },
-  "netherexp:pyroclast_crusts": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "netherexp:pyroclast_slab": {
-    "maxWaterDepth": 17,
-    "implosionChance": 0.85
-  },
-  "netherexp:pyroclast_stairs": {
-    "maxWaterDepth": 17,
-    "implosionChance": 0.85
-  },
-  "netherexp:pyroclast_wall": {
-    "maxWaterDepth": 17,
-    "implosionChance": 0.85
-  },
-  "netherexp:quartz_crystal": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "netherexp:quartz_crystal_block": {
-    "maxWaterDepth": 42,
-    "implosionChance": 0.75
-  },
-  "netherexp:red_mixed_nether_bricks": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.6666667
-  },
-  "netherexp:rusty_cut_netherite_block": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:rusty_cut_netherite_pillar": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:rusty_cut_netherite_slab": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:rusty_cut_netherite_stairs": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:rusty_netherite_grate": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:rusty_netherite_plated_block": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:sculk_grinder": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "netherexp:sealed_gargoyle_statue": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:shotgun_barrel": {
-    "maxWaterDepth": 58,
-    "implosionChance": 0.65
-  },
-  "netherexp:shroomnight": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "netherexp:silt": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:silt_flint_ore": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "netherexp:skeleton_skull_candle": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "netherexp:skull_block": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:smooth_netherrack": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:smooth_netherrack_slab": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:smooth_netherrack_stairs": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:smooth_netherrack_wall": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:sorroweed": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:sorrowsquash": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "netherexp:sorrowsquash_stem": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:sorrowsquash_stem_plant": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:soul_burning_skull_block": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:soul_burning_wither_skull_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.4
-  },
-  "netherexp:soul_candle": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "netherexp:soul_glass": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "netherexp:soul_magma_block": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:soul_path": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:soul_permafrost": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:soul_skeleton_skull_candle": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "netherexp:soul_slate": {
-    "maxWaterDepth": 111,
-    "implosionChance": 0.33333334
-  },
-  "netherexp:soul_slate_brick_pillar": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:soul_slate_brick_slab": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:soul_slate_brick_stairs": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:soul_slate_brick_wall": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:soul_slate_bricks": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:soul_slate_slab": {
-    "maxWaterDepth": 111,
-    "implosionChance": 0.33333334
-  },
-  "netherexp:soul_slate_stairs": {
-    "maxWaterDepth": 111,
-    "implosionChance": 0.33333334
-  },
-  "netherexp:soul_slate_tile_slab": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:soul_slate_tile_stairs": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:soul_slate_tile_wall": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:soul_slate_tiles": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:soul_slate_wall": {
-    "maxWaterDepth": 111,
-    "implosionChance": 0.33333334
-  },
-  "netherexp:soul_soil_layer": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:soul_swirls": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:soul_torchflower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:soul_torchflower_crop": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:souled_geyser": {
-    "maxWaterDepth": 111,
-    "implosionChance": 0.33333334
-  },
-  "netherexp:stacked_bone_slab": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:stacked_bone_stairs": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:stacked_bones": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:stacked_wither_bone_slab": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.4
-  },
-  "netherexp:stacked_wither_bone_stairs": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.4
-  },
-  "netherexp:stacked_wither_bones": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.4
-  },
-  "netherexp:stripped_claret_hyphae": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:stripped_claret_stem": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:suspicious_soul_sand": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "netherexp:tethered_bone_block": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:thin_black_ice": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:trample_gargoyle_statue": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:treacherous_burning_skull_block": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "netherexp:treacherous_burning_wither_skull_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.4
-  },
-  "netherexp:treacherous_campfire": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "netherexp:treacherous_candle": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "netherexp:treacherous_fire": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:treacherous_gargoyle_statue": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "netherexp:treacherous_lantern": {
-    "maxWaterDepth": 58,
-    "implosionChance": 0.65
-  },
-  "netherexp:treacherous_skeleton_skull_candle": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "netherexp:treacherous_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:treacherous_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:treacherous_wax_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "netherexp:twisting_ivy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:twisting_polished_blackstone_brick_slab": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "netherexp:twisting_polished_blackstone_brick_stairs": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "netherexp:twisting_polished_blackstone_brick_wall": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "netherexp:twisting_polished_blackstone_bricks": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "netherexp:verdant_frogmist": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:warped_nylium_path": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "netherexp:warped_sporeshroom": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "netherexp:warped_wart": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:warped_wart_beard": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:waxen_soul_glass": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "netherexp:weeping_ivy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "netherexp:weeping_polished_blackstone_brick_slab": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "netherexp:weeping_polished_blackstone_brick_stairs": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "netherexp:weeping_polished_blackstone_brick_wall": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "netherexp:weeping_polished_blackstone_bricks": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "netherexp:wither_bone_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.4
-  },
-  "netherexp:wither_skull_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.4
-  },
-  "netherexp:wraithing_lesion": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.85
-  },
-  "netherexp:wretched_gargoyle_statue": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
   },
   "nightlights:fairy_lights_black": {
     "maxWaterDepth": 1,
@@ -87566,10 +89774,6 @@
     "implosionChance": 0.85
   },
   "suppsquared:netherdescent/item_shelf_wailing": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "suppsquared:netherexp/item_shelf_claret": {
     "maxWaterDepth": 5,
     "implosionChance": 0.85
   },
