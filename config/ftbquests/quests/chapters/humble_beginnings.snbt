@@ -709,6 +709,7 @@
 		{
 			dependencies: ["34BEAF6B56B4C6DE"]
 			id: "530ACB2BC238A0CA"
+			shape: "gear"
 			tasks: [
 				{
 					id: "32B67FBD088A08CC"

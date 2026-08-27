@@ -11,7 +11,7 @@
 		click_action: "none:"
 		height: 4.0d
 		id: "756F4971EFDD9ACF"
-		image: "nonamepack:textures/quests/auronautics_blimp.png"
+		image: "lce:textures/quests/auronautics_blimp.png"
 		rotation: 0.0d
 		width: 4.0d
 		x: -10.0d
@@ -120,6 +120,16 @@
 			}]
 			x: -11.0d
 			y: 3.5d
+		}
+		{
+			id: "08F3F170732A4F12"
+			tasks: [{
+				id: "4D31CBD405404458"
+				item: { count: 1, id: "aeronautics:aviators_goggles" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: 2.0d
 		}
 	]
 }

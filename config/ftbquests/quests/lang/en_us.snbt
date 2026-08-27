@@ -145,6 +145,11 @@
 	quest.4939740352E94AC6.quest_subtitle: "Now Thats A Package"
 	quest.4C42BD1E264F5365.quest_desc: ["Now that you have your sticks and stones, craft 1 of each into a &lhatchet&r. Use this to cut down your first trees."]
 	quest.4D2D84D3D098679C.title: "Drawer 2x2"
+	quest.4E928F73B2BDB3E6.quest_desc: [
+		"The analog lever places next to the burner will let you control just how much heat you produce."
+		""
+		"Build a balloon above the burner, taking care to have a hole into the balloon above the burner."
+	]
 	quest.4E928F73B2BDB3E6.title: "Take To The Sky"
 	quest.54FB4C5B0F2890BA.quest_desc: ["To get your first &6Copper Ingots&r place your Raw Copper onto the campfire."]
 	quest.54FB4C5B0F2890BA.title: "3x Copper Ingots"
@@ -153,7 +158,7 @@
 		"Slap a Basic Burner under your Basin, throw in some charcoal, light it, and you'll be able to craft some iron tool heads!"
 		""
 		""
-		"{image:nonamepack:textures/quests/low_heated_compactor.png width:100 height:100 align:center fit:true}"
+		"{image:lce:textures/quests/low_heated_compactor.png width:100 height:100 align:center fit:true click_action:none:}"
 	]
 	quest.553B12306F604327.quest_subtitle: "It's getting hot in here..."
 	quest.553B12306F604327.title: "Heating"
