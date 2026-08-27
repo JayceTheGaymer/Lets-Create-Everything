@@ -69,6 +69,7 @@
 	quest.15B8A416EE240939.title: "Book Shelves"
 	quest.16475B0D00F1DF13.quest_desc: ["Use 3 rocks and 2 sticks to get yourself a Stone Pickaxe. Don't get too excited, you can't even collect cobblestone with it."]
 	quest.16475B0D00F1DF13.title: "Baby's First Pick"
+	quest.16C7DD2BA3F67A5E.quest_desc: ["You'll need this beauty to cook up that ingots for your second pickaxe."]
 	quest.16C7DD2BA3F67A5E.quest_subtitle: "C A M P F I R E S O N G SONG!"
 	quest.173E5461263BC6D5.title: "Propel Forward"
 	quest.1AD8C03269041C22.quest_desc: ["Hunting for a specific mob and don't want to wait for the night? Use a Hammock to nap the day away!"]
@@ -99,7 +100,9 @@
 	quest.2A00EF3CA92BE209.quest_desc: [
 		"To get started with Create (and subsequently get your Iron Pickaxe) you're going to need &l&7Andesite Alloy&r&r, and a whole lot more the further you go."
 		""
-		"Start by collecting some &7&lAndesite&r&r and either Zinc or Iron nuggets."
+		"Start by collecting some &7&lAndesite&r&r and craft some Iron nuggets."
+		""
+		"To get Andesite Casing you need to strip a log and right click on it with your Andesite Alloy."
 	]
 	quest.2A00EF3CA92BE209.quest_subtitle: "The key to Create"
 	quest.2AAA8436F604C8F6.quest_desc: ["Ahhh.. finally, having access to mining stone and iron. Sadly coal is still out of reach, but we're taking baby steps here."]
@@ -108,8 +111,17 @@
 		""
 		"Take some time to look around and explore the redesigned fortress. While you're at it you may as well stuff your pockets (and backpack) with all the treausers inside!"
 	]
+	quest.304FF576D9CD3CE7.quest_desc: [
+		"The &2Nature's Compass&r is a great tool for finding specific biomes you may be looking for."
+		""
+		"The &3Explorer's Compass&r on the other hand is for finding structures like a Nether Fortress or Stronghold. Just a tip, when looking for these structures you will likely see a \"Better\" variant of them, and that's the one you actually want."
+	]
+	quest.304FF576D9CD3CE7.quest_subtitle: "Adventure Time!"
+	quest.304FF576D9CD3CE7.title: "Nature's \\& Explorer's Compass"
 	quest.33A44F2C578DD264.quest_desc: ["Tired of worrying about durability on your Construction Stick? Well now you can make it unbreakable! It's just a little expensive..."]
 	quest.33A44F2C578DD264.title: "Unbreakable Sticks"
+	quest.34BEAF6B56B4C6DE.quest_desc: ["To make the &bDiamond Pickaxe Head&r, place a &bDiamond Block&r in the Lathe and rick click to open the GUI. Select the recipe and it'll get to work."]
+	quest.34BEAF6B56B4C6DE.title: "Diamond Pickaxe"
 	quest.35595CFFC02E715C.quest_desc: [
 		"Construction Sticks are your new best friend for building. These aren't just any ol' stick, they allow you to build much quicker then by hand."
 		""
@@ -122,7 +134,7 @@
 		"All other Iron tools will be made similarly, Remember to use JEI!"
 		"Some tools require Iron Sheets, with the mechanical press you could use a depot or a solid block replacing the basin to create them."
 	]
-	quest.357C17BFAF372EB5.quest_subtitle: "Yes, this can actually mine stone."
+	quest.357C17BFAF372EB5.quest_subtitle: "Yes, this can mine coal"
 	quest.357C17BFAF372EB5.title: "Now Thats A Pick!"
 	quest.39307676CADEBE59.quest_desc: [
 		"Your first source of &bRotational Power&r to begin your journey into &6Create!&r This power source will make you hungry quickly and requires you to constantly crank it to keep your machines going."
@@ -139,11 +151,12 @@
 		""
 		"Attach a Handle so you can pull you contraption around!"
 	]
-	quest.3DC3C055D3CAC041.quest_subtitle: "MAYBE MOVE TO CREATE CHAPTER?"
+	quest.3EAB74F6B03F0356.quest_desc: ["When you first mine Lapis ore you'll get &1Rough Lazurite&r. You need to right click them on the Grindstone to get Lapis"]
+	quest.3EAB74F6B03F0356.title: "Lapis Lazuli"
 	quest.43A8512AB27EDDFF.quest_desc: ["This section is full of helpful things within the pack that don't quite belong in another section and aren't big enough for their own quest line."]
 	quest.43A8512AB27EDDFF.title: "Tips \\& Tricks"
 	quest.4939740352E94AC6.quest_subtitle: "Now Thats A Package"
-	quest.4C42BD1E264F5365.quest_desc: ["Now that you have your sticks and stones, craft 1 of each into a &lhatchet&r. Use this to cut down your first trees."]
+	quest.4C42BD1E264F5365.quest_desc: ["Now that you have your sticks and stones, craft 1 of each into a &lStone Hatchet&r. This is what you need to cut down your first tree."]
 	quest.4D2D84D3D098679C.title: "Drawer 2x2"
 	quest.4E928F73B2BDB3E6.quest_desc: [
 		"The analog lever places next to the burner will let you control just how much heat you produce."
@@ -155,13 +168,16 @@
 	quest.54FB4C5B0F2890BA.title: "3x Copper Ingots"
 	quest.553B12306F604327.quest_desc: [
 		"To work with iron, its gotta be &4heated&r! "
-		"Slap a Basic Burner under your Basin, throw in some charcoal, light it, and you'll be able to craft some iron tool heads!"
+		"Slap a Basic Burner under your Basin, throw in some fuel (wood, charcoal, etc.), light it, and you'll be able to craft some iron tool heads!"
 		""
 		""
 		"{image:lce:textures/quests/low_heated_compactor.png width:100 height:100 align:center fit:true click_action:none:}"
 	]
 	quest.553B12306F604327.quest_subtitle: "It's getting hot in here..."
 	quest.553B12306F604327.title: "Heating"
+	quest.565FFFC5B476D0F4.quest_desc: ["Now that you have Blaze Rods you can collect some Ender Pearls to make Eyes of Ender to head to The End!"]
+	quest.565FFFC5B476D0F4.title: "Eye of Ender"
+	quest.58AC8BB07E727365.quest_desc: ["The &lLathe&r will be needed to make all of your &bDiamond Tool Heads&r. This block requires a high amount of &6Stress Units&r and &6RPM from Create&r, so it is recommended to explore into the &l&nCreate Main quest line&r&r to increase your power creation."]
 	quest.5E2B89D9EB7C3C39.quest_subtitle: "It is called MineCRAFT after all"
 	quest.6117F4FC083336E6.quest_desc: ["[ \"The pack is still a work in progress and is considered in an Alpha state. Please report any bugs/issues, or make suggestions over on \", { \"text\": \"Github\", \"underlined\": true, \"clickEvent\": { \"action\": \"open_url\", \"value\": \"https://github.com/JayceTheGaymer/NoNameModpack/issues\" } } ]"]
 	quest.6117F4FC083336E6.title: "Welcome To Our Pack!"
@@ -172,10 +188,13 @@
 		"Once you have 3 of them, if you feel prepared, you can take on the Wither!"
 	]
 	quest.6791E24A9CFA844A.title: "Spooky Scary Skeletons"
+	quest.6C13696A75659F6E.quest_desc: ["When you first mine Diamond ore you'll get &bRough Diamonds&r. You need to right click them on the Diamond Grindstone to get Diamonds."]
+	quest.6C13696A75659F6E.title: "Diamonds"
 	quest.6C194A6B436F7907.title: "Drawer 1x1"
 	quest.6CF4337005785644.quest_desc: ["Don't go trying to punch trees with your fist just yet. To get started you need to collect &7&lrocks&r&r from the ground and break some leaves to get sticks."]
 	quest.6CF4337005785644.quest_subtitle: "These may break your bones..."
 	quest.6CF4337005785644.title: "Sticks \\& Stones"
+	quest.6FBE965016E0F0CE.title: "A Creator's Tools"
 	quest.707A04EA9F99F727.quest_desc: [
 		"By placing a &#994D1BPhysics Assembler&r on a block and flipping the lever you get a simulated physics block, which roll tumble and fall."
 		""
@@ -187,19 +206,24 @@
 	quest.7580CF6BB97FDCA0.quest_subtitle: "Buffer This"
 	quest.7580CF6BB97FDCA0.title: "Item Vaults"
 	quest.76FAFD6C5E57C363.title: "Time To Drive"
+	quest.785879609466CCC9.quest_desc: ["When you first mine Emerald ore you'll get &2Rough Emeralds&r. You need to right click them on the Grindstone to get Emeralds."]
+	quest.785879609466CCC9.title: "Emeralds"
 	quest.7B51DA14155497B4.quest_desc: ["Now that you have a &6Copper Pickaxe&r, it's finally time to go collect some Raw Iron. Don't rush to crafting an Iron Pickaxe though. First, you have to dip into Create."]
 	quest.7B51DA14155497B4.quest_subtitle: "Don't let it rust though"
 	quest.7B51DA14155497B4.title: "Time for iron!"
 	task.051062613B3CAF05.title: "Sleeping Bags"
+	task.0BAEE30819528638.title: "The End?"
 	task.2734F92DC5D53EDF.title: "Click To Complete"
 	task.2B6189EA1DC50557.title: "Storm The Fortress!"
 	task.3149348184E91F66.title: "Echo pour"
 	task.435DDBA41E950C50.title: "Press"
 	task.4777A3B45D1E47DE.title: "Any #constructionstick:construction_sticks"
 	task.4C3076E2E49B30C9.title: "Book Shelves"
+	task.5667A5ADE390CD2A.title: "The Stronghold"
 	task.5B1D9749FBABEAAE.title: "Hammocks"
 	task.5DD6AC5F712C62B2.title: "Lava poor"
 	task.5E61D5953E0044B4.title: "Kill the Wither"
 	task.6077E4F3B91394D2.title: "Blaze"
+	task.64B3275BE73B8DEA.title: "The End"
 	task.653DAD8BB0F61C91.title: "We Need To Go Deeper"
 }

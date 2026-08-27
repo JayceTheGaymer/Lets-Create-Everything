@@ -181,7 +181,15 @@
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },
+  "aeroworks:control_stand": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
   "aeroworks:copycat_control_desk": {
+    "maxWaterDepth": 120,
+    "implosionChance": 0.28
+  },
+  "aeroworks:copycat_control_stand": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
   },

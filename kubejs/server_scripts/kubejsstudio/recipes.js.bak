@@ -43,4 +43,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'createvintageneoforged:mechanical_crafting/helve_hammer' })
     event.shaped('createvintageneoforged:helve_hammer', ['  #', 'ABB', 'A #'], { '#': '#c:ingots/andesite_alloy', 'A': '#c:storage_blocks/iron', 'B': '#minecraft:logs' }).id('kubejsstudio:helve_hammer')
     event.shaped('create:empty_blaze_burner', [' # ', '#A#', ' # '], { '#': '#c:plates/cast_iron', 'A': '#c:netherracks' }).id('kubejsstudio:empty_blaze_burner')
+    event.remove({ id: 'create:crafting/kinetics/empty_blaze_burner' })
+    event.remove({ id: 'explorerscompass:explorers_compass' })
+    event.shaped('explorerscompass:explorerscompass', ['#A#', 'BCD', '#E#'], { '#': 'tfmg:cast_iron_sheet', 'A': '#c:sandstone/blocks', 'B': 'minecraft:mossy_cobblestone', 'C': 'minecraft:compass', 'D': '#minecraft:stone_bricks', 'E': 'minecraft:nether_bricks' }).group('tools').id('kubejsstudio:explorers_compass_new')
 })

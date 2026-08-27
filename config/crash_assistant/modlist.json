@@ -21,21 +21,21 @@
     "curseForgeHash": 485453711,
     "modrinthHash": "6ef620d126dade2fbf4b1ac8715ad84a930d5a87"
   },
-  "aeronauticshotairfix-1.1.0.jar": {
-    "jarName": "aeronauticshotairfix-1.1.0.jar",
+  "aeronauticshotairfix-1.1.1.jar": {
+    "jarName": "aeronauticshotairfix-1.1.1.jar",
     "modId": "aeronauticshotairfix",
     "name": "Aeronautics Hot Air Fix",
-    "version": "1.1.0",
-    "curseForgeHash": 728025192,
-    "modrinthHash": "f4d8dab54b9b7b53aae1e6fed4675e17309bb0e2"
+    "version": "1.1.1",
+    "curseForgeHash": 1711498081,
+    "modrinthHash": "03aea7e35d77d192661dc1bcbf21d389480d84cc"
   },
-  "aeroworks-1.4.2.jar": {
-    "jarName": "aeroworks-1.4.2.jar",
+  "aeroworks-1.5.0.jar": {
+    "jarName": "aeroworks-1.5.0.jar",
     "modId": "aeroworks",
     "name": "Create: Aeroworks",
-    "version": "1.4.2",
-    "curseForgeHash": 1292872067,
-    "modrinthHash": "bba3ae9237e91e70b0eef92b2c12a33557e5d1a5"
+    "version": "1.5.0",
+    "curseForgeHash": 2686966127,
+    "modrinthHash": "a14ff1c30f3c824b36ee6e2e711a47fd537a5c5f"
   },
   "almostunified-neoforge-1.21.1-1.4.2.jar": {
     "jarName": "almostunified-neoforge-1.21.1-1.4.2.jar",
@@ -53,13 +53,13 @@
     "curseForgeHash": 169092502,
     "modrinthHash": "c79ab328b2c46068effebdcb3f26e98dc4404cb0"
   },
-  "amendments-1.21-2.1.8-neoforge.jar": {
-    "jarName": "amendments-1.21-2.1.8-neoforge.jar",
+  "amendments-1.21-2.1.9-neoforge.jar": {
+    "jarName": "amendments-1.21-2.1.9-neoforge.jar",
     "modId": "amendments",
     "name": "Amendments",
-    "version": "1.21-2.1.8",
-    "curseForgeHash": 3605525553,
-    "modrinthHash": "6ac2840cc53354911a53860c096ed0f6cd77e259"
+    "version": "1.21-2.1.9",
+    "curseForgeHash": 3301154218,
+    "modrinthHash": "7f6d914bc46828156ac04c701d51e841ab62c84f"
   },
   "appleskin-neoforge-mc1.21-3.0.9.jar": {
     "jarName": "appleskin-neoforge-mc1.21-3.0.9.jar",
@@ -301,6 +301,14 @@
     "curseForgeHash": 2832161208,
     "modrinthHash": "21d6bee3821d62fe3356c51fb1d697871a3087ff"
   },
+  "configurable-3.5.2+1.21.1-neoforge.jar": {
+    "jarName": "configurable-3.5.2+1.21.1-neoforge.jar",
+    "modId": "configurable",
+    "name": "Configurable",
+    "version": "3.5.2",
+    "curseForgeHash": 1295136644,
+    "modrinthHash": "995cb737fb267f39b1936771de38f252de90e9a9"
+  },
   "connector-2.0.0-beta.17+1.21.1-full.jar": {
     "jarName": "connector-2.0.0-beta.17+1.21.1-full.jar",
     "curseForgeHash": 3401352050,
@@ -450,13 +458,13 @@
     "curseForgeHash": 515050638,
     "modrinthHash": "4ad5c181c805a548e15892500b07c0c0f88f0734"
   },
-  "create-integrated-farming-1.3.2.jar": {
-    "jarName": "create-integrated-farming-1.3.2.jar",
+  "create-integrated-farming-1.3.3b.jar": {
+    "jarName": "create-integrated-farming-1.3.3b.jar",
     "modId": "create_integrated_farming",
     "name": "Create: Integrated Farming",
-    "version": "1.3.2",
-    "curseForgeHash": 3923284113,
-    "modrinthHash": "9b5428c4d9da589439493aa4457a59b741afb369"
+    "version": "1.3.3b",
+    "curseForgeHash": 3413630410,
+    "modrinthHash": "344990890a4d1d78e936a41176fe520564f8ad53"
   },
   "create-stuff-additions1.21.1_v2.1.4b.jar": {
     "jarName": "create-stuff-additions1.21.1_v2.1.4b.jar",
@@ -978,13 +986,13 @@
     "curseForgeHash": 243616433,
     "modrinthHash": "9922fa358983120edeed22194bf02bcf9c859fbb"
   },
-  "ftb-quests-neoforge-2101.1.33.jar": {
-    "jarName": "ftb-quests-neoforge-2101.1.33.jar",
+  "ftb-quests-neoforge-2101.1.34.jar": {
+    "jarName": "ftb-quests-neoforge-2101.1.34.jar",
     "modId": "ftbquests",
     "name": "FTB Quests",
-    "version": "2101.1.33",
-    "curseForgeHash": 3843142229,
-    "modrinthHash": "e1a30e1c75f7d02d5cb5b6ffd76fff373730cad4"
+    "version": "2101.1.34",
+    "curseForgeHash": 1569292562,
+    "modrinthHash": "9c6a9adc77601cc8c07a3e058bd8cc42df0afe84"
   },
   "ftb-teams-neoforge-2101.1.11.jar": {
     "jarName": "ftb-teams-neoforge-2101.1.11.jar",
@@ -1066,13 +1074,13 @@
     "curseForgeHash": 231657982,
     "modrinthHash": "9727ef9c6734eeb726279c8d761617f9af93464e"
   },
-  "ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar": {
-    "jarName": "ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar",
+  "ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar": {
+    "jarName": "ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
     "modId": "immediatelyfast",
     "name": "ImmediatelyFast",
-    "version": "1.6.12+1.21.1",
-    "curseForgeHash": 105651959,
-    "modrinthHash": "c9522e369d76885c7c6682f1c852cd8f9bfb6f78"
+    "version": "1.6.13+1.21.1",
+    "curseForgeHash": 2974234986,
+    "modrinthHash": "cfc87deced26f78e46143fe5f0a33597d06845a8"
   },
   "immersivethunder-neoforge-1.21.1-1.3.0.jar": {
     "jarName": "immersivethunder-neoforge-1.21.1-1.3.0.jar",
@@ -1130,13 +1138,13 @@
     "curseForgeHash": 348657167,
     "modrinthHash": "dad40aef99baf2ed73946fcbe8cc94b1909e7653"
   },
-  "jei-1.21.1-neoforge-19.44.0.403.jar": {
-    "jarName": "jei-1.21.1-neoforge-19.44.0.403.jar",
+  "jei-1.21.1-neoforge-19.44.0.405.jar": {
+    "jarName": "jei-1.21.1-neoforge-19.44.0.405.jar",
     "modId": "jei",
     "name": "Just Enough Items",
-    "version": "19.44.0.403",
-    "curseForgeHash": 1080911592,
-    "modrinthHash": "f027864a444572205a546c78c48b882335540eb2"
+    "version": "19.44.0.405",
+    "curseForgeHash": 3748809136,
+    "modrinthHash": "cede8db343093e26a82531a59e537c039f6b5e07"
   },
   "jeiworldgen-neoforge-1.21.1-1.4.4.jar": {
     "jarName": "jeiworldgen-neoforge-1.21.1-1.4.4.jar",
@@ -1198,14 +1206,6 @@
     "version": "2101.7.2-build.374",
     "curseForgeHash": 3911194699,
     "modrinthHash": "d675ea2cfdf3286e996dcad5a27deba6a04bc3a2"
-  },
-  "kubejs_curios_neoforge_1.21.1-1.0.4.jar": {
-    "jarName": "kubejs_curios_neoforge_1.21.1-1.0.4.jar",
-    "modId": "kubejs_curios",
-    "name": "KubeJSCurios",
-    "version": "1.0.4",
-    "curseForgeHash": 1727905040,
-    "modrinthHash": "d76c4181e1436bc85f108c7191f1ed7ee374d318"
   },
   "kubejsstudio-neoforge-1.21.1-1.0.1.jar": {
     "jarName": "kubejsstudio-neoforge-1.21.1-1.0.1.jar",
@@ -1383,13 +1383,21 @@
     "curseForgeHash": 1427430770,
     "modrinthHash": "e19721873bebc4dbc1674bb101af39d0ea406b95"
   },
-  "Nether-Descent-NeoForge-1.0.7-mc1.21.1.jar": {
-    "jarName": "Nether-Descent-NeoForge-1.0.7-mc1.21.1.jar",
+  "neruina-3.3.3+1.21.1-neoforge.jar": {
+    "jarName": "neruina-3.3.3+1.21.1-neoforge.jar",
+    "modId": "neruina",
+    "name": "Neruina",
+    "version": "3.3.3",
+    "curseForgeHash": 3185069297,
+    "modrinthHash": "fcb2f6b8121bed42dd8ffd08ccefb61aa3ae76c9"
+  },
+  "Nether-Descent-NeoForge-1.0.8-mc1.21.1.jar": {
+    "jarName": "Nether-Descent-NeoForge-1.0.8-mc1.21.1.jar",
     "modId": "netherdescent",
     "name": "Nether Descent",
-    "version": "1.0.7",
-    "curseForgeHash": 980910998,
-    "modrinthHash": "2db651feb3c814395655934e15126418d77e67a6"
+    "version": "1.0.8",
+    "curseForgeHash": 852765099,
+    "modrinthHash": "6c4565c480e78acda18e0ed1c9f9e6bbb4e4daf6"
   },
   "nightlights-neoforge-1.3.0.jar": {
     "jarName": "nightlights-neoforge-1.3.0.jar",
@@ -1431,6 +1439,14 @@
     "curseForgeHash": 558594160,
     "modrinthHash": "1867792e4e3d9fc6bb7acabb31cbec7a3d49ecad"
   },
+  "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar": {
+    "jarName": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+    "modId": "owo",
+    "name": "oωo",
+    "version": "0.12.15.5-beta.1+1.21",
+    "curseForgeHash": 990455198,
+    "modrinthHash": "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
+  },
   "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar": {
     "jarName": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
     "modId": "packetfixer",
@@ -1462,6 +1478,14 @@
     "version": "1.5.7",
     "curseForgeHash": 3239353059,
     "modrinthHash": "d6d33e8233481ad8fc6f8c351f52783ed431a800"
+  },
+  "Patchouli-1.21.1-93-NEOFORGE.jar": {
+    "jarName": "Patchouli-1.21.1-93-NEOFORGE.jar",
+    "modId": "patchouli",
+    "name": "Patchouli",
+    "version": "1.21.1-93-NEOFORGE",
+    "curseForgeHash": 203243708,
+    "modrinthHash": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
   },
   "pfsable-1.0.jar": {
     "jarName": "pfsable-1.0.jar",

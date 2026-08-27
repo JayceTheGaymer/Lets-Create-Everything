@@ -206,6 +206,9 @@
 		}
 		{
 			dependencies: ["7B51DA14155497B4"]
+			icon: {
+				id: "create:andesite_alloy"
+			}
 			id: "2A00EF3CA92BE209"
 			rewards: [{
 				id: "397841E5A6DAF092"
@@ -306,6 +309,13 @@
 		}
 		{
 			dependencies: ["6BF4935C9315EA0B"]
+			icon: {
+				components: {
+					"sophisticatedcore:number_of_inventory_slots": 27
+					"sophisticatedcore:number_of_upgrade_slots": 0
+				}
+				id: "sophisticatedbackpacks:backpack"
+			}
 			id: "136FA8005C646988"
 			tasks: [
 				{
@@ -358,18 +368,7 @@
 			y: -3.5d
 		}
 		{
-			dependencies: ["0D0E239059813776"]
-			id: "3DC3C055D3CAC041"
-			tasks: [{
-				id: "4DF650155876F89E"
-				item: { count: 1, id: "create:millstone" }
-				type: "item"
-			}]
-			x: 12.0d
-			y: -4.5d
-		}
-		{
-			dependencies: ["0D0E239059813776"]
+			dependencies: ["1AF4119006BBD07B"]
 			id: "05385743C91B10EF"
 			optional: true
 			tasks: [{
@@ -377,11 +376,14 @@
 				item: { count: 1, id: "create:depot" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -4.5d
+			x: 12.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["2647B21344C5A841"]
+			icon: {
+				id: "minecraft:diamond"
+			}
 			id: "6C13696A75659F6E"
 			rewards: [{
 				count: 2
@@ -392,17 +394,28 @@
 				}
 				type: "item"
 			}]
-			tasks: [{
-				count: 8L
-				id: "1C555D80622C25C1"
-				item: { count: 1, id: "minecraft:diamond" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					count: 8L
+					id: "7BC61773DF44BBF3"
+					item: { count: 1, id: "spelunkery:rough_diamond" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1C555D80622C25C1"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+			]
 			x: 18.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["2647B21344C5A841"]
+			icon: {
+				id: "minecraft:lapis_lazuli"
+			}
 			id: "3EAB74F6B03F0356"
 			rewards: [{
 				count: 6
@@ -413,17 +426,28 @@
 				}
 				type: "item"
 			}]
-			tasks: [{
-				count: 16L
-				id: "0AA5B2EBB671FDDE"
-				item: { count: 1, id: "minecraft:lapis_lazuli" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					count: 6L
+					id: "66D2A428723D87BC"
+					item: { count: 1, id: "spelunkery:rough_lazurite" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "0AA5B2EBB671FDDE"
+					item: { count: 1, id: "minecraft:lapis_lazuli" }
+					type: "item"
+				}
+			]
 			x: 18.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["2647B21344C5A841"]
+			icon: {
+				id: "minecraft:emerald"
+			}
 			id: "785879609466CCC9"
 			rewards: [{
 				id: "1F116606EC0A8F11"
@@ -433,17 +457,28 @@
 				}
 				type: "item"
 			}]
-			tasks: [{
-				count: 3L
-				id: "24A483A9AC36C822"
-				item: { count: 1, id: "minecraft:emerald" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					count: 3L
+					id: "32A139F15AACACFC"
+					item: { count: 1, id: "spelunkery:rough_emerald" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "24A483A9AC36C822"
+					item: { count: 1, id: "minecraft:emerald" }
+					type: "item"
+				}
+			]
 			x: 18.0d
 			y: -2.0d
 		}
 		{
 			dependencies: ["357C17BFAF372EB5"]
+			icon: {
+				id: "spelunkery:diamond_grindstone"
+			}
 			id: "2647B21344C5A841"
 			tasks: [
 				{
@@ -591,6 +626,7 @@
 		}
 		{
 			dependencies: ["435120395F5D5C4C"]
+			hide_dependent_lines: true
 			id: "13872D6B8868C218"
 			shape: "gear"
 			tasks: [{
@@ -602,7 +638,10 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["34BEAF6B56B4C6DE"]
+			dependencies: [
+				"34BEAF6B56B4C6DE"
+				"3EAB74F6B03F0356"
+			]
 			id: "4B263774B219D778"
 			tasks: [{
 				id: "46C3EEA328CED98E"
@@ -610,10 +649,13 @@
 				type: "item"
 			}]
 			x: 22.5d
-			y: -3.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["4B263774B219D778"]
+			icon: {
+				id: "minecraft:bookshelf"
+			}
 			id: "15B8A416EE240939"
 			rewards: [
 				{
@@ -638,10 +680,13 @@
 				type: "item"
 			}]
 			x: 24.0d
-			y: -3.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["58AC8BB07E727365"]
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+			}
 			id: "34BEAF6B56B4C6DE"
 			rewards: [{
 				count: 6
@@ -654,18 +699,18 @@
 			}]
 			tasks: [
 				{
-					id: "137A0914BDADEB07"
-					item: { count: 1, id: "minecraft:diamond_pickaxe" }
-					type: "item"
-				}
-				{
 					id: "23603BF0502E338F"
 					item: { count: 1, id: "jayces_tweaks:diamond_pickaxe_head" }
 					type: "item"
 				}
+				{
+					id: "137A0914BDADEB07"
+					item: { count: 1, id: "minecraft:diamond_pickaxe" }
+					type: "item"
+				}
 			]
-			x: 21.0d
-			y: -2.0d
+			x: 21.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["5958A1BABEDA1FBD"]
@@ -703,11 +748,14 @@
 				item: { count: 1, id: "createvintageneoforged:lathe" }
 				type: "item"
 			}]
-			x: 19.5d
-			y: -2.0d
+			x: 20.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["34BEAF6B56B4C6DE"]
+			icon: {
+				id: "createvintageneoforged:helve_hammer"
+			}
 			id: "530ACB2BC238A0CA"
 			shape: "gear"
 			tasks: [
@@ -723,7 +771,7 @@
 				}
 			]
 			x: 22.5d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["530ACB2BC238A0CA"]
@@ -734,7 +782,93 @@
 				type: "item"
 			}]
 			x: 24.0d
-			y: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["109938A7176DF606"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:ender_eye"
+			}
+			id: "565FFFC5B476D0F4"
+			rewards: [{
+				id: "377EF695E24D3F70"
+				item: {
+					count: 1
+					id: "minecraft:ender_eye"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "6005D25C7124F8F0"
+					item: { count: 1, id: "minecraft:ender_pearl" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "377669497A7380AC"
+					item: { count: 1, id: "minecraft:ender_eye" }
+					type: "item"
+				}
+			]
+			x: 15.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["565FFFC5B476D0F4"]
+			id: "0B588187B53AA45D"
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "supplementaries:textures/map/decorations/stronghold.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "5667A5ADE390CD2A"
+				structure: "#betterstrongholds:better_strongholds"
+				type: "structure"
+			}]
+			x: 15.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0B588187B53AA45D"]
+			id: "0C17C046D0B07921"
+			shape: "none"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: {
+					components: {
+						"ftbquests:icon": "betterend:block/end_portal"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "0BAEE30819528638"
+				type: "dimension"
+			}]
+			x: 15.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0C17C046D0B07921"]
+			id: "285702E879C40508"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: {
+					components: {
+						"ftbquests:icon": "ftblibrary:textures/faces/minecraft/ender_dragon.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "64B3275BE73B8DEA"
+				type: "kill"
+				value: 1L
+			}]
+			x: 15.5d
+			y: 6.0d
 		}
 	]
 }

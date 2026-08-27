@@ -187,6 +187,11 @@
 					item: { count: 1, id: "create:goggles" }
 					type: "item"
 				}
+				{
+					id: "6F630686B2AF4233"
+					item: { count: 1, id: "create:brown_toolbox" }
+					type: "item"
+				}
 			]
 			x: 0.0d
 			y: -1.5d
