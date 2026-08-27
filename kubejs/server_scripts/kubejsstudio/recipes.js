@@ -8,6 +8,7 @@ ServerEvents.generateData('after_mods', event => {
     event.json('createcasing:recipe/crafting/steam_engine/andesite', {"type":"minecraft:crafting_shaped","category":"misc","pattern":["#","A","B"],"key":{"#":{"tag":"c:plates/brass"},"A":{"item":"create:andesite_alloy"},"B":{"tag":"c:storage_blocks/andesite_alloy"}},"result":{"id":"createcasing:andesite_steam_engine","count":1}})
     event.json('createcasing:recipe/crafting/steam_engine/brass', {"type":"minecraft:crafting_shaped","category":"misc","pattern":["#","A","B"],"key":{"#":{"tag":"c:plates/brass"},"A":{"item":"create:andesite_alloy"},"B":{"tag":"c:storage_blocks/brass"}},"result":{"id":"createcasing:brass_steam_engine","count":1}})
     event.json('createcasing:recipe/crafting/steam_engine/zinc', {"type":"minecraft:crafting_shaped","category":"misc","pattern":["#","A","B"],"key":{"#":{"tag":"c:plates/brass"},"A":{"item":"create:andesite_alloy"},"B":{"tag":"c:storage_blocks/zinc"}},"result":{"id":"createcasing:zinc_steam_engine","count":1}})
+    event.json('kubejsstudio:recipe/mechanical_crafting/helve_hammer', {"type":"create:mechanical_crafting","category":"misc","accept_mirrored":true,"pattern":["  A","BCC","B A"],"key":{"A":{"tag":"c:ingots/andesite_alloy"},"B":{"tag":"c:storage_blocks/iron"},"C":{"tag":"minecraft:logs"}},"result":{"id":"createvintageneoforged:helve_hammer","count":1}})
 })
 ServerEvents.recipes(event => {
     event.shaped('minecraft:iron_axe', ['#', 'A'], { '#': 'jayces_tweaks:iron_axe_head', 'A': '#c:rods/wooden' }).id('kubejsstudio:iron_axe')
@@ -39,4 +40,6 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'create_sa:copper_axe_recipe' })
     event.remove({ id: 'create_sa:copper_shovel_recipe' })
     event.remove({ id: 'create_sa:copper_hoe_recipe' })
+    event.remove({ id: 'createvintageneoforged:mechanical_crafting/helve_hammer' })
+    event.shaped('createvintageneoforged:helve_hammer', ['  #', 'ABB', 'A #'], { '#': '#c:ingots/andesite_alloy', 'A': '#c:storage_blocks/iron', 'B': '#minecraft:logs' }).id('kubejsstudio:helve_hammer')
 })

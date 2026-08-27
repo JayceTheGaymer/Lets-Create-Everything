@@ -24,6 +24,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["585731D1D1090925"]
 			id: "7BA11EA3FE58F587"
 			tasks: [{
 				id: "0F15CE206475C9A3"
@@ -34,24 +35,26 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["545E61F7F76998FF"]
 			id: "4A50AA5B33B1BC52"
 			tasks: [{
 				id: "5BA197999DB7DF15"
 				item: { count: 1, id: "create:white_sail" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 1.5d
+			x: 1.0d
+			y: 2.5d
 		}
 		{
+			dependencies: ["7BA11EA3FE58F587"]
 			id: "51E7AF47FBB54723"
 			tasks: [{
 				id: "63305588B17AE347"
 				item: { count: 1, id: "create:large_water_wheel" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 2.0d
+			x: -1.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["1FD466E1ACF4B299"]
@@ -104,6 +107,17 @@
 			}]
 			x: -4.0d
 			y: -1.5d
+		}
+		{
+			dependencies: ["585731D1D1090925"]
+			id: "545E61F7F76998FF"
+			tasks: [{
+				id: "5A2693C7C7F1E52A"
+				item: { count: 1, id: "create:windmill_bearing" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
 		}
 	]
 }
