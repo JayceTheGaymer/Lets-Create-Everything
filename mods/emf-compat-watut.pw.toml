@@ -1,6 +1,6 @@
 name = "EMF Compat: WATUT"
 filename = "emf_compat_watut_1.21.1_1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

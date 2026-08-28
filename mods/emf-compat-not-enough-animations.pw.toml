@@ -1,6 +1,6 @@
 name = "EMF Compat: Not Enough Animations"
 filename = "emf_compat_not_enough_animations_1.21.1_1.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

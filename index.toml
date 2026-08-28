@@ -26,7 +26,7 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "38569da379a1f85b08176498dda6f6158b22a5e161788b065fe8484ff35430a5"
+hash = "3fc8ea9262c853bd22b9b66d709c57d20f2278a965ba610c47ed486dbe94a4a2"
 
 [[files]]
 file = "CLAUDE.md"
@@ -479,10 +479,6 @@ file = "config/create_aquatic_ambitions-server.toml"
 hash = "0253f9d40e828b0226d6efb2441cc4379e312688dfa1eef55d48871d17cf83a2"
 
 [[files]]
-file = "config/create_connected-common-1.toml.bak"
-hash = "5e18ed787b1fb0fcd23abcc4baf7f73f5ebcf73f369bf1102ba251569fd06fd4"
-
-[[files]]
 file = "config/create_connected-common.toml"
 hash = "af0c5b90e3cc9f015933cd3391c4ad5c105d49ac47d500fcc0a1b848246825b3"
 
@@ -633,10 +629,6 @@ hash = "8ebd8ce17fd98dc18dde0d3271b9237fbc98d9664647940308c9a4d7804dc200"
 [[files]]
 file = "config/crittersandcompanions-common.json5"
 hash = "6c71ae8e49bbd1da8e98d86e218db5479e62a540cf44c4df49426e4d2b690209"
-
-[[files]]
-file = "config/cubes_without_borders.json"
-hash = "ce7ca9dbe01ec142cd2e84d9f3c708c6ec2d83fe8a378ac6a8047cbe26615f28"
 
 [[files]]
 file = "config/cupboard.json"
@@ -1341,14 +1333,6 @@ hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
 [[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/spark/tmp-client/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
-file = "config/spark/tmp/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "config/spelunkery-client.toml"

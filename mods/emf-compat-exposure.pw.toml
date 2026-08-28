@@ -1,6 +1,6 @@
 name = "EMF Compat: Exposure"
 filename = "emf_compat_exposure_1.21.1_1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

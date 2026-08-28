@@ -1,6 +1,6 @@
 name = "EMF Compat: Supplementaries"
 filename = "emf_compat_supplementaries_1.21.1_1.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
