@@ -1,0 +1,13 @@
+name = "Create: Eat Andesite"
+filename = "eatandesite-neoforge-1.21.1-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "119b770db831c638a9a63ca9c9d3a9c2dd1e19ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8496041
+project-id = 1622615

@@ -1,0 +1,13 @@
+name = "Sound Physics: Aeronautics"
+filename = "sound-physics-aeronautics-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04d1bf5969d878d43278d447f312e6c681f723c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8721257
+project-id = 1596332

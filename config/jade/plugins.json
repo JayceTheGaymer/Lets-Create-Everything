@@ -117,13 +117,22 @@
   "betterend": {
     "plant_growth": true
   },
+  "create_dragons_plus": {
+    "create_dragons_plus_tooltip": true
+  },
   "quark": {
     "oretoise_eating_cooldown": true
   },
   "supplementaries": {
     "hat_stand": true
   },
+  "create_enchantment_industry": {
+    "create_enchantment_industry_tooltip": true
+  },
   "corpse": {
     "corpse": true
+  },
+  "create_connected": {
+    "create_connected_tooltip": true
   }
 }

@@ -1,0 +1,13 @@
+name = "Hexalia"
+filename = "hexalia-neoforge-1.3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9727ef9c6734eeb726279c8d761617f9af93464e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8658488
+project-id = 962878

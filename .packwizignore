@@ -1,0 +1,6 @@
+# Ignores GitHub related files.
+/.gitignore
+/README.md
+/KNOWN-ISSUES.md
+/CLAUDE.md
+/.github

@@ -1,0 +1,13 @@
+name = "Sable Power Loader Compat"
+filename = "sablepowerloadercompat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c8e836758947480a3f017a43e83705b498c319a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8609854
+project-id = 1645784

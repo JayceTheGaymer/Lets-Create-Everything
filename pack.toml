@@ -1,0 +1,13 @@
+name = "Let's Create Everything"
+author = "JayceTheGaymer & FroggieJonnie"
+version = "0.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9e71b9899ae815c98cbde7f58d132d7d54c8e5115fdb0edcbbd8fca5648b017a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
