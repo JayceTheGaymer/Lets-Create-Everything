@@ -1,0 +1,13 @@
+name = "Dungeons And Villages: Deeper and Darker"
+filename = "Dungeons And Villages DeeperAndDarker 1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c371218715ebe272b85b8f28956c2f827432335"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8357976
+project-id = 1481113

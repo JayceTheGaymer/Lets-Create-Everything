@@ -1,0 +1,13 @@
+name = "Jayce's Tweaks"
+filename = "jayces_tweaks-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dad40aef99baf2ed73946fcbe8cc94b1909e7653"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8717825
+project-id = 1654663
