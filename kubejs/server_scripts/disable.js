@@ -1,7 +1,13 @@
 BlockEvents.rightClicked('minecraft:smithing_table', event => {
-    // Stops the smithing table GUI from opening
-    event.cancel()
+    const player = event.player
+    const item = event.item
 
-    // Optional: Send a status message to the player
-    event.player.displayClientMessage(Text.red('The Smithing Table has been disabled! Use  helve hammer instead.'), true)
+    // If the player is sneaking and holding a block, allow default placement behavior
+    if (player.isCrouching() && item.isBlock()) {
+        return
+    }
+
+    // Otherwise, cancel the GUI and show the message
+    event.cancel()
+    player.displayClientMessage('The Smithing Table has been disabled! Use a helve hammer instead.')
 })
