@@ -1827,7 +1827,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
+hash = "075877ff2a9539ebe8238238f9d50cd0068e29583bcc110f98fe7c08c4769058"
 metafile = true
 
 [[files]]
@@ -2852,7 +2852,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "5efed8e315c9d513168cc37fe4d22eece810a05d5afc95582838654ab5398e36"
+hash = "3fc6fd4a464740bd6cfe89571517cfda837dbad69f0218ef1159b527b1be45d6"
 metafile = true
 
 [[files]]
@@ -2931,7 +2931,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a62d00b724dbac4906afd5d8676f6f65be306eedf2eb9cdb5b6aec1fc80c300a"
+hash = "d8a69a6367d92895e093e003c436de43abb3292a3c676908a95d0c0db1d14830"
 metafile = true
 
 [[files]]
