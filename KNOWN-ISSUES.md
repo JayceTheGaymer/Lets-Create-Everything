@@ -34,6 +34,31 @@ Links to GitHub issue(s) if one exists.
 
 ---
 
+## Create: Totem Factory Causes KubeJS Errors
+
+**Status:** ❌ No Current Fix Possible
+
+**Mods Affected:**
+- Create: Totem Factory
+
+**Severity:** 🟢 Minor
+
+**Description:**
+On world load KubeJS alerts on 2 errors of recipes failing to load. These recipes are created by Create: Totem Factory. Testing shows despite this error, the mod is fully functional and totems are still craftable using Create.
+
+**Root Cause (if known):**
+Unknown.
+
+**Workaround / Resolution:**
+Ignore the error.
+
+**Related:**
+https://github.com/Lumynity-Studios/Totem-Factory/issues/3
+
+**Last Updated:** 08-21-2026
+
+---
+
 ## Blazes & Mob Fire Invisible
 
 **Status:** ⚠️ Workaround Exists
