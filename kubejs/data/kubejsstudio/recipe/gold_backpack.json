@@ -1,13 +1,13 @@
 {
   "key": {
     "B": {
-      "item": "sophisticatedbackpacks:backpack"
+      "item": "sophisticatedbackpacks:iron_backpack"
     },
     "D": {
-      "tag": "c:ingots/copper"
+      "tag": "c:ingots/gold"
     },
     "C": {
-      "tag": "c:plates/copper"
+      "tag": "c:plates/gold"
     }
   },
   "pattern": [
@@ -16,7 +16,7 @@
     "DCD"
   ],
   "result": {
-    "id": "sophisticatedbackpacks:copper_backpack",
+    "id": "sophisticatedbackpacks:gold_backpack",
     "count": 1
   },
   "category": "misc",
