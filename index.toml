@@ -2156,6 +2156,11 @@ hash = "a66d65f04e89bc16961681b785864d5f4b41a294ecf16972e9614e57611bc367"
 metafile = true
 
 [[files]]
+file = "mods/create-mob-spawners.pw.toml"
+hash = "36f1732c28b7f30caa54f05a43c571cff4c9a358dad89499c55eb4ece7ecd26b"
+metafile = true
+
+[[files]]
 file = "mods/create-mobile-packages.pw.toml"
 hash = "7f24e3dfe21cbfa197c760d80073a2b971c0ccc5b8e65ed347eef24a24836011"
 metafile = true
