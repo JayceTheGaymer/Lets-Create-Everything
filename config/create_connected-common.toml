@@ -44,6 +44,22 @@ migrateCopycatsOnInitialize = true
 	copycat_board = true
 	inventory_bridge = true
 	copycat_fence = true
+	red_fluid_vessel = true
+	lime_fluid_vessel = true
+	orange_fluid_vessel = true
+	light_gray_fluid_vessel = true
+	white_fluid_vessel = true
+	pink_fluid_vessel = true
+	green_fluid_vessel = true
+	black_fluid_vessel = true
+	cyan_fluid_vessel = true
+	yellow_fluid_vessel = true
+	blue_fluid_vessel = true
+	purple_fluid_vessel = true
+	magenta_fluid_vessel = true
+	gray_fluid_vessel = true
+	light_blue_fluid_vessel = true
+	brown_fluid_vessel = true
 
 #.
 #Enable/disable categories of features. Disabling a category hides all related features. Values on server override clients

@@ -1,0 +1,24 @@
+{
+  "key": {
+    "B": {
+      "item": "sophisticatedbackpacks:copper_backpack"
+    },
+    "D": {
+      "tag": "c:ingots/iron"
+    },
+    "C": {
+      "tag": "c:plates/iron"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "DBD",
+    "DCD"
+  ],
+  "result": {
+    "id": "sophisticatedbackpacks:iron_backpack",
+    "count": 1
+  },
+  "category": "misc",
+  "type": "sophisticatedbackpacks:backpack_upgrade"
+}

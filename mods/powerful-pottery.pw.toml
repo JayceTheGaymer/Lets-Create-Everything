@@ -1,0 +1,13 @@
+name = "Powerful Pottery"
+filename = "powerful_pottery-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39334db9c17ce26c990fa6ffc65a6ee45ad4d127"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8551027
+project-id = 1591787

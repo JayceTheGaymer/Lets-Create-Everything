@@ -8,16 +8,12 @@ Custom quests will guide you through your journey so you won't feel lost even wi
 
 Currently in active development.
 
----
+
 
 ## Pack Details
+Built on Minecraft 1.21.1 using NeoForge.
 
-|               |                   |
-|---------------|-------------------|
-| **Minecraft** | 1.21.1            |
-| **Loader**    | NeoForge 21.1.248 |
 
----
 
 ## Key Features
 
@@ -27,7 +23,7 @@ Currently in active development.
 - **Immersive World** — Terralith, YUNGs,curated ambient mods, and many more for an enhanced and more immersive atmosphere.
 - **Optional Quests** — Optional guided progression via quests that are great if you are learning mods like Create.
 
----
+
 
 ## Reporting Issues
 
@@ -39,14 +35,14 @@ Found a bug or have a suggestion? Please use the [issue templates](https://githu
 - Steps to reproduce
 - Crash log (if applicable) via a paste service like [mclo.gs](https://mclo.gs)
 
----
+
 
 ## Credits
 
 - **Development**: [Jayce](https://github.com/JayceTheGaymer) & [Jonnie](https://github.com/JonDiGio4)
 - **Special Thanks**: All the mod authors whose work makes this pack possible
 
----
+
 
 ## Links
 

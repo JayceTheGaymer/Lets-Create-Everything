@@ -1,0 +1,13 @@
+name = "Create: Vintage"
+filename = "createvintageneoforged-1.21.1-1.3.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b288415c35303d769f6f595d3cd4d4f0a82f7e3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8696574
+project-id = 1240780

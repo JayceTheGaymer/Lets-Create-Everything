@@ -149,8 +149,8 @@ ServerEvents.generateData('after_mods', event => {
     event.json(
       'kubejsstudio:recipe/diamond_pickaxe_head',
       {
-        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
-        "results": [{"id":"jayces_tweaks:diamond_shovel_head"}],
+        "ingredients": [{"tag":"c:storage_blocks/raw_diamond"}],
+        "results": [{"id":"jayces_tweaks:diamond_pickaxe_head"}],
         "type": "createvintageneoforged:turning"
       }
     )
@@ -160,7 +160,7 @@ ServerEvents.generateData('after_mods', event => {
     event.json(
       'kubejsstudio:recipe/diamond_axe_head',
       {
-        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
+        "ingredients": [{"tag":"c:storage_blocks/raw_diamond"}],
         "results": [{"id":"jayces_tweaks:diamond_axe_head"}],
         "type": "createvintageneoforged:turning"
       }
@@ -171,7 +171,7 @@ ServerEvents.generateData('after_mods', event => {
     event.json(
       'kubejsstudio:recipe/diamond_shovel_head',
       {
-        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
+        "ingredients": [{"tag":"c:storage_blocks/raw_diamond"}],
         "results": [{"id":"jayces_tweaks:diamond_shovel_head"}],
         "type": "createvintageneoforged:turning"
       }
@@ -182,7 +182,7 @@ ServerEvents.generateData('after_mods', event => {
     event.json(
       'kubejsstudio:recipe/diamond_hoe_head',
       {
-        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
+        "ingredients": [{"tag":"c:storage_blocks/raw_diamond"}],
         "results": [{"id":"jayces_tweaks:diamond_hoe_head"}],
         "type": "createvintageneoforged:turning"
       }
@@ -193,7 +193,7 @@ ServerEvents.generateData('after_mods', event => {
     event.json(
       'kubejsstudio:recipe/diamond_sword_blade',
       {
-        "ingredients": [{"tag":"c:storage_blocks/diamond"}],
+        "ingredients": [{"tag":"c:storage_blocks/raw_diamond"}],
         "results": [{"id":"jayces_tweaks:diamond_sword_blade"}],
         "type": "createvintageneoforged:turning"
       }

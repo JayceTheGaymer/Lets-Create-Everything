@@ -1,0 +1,13 @@
+name = "Better Beginnings (No Tree Punching)"
+filename = "betterbeginnings-1.21.1-2.3.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9857ba16aca029d3faf08382fb155c991cec41f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7995809
+project-id = 1084244

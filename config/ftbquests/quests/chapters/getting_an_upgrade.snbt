@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "getting_an_upgrade"
 	group: "67189B7E1ED0A8FD"
+	icon: {
+		id: "create_deep_dark:echo_ingot"
+	}
 	id: "7E7D896806AD6356"
 	images: [ ]
 	order_index: 1
@@ -27,7 +30,56 @@
 				type: "item"
 			}]
 			x: -1.5d
+			y: 6.0d
+		}
+		{
+			id: "341206423FE94EFE"
+			tasks: [{
+				id: "6D578D9E68AAEA3B"
+				item: { count: 1, id: "create_deep_dark:molten_echo_bucket" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:block/lava_still"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "72243D0B13CB9C99"
+			tasks: [{
+				id: "5DD6AC5F712C62B2"
+				type: "checkmark"
+			}]
+			x: -1.5d
 			y: 0.0d
+		}
+		{
+			id: "4D656B7302104326"
+			tasks: [{
+				id: "435DDBA41E950C50"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "create_deep_dark:block/still_molten_echo"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "619D3D7E4BA848B8"
+			tasks: [{
+				id: "3149348184E91F66"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 3.0d
 		}
 	]
 }

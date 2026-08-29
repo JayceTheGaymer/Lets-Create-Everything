@@ -1,0 +1,13 @@
+name = "EMF Compat: Not Enough Animations"
+filename = "emf_compat_not_enough_animations_1.21.1_1.2.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "5ddb0b55b8ea534b1b7a0441646ffc6128fb9f68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8540272
+project-id = 1605181

@@ -1,0 +1,13 @@
+name = "Aeronautics Delivery Quests"
+filename = "aeronautics_delivery_quests-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ef620d126dade2fbf4b1ac8715ad84a930d5a87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8439248
+project-id = 1556234

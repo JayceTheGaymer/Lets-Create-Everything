@@ -75,5 +75,23 @@
 			x: 2.0d
 			y: -1.5d
 		}
+		{
+			dependencies: ["43A8512AB27EDDFF"]
+			id: "304FF576D9CD3CE7"
+			tasks: [
+				{
+					id: "66FA406FB857C9C7"
+					item: { count: 1, id: "naturescompass:naturescompass" }
+					type: "item"
+				}
+				{
+					id: "0B50C74B228FD4B1"
+					item: { count: 1, id: "explorerscompass:explorerscompass" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -3.0d
+		}
 	]
 }

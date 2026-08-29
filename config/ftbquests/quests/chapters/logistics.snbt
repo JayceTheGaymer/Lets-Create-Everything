@@ -10,14 +10,70 @@
 	images: [ ]
 	order_index: 3
 	quest_links: [ ]
-	quests: [{
-		id: "25B7E35DF8726D21"
-		tasks: [{
-			id: "4978668A0CFFA137"
-			item: { count: 1, id: "create_vibrant_vaults:cyan_package_frogport" }
-			type: "item"
-		}]
-		x: -0.5d
-		y: 0.5d
-	}]
+	quests: [
+		{
+			id: "25B7E35DF8726D21"
+			tasks: [{
+				id: "4978668A0CFFA137"
+				item: { count: 1, id: "create_vibrant_vaults:cyan_package_frogport" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "0642C4DE7159B9DD"
+			tasks: [{
+				id: "5F1AEA88422A6916"
+				item: { count: 1, id: "create:chain_conveyor" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "4939740352E94AC6"
+			tasks: [
+				{
+					id: "2D57C3540268C89B"
+					item: { count: 1, id: "create:packager" }
+					type: "item"
+				}
+				{
+					id: "714A9ACEB3B0C6D9"
+					item: { components: { "ftbquests:missing_item": "create_factory_logistics:jar_packager" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "7580CF6BB97FDCA0"
+			tasks: [{
+				id: "4BB1607D5C45F6F8"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(create_vibrant_vaults:vaults)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "7E778F60DF103DB5"
+			tasks: [
+				{
+					id: "50C7B41679B84129"
+					item: { count: 1, id: "create_mobile_packages:robo_bee" }
+					type: "item"
+				}
+				{
+					id: "014022BFEF6EAC3C"
+					item: { count: 1, id: "create_mobile_packages:bee_port" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+	]
 }

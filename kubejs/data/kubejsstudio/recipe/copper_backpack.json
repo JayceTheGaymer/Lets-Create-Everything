@@ -1,24 +1,24 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "equipment",
-  "pattern": [
-    "###",
-    "#A#",
-    "#B#"
-  ],
   "key": {
-    "#": {
-      "item": "minecraft:copper_ingot"
-    },
-    "A": {
+    "B": {
       "item": "sophisticatedbackpacks:backpack"
     },
-    "B": {
-      "item": "create:copper_sheet"
+    "D": {
+      "tag": "c:ingots/copper"
+    },
+    "C": {
+      "tag": "c:plates/copper"
     }
   },
+  "pattern": [
+    "DDD",
+    "DBD",
+    "DCD"
+  ],
   "result": {
     "id": "sophisticatedbackpacks:copper_backpack",
     "count": 1
-  }
+  },
+  "category": "misc",
+  "type": "sophisticatedbackpacks:backpack_upgrade"
 }
