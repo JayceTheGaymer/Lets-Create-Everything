@@ -6,7 +6,6 @@
 *.sublime-workspace
 *.swp
 *.swo
-CLAUDE.md
 
 # OS Files
 .DS_Store
