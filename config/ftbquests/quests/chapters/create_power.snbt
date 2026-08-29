@@ -149,8 +149,8 @@
 				item: { count: 1, id: "createvintageneoforged:helve_hammer" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 1.0d
+			x: 6.0d
+			y: 0.0d
 		}
 		{
 			id: "4A1D5433D8727879"
@@ -160,7 +160,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 2.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1FD466E1ACF4B299"]

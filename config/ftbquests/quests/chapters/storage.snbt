@@ -1,5 +1,5 @@
 {
-	autofocus_id: "0376A791F9A7EA05"
+	autofocus_id: "646CAFEDCCBA301F"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "storage"
@@ -20,8 +20,8 @@
 				item: { components: { "sophisticatedcore:number_of_inventory_slots": 27, "sophisticatedcore:number_of_upgrade_slots": 0 }, count: 1, id: "sophisticatedbackpacks:backpack" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -1.0d
+			x: 17.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["1D1613E56CAE4DAF"]
@@ -31,8 +31,8 @@
 				item: { components: { "sophisticatedcore:number_of_inventory_slots": 54, "sophisticatedcore:number_of_upgrade_slots": 2 }, count: 1, id: "sophisticatedbackpacks:iron_backpack" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: -1.0d
+			x: 20.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["0376A791F9A7EA05"]
@@ -42,8 +42,8 @@
 				item: { components: { "sophisticatedcore:number_of_inventory_slots": 45, "sophisticatedcore:number_of_upgrade_slots": 1 }, count: 1, id: "sophisticatedbackpacks:copper_backpack" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: -1.0d
+			x: 18.5d
+			y: -12.0d
 		}
 		{
 			dependencies: ["308BC490EC519B26"]
@@ -53,8 +53,8 @@
 				item: { components: { "sophisticatedcore:number_of_inventory_slots": 54, "sophisticatedcore:number_of_upgrade_slots": 3 }, count: 1, id: "sophisticatedbackpacks:gold_backpack" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: -1.0d
+			x: 21.5d
+			y: -12.0d
 		}
 		{
 			dependencies: ["0D5E5552A8A68C25"]
@@ -64,8 +64,8 @@
 				item: { components: { "sophisticatedcore:number_of_inventory_slots": 81, "sophisticatedcore:number_of_upgrade_slots": 4 }, count: 1, id: "sophisticatedbackpacks:diamond_backpack" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: -1.0d
+			x: 23.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["61507E794D6002B6"]
@@ -75,8 +75,8 @@
 				item: { components: { "sophisticatedcore:number_of_inventory_slots": 108, "sophisticatedcore:number_of_upgrade_slots": 6 }, count: 1, id: "sophisticatedbackpacks:netherite_backpack" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -1.0d
+			x: 24.5d
+			y: -12.0d
 		}
 		{
 			dependencies: ["1D1613E56CAE4DAF"]
@@ -86,8 +86,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:upgrade_base" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 0.5d
+			x: 18.5d
+			y: -10.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -98,8 +98,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:crafting_upgrade" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 0.5d
+			x: 20.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -110,8 +110,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:pickup_upgrade" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 4.5d
+			x: 23.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["2D13AD1F14201679"]
@@ -121,8 +121,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_pickup_upgrade" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 5.5d
+			x: 23.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -133,8 +133,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stonecutter_upgrade" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 0.5d
+			x: 23.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -145,8 +145,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:anvil_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 0.5d
+			x: 24.5d
+			y: -9.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -157,8 +157,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:smithing_upgrade" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 0.5d
+			x: 26.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -169,8 +169,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:filter_upgrade" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 4.5d
+			x: 20.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["1131EE5F62F6C3E3"]
@@ -180,8 +180,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_filter_upgrade" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 5.5d
+			x: 20.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -193,8 +193,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:magnet_upgrade" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 4.5d
+			x: 21.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["433FCBE3A096C8D6"]
@@ -204,8 +204,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_magnet_upgrade" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 5.5d
+			x: 21.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -216,8 +216,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:feeding_upgrade" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 2.0d
+			x: 26.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["1F6B0F80D0284BB0"]
@@ -227,8 +227,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_feeding_upgrade" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 3.0d
+			x: 26.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -239,8 +239,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:compacting_upgrade" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 2.0d
+			x: 20.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["756FD9682FA78A88"]
@@ -250,8 +250,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_compacting_upgrade" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 3.0d
+			x: 20.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -263,8 +263,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:void_upgrade" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 2.0d
+			x: 23.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["5253EE11F30CAD35"]
@@ -274,8 +274,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_void_upgrade" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 3.0d
+			x: 23.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -286,8 +286,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:restock_upgrade" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 4.5d
+			x: 26.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["5E2535F1A3B7E849"]
@@ -297,8 +297,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_restock_upgrade" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 5.5d
+			x: 26.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -309,8 +309,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:smelting_upgrade" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 7.0d
+			x: 20.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["60AB2BE5519758E1"]
@@ -320,8 +320,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:auto_smelting_upgrade" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 8.0d
+			x: 20.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -332,8 +332,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:smoking_upgrade" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 7.0d
+			x: 21.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["6614FB36BDF558AF"]
@@ -343,8 +343,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:auto_smoking_upgrade" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 8.0d
+			x: 21.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -355,8 +355,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:blasting_upgrade" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 7.0d
+			x: 23.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["6C8CA5E91F9722DF"]
@@ -366,8 +366,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:auto_blasting_upgrade" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 8.0d
+			x: 23.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -378,8 +378,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:tank_upgrade" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 0.5d
+			x: 21.5d
+			y: -9.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -390,8 +390,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:battery_upgrade" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 0.5d
+			x: 17.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -402,8 +402,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:pump_upgrade" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.0d
+			x: 18.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["6E74154685EB750E"]
@@ -413,8 +413,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_pump_upgrade" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 3.0d
+			x: 18.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["3BE1E9EA3A45A173"]
@@ -424,8 +424,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:xp_pump_upgrade" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 4.0d
+			x: 18.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -436,8 +436,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:deposit_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 4.5d
+			x: 24.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["5182F972938ACA56"]
@@ -447,8 +447,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_deposit_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 5.5d
+			x: 24.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -459,8 +459,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:refill_upgrade" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 2.0d
+			x: 21.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["7862862D40C537FD"]
@@ -470,8 +470,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_refill_upgrade" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 3.0d
+			x: 21.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -482,8 +482,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:everlasting_upgrade" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 0.5d
+			x: 18.5d
+			y: -9.0d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -494,8 +494,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_starter_tier" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 2.0d
+			x: 17.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["280874FC11A217B4"]
@@ -505,8 +505,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_1" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 3.0d
+			x: 17.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["4263910A60B6AC14"]
@@ -516,8 +516,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_2" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 4.0d
+			x: 17.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["7CA888ADF66CB7CB"]
@@ -527,8 +527,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_3" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 5.0d
+			x: 17.0d
+			y: -4.5d
 		}
 		{
 			dependencies: ["747E0EEFDF080DCE"]
@@ -538,8 +538,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_4" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 6.0d
+			x: 17.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -550,8 +550,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:jukebox_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 2.0d
+			x: 24.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["323DCCF07A9D768C"]
@@ -561,8 +561,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_jukebox_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 3.0d
+			x: 24.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["4ACC167E6EEF256D"]
@@ -573,8 +573,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:tool_swapper_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 7.0d
+			x: 24.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["79C7133614BDB562"]
@@ -584,8 +584,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_tool_swapper_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 8.0d
+			x: 24.5d
+			y: -1.5d
 		}
 		{
 			id: "38BCC378C7ED6C29"
@@ -594,8 +594,8 @@
 				item: { count: 1, id: "functionalstorage:storage_controller" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -7.0d
+			x: 13.5d
+			y: -10.5d
 		}
 		{
 			id: "2F6A6F49E6FDBDF0"
@@ -604,8 +604,8 @@
 				item: { count: 1, id: "toms_storage:inventory_connector" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -3.0d
+			x: 10.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2F6A6F49E6FDBDF0"]
@@ -615,8 +615,8 @@
 				item: { count: 1, id: "toms_storage:storage_terminal" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: -3.0d
+			x: 8.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["61A778F0F80DE9CC"]
@@ -626,8 +626,8 @@
 				item: { count: 1, id: "toms_storage:crafting_terminal" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: -3.0d
+			x: 7.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2F6A6F49E6FDBDF0"]
@@ -637,8 +637,8 @@
 				item: { count: 1, id: "toms_storage:inventory_cable" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: -4.5d
+			x: 8.5d
+			y: -8.5d
 		}
 		{
 			dependencies: ["2F6A6F49E6FDBDF0"]
@@ -648,8 +648,8 @@
 				item: { count: 1, id: "toms_storage:inventory_configurator" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: -3.0d
+			x: 8.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["2F6A6F49E6FDBDF0"]
@@ -659,8 +659,8 @@
 				item: { count: 1, id: "toms_storage:inventory_interface" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -4.5d
+			x: 7.0d
+			y: -8.5d
 		}
 		{
 			dependencies: ["38BCC378C7ED6C29"]
@@ -677,8 +677,8 @@
 					type: "item"
 				}
 			]
-			x: 9.0d
-			y: -7.5d
+			x: 12.5d
+			y: -11.0d
 		}
 		{
 			dependencies: ["38BCC378C7ED6C29"]
@@ -695,8 +695,8 @@
 					type: "item"
 				}
 			]
-			x: 11.0d
-			y: -7.5d
+			x: 14.5d
+			y: -11.0d
 		}
 		{
 			dependencies: ["38BCC378C7ED6C29"]
@@ -706,8 +706,8 @@
 				item: { components: { "ftbfiltersystem:filter": "item_tag(functionalstorage:drawer_1x1)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -6.0d
+			x: 12.0d
+			y: -9.5d
 		}
 		{
 			dependencies: ["6C194A6B436F7907"]
@@ -717,8 +717,8 @@
 				item: { components: { "ftbfiltersystem:filter": "item_tag(functionalstorage:drawer_1x2)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -5.0d
+			x: 12.0d
+			y: -8.5d
 		}
 		{
 			dependencies: ["2720C4F1BB44C3DC"]
@@ -728,8 +728,8 @@
 				item: { components: { "ftbfiltersystem:filter": "item_tag(functionalstorage:drawer_2x2)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -4.0d
+			x: 12.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["38BCC378C7ED6C29"]
@@ -739,8 +739,8 @@
 				item: { count: 1, id: "functionalstorage:copper_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -5.5d
+			x: 13.5d
+			y: -9.0d
 		}
 		{
 			dependencies: ["00738E645AAFAEC7"]
@@ -750,8 +750,8 @@
 				item: { count: 1, id: "functionalstorage:gold_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -4.5d
+			x: 13.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["646CAFEDCCBA301F"]
@@ -761,8 +761,8 @@
 				item: { count: 1, id: "functionalstorage:diamond_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -3.5d
+			x: 13.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["6B6D35BE0FB21289"]
@@ -772,8 +772,8 @@
 				item: { count: 1, id: "functionalstorage:netherite_upgrade" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -2.5d
+			x: 13.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["38BCC378C7ED6C29"]
@@ -783,8 +783,8 @@
 				item: { count: 1, id: "functionalstorage:void_upgrade" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: -6.0d
+			x: 15.0d
+			y: -9.5d
 		}
 		{
 			dependencies: ["59C13A411CB983E1"]
@@ -801,8 +801,8 @@
 					type: "item"
 				}
 			]
-			x: -2.5d
-			y: -4.5d
+			x: 7.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["70FC6C6FF5458E12"]
@@ -812,8 +812,8 @@
 				item: { count: 1, id: "toms_storage:wireless_terminal" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -4.0d
+			x: 5.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["0DE72F7DD2E2422B"]
@@ -823,8 +823,8 @@
 				item: { count: 1, id: "toms_storage:adv_wireless_terminal" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: -4.0d
+			x: 4.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["0F2C4185701E5DCC"]
@@ -834,8 +834,8 @@
 				item: { count: 1, id: "minecraft:beacon" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -4.0d
+			x: 2.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["38BCC378C7ED6C29"]
@@ -845,8 +845,140 @@
 				item: { count: 1, id: "functionalstorage:fluid_1" }
 				type: "item"
 			}]
+			x: 13.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["6791E24A9CFA844A"]
+			id: "2A7BB38AD45A84D0"
+			tasks: [{
+				id: "58B3FF85FB33875D"
+				item: { components: { "ftbfiltersystem:filter": "item(sophisticatedstorage:chest)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
 			x: 10.0d
-			y: -8.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["2A7BB38AD45A84D0"]
+			id: "5CA3BA1BD02D46AE"
+			tasks: [{
+				id: "7CB2236E8EC2F8C3"
+				item: { components: { "ftbfiltersystem:filter": "item(sophisticatedstorage:copper_chest)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["3B75C306F8C597C2"]
+			id: "4C30C80B9AE02BE5"
+			tasks: [{
+				id: "221595421F1B4BA6"
+				item: { components: { "ftbfiltersystem:filter": "item(sophisticatedstorage:gold_chest)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["5CA3BA1BD02D46AE"]
+			id: "3B75C306F8C597C2"
+			tasks: [{
+				id: "37798570815BDFEE"
+				item: { components: { "ftbfiltersystem:filter": "item(sophisticatedstorage:iron_chest)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["4C30C80B9AE02BE5"]
+			id: "47572DA3F7397705"
+			tasks: [{
+				id: "04EA546ADA843FD2"
+				item: { components: { "ftbfiltersystem:filter": "item(sophisticatedstorage:diamond_chest)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["47572DA3F7397705"]
+			id: "11F06828FFDC0CF3"
+			tasks: [{
+				id: "26326A127E19388F"
+				item: { components: { "ftbfiltersystem:filter": "item(sophisticatedstorage:netherite_chest)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["2A7BB38AD45A84D0"]
+			id: "02EC3F1116513CA4"
+			tasks: [{
+				id: "28E7CB4067F21C4B"
+				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_1" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["02EC3F1116513CA4"]
+			id: "59E958C3A6A39F56"
+			tasks: [{
+				id: "655D910B7EA7F081"
+				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_1_plus" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["59E958C3A6A39F56"]
+			id: "027CF0B9C9A25DF4"
+			tasks: [{
+				id: "0573AF474FCD2468"
+				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_2" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["027CF0B9C9A25DF4"]
+			id: "280CED0CCB104E5A"
+			tasks: [{
+				id: "163F9F6CEACCD641"
+				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_3" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["280CED0CCB104E5A"]
+			id: "66B14248D61DBADF"
+			tasks: [{
+				id: "4AD3CBA7911640A4"
+				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_4" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["66B14248D61DBADF"]
+			id: "121EDBA84B727EF2"
+			tasks: [{
+				id: "18A8D4EE6B2DE925"
+				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_5" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -10.5d
 		}
 	]
 }

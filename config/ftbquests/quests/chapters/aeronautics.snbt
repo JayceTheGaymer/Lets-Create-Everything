@@ -123,6 +123,7 @@
 		}
 		{
 			id: "08F3F170732A4F12"
+			optional: true
 			tasks: [{
 				id: "4D31CBD405404458"
 				item: { count: 1, id: "aeronautics:aviators_goggles" }
