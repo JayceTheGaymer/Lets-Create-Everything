@@ -1,6 +1,6 @@
 name = "Super Duper Vanilla Shaders"
 filename = "superDuperVanilla.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

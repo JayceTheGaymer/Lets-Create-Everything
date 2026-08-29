@@ -1,6 +1,6 @@
 name = "Better Lanterns"
 filename = "Better+Lanterns+v1.2(mc-1.21).zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
