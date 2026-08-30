@@ -1,38 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/.name"
-hash = "82c182666be1801661de58465a9b17b981b919389ac13544fe280b1eb7ec076c"
-
-[[files]]
-file = ".idea/NoNameModpack.iml"
-hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
-
-[[files]]
-file = ".idea/j2kLlmSettings.xml"
-hash = "8f17820deb03f545fe63f6b0d9515df803ba39e6e35ee4a107ca8fa36a7640c7"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "f9a578a049e89e11c32761e4081e628b7417111e63c116edb083295af9c449ea"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "c03f415c57e95b093b6e5c6a290cb077753bbc0a124c5f6f16bc839e436fddec"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "25de932b0260f2422c9545282769d307718ba4f40c36e188f0d74799c4ed6d6d"
-
-[[files]]
-file = "changelogs/CHANGELOG_TEMPLATE.md"
-hash = "35bc7839c22c1c1b95c06799c8d94580e5af9e34554a4534c909b608f6eadb17"
-
-[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "8564732f041e5d269986d6a035b5e4d93e3c676d0806abb0c908f29d40293bbb"
 metafile = true

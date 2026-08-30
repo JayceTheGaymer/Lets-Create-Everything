@@ -1,6 +1,6 @@
 name = "Presence Footsteps x Sable (Aeronautics Compat)"
 filename = "pfsable-1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
