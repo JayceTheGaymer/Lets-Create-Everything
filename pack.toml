@@ -1,12 +1,12 @@
 name = "Let's Create Everything"
 author = "JayceTheGaymer & FroggieJonnie"
-version = "0.0.2"
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "77dff8f94ae1bfeb966217b02c255431283d5265bb24fe3ad5693e0fd446a7ed"
+hash = "1fd4a6d15046388524f23380bc4d56cb5d71f19997bb0a28fcb98ed111656ff3"
 
 [versions]
 minecraft = "1.21.1"
