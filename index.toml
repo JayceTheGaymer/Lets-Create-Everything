@@ -2746,12 +2746,12 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-neoforge.pw.toml"
-hash = "8eed7b899ed784a5d5ed2c4ed4ff1f10a2b650f106f39b3340e2bd6a2a217561"
+hash = "f90a8a7a49423acc35b69a88a1628a3717f3563e02d2256894b13b7aaf9831c8"
 metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-x-sable-aeronautics-compat.pw.toml"
-hash = "d3f344379f2a13cb839384c213a1c9836f8a305e83c696154c732d59aef03c2b"
+hash = "804c0b1b1a8b8a4e3da7fe3bec5be83293b49de3bfa28c266acb269f580a9c55"
 metafile = true
 
 [[files]]
