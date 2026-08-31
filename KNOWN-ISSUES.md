@@ -34,6 +34,32 @@ Links to GitHub issue(s) if one exists.
 
 ---
 
+## JER Mob Tooltip Crash (Index Out of Bounds)
+
+**Status:** ✅ Fixed
+
+**Mods Affected:**
+- Just Enough Resources (JER) v1.6.0.17
+- Deeper and Darker (Sludge is what first reproduced it, but the bug is general)
+
+**Severity:** 🔴 Critical
+
+**Description:**
+Opening JER's mob-info screen in JEI and hovering certain ingredient slots (the entity/spawn-egg icon, or a drop slot beyond how many drops the mob actually has) crashed the client with `java.lang.IndexOutOfBoundsException` in `jeresources.jei.mob.MobTooltip.onTooltip`. First reproduced hovering the spawn egg for Deeper and Darker's Sludge (a vanilla `Slime` subclass with fewer drops than JER's slot layout expects), but applies to any mob whose drop list is shorter than JER's slot grid for it. Confirmed JEI-specific: tested using EMI instead of JEI (JER still installed) never hit this.
+
+**Root Cause (if known):**
+JER decodes each JEI ingredient slot's name as a raw index into `MobEntry.getDrops()` with no bounds check (`drops.get(index)`). JER's mob-category layout reserves a fixed slot grid (drop slots + the entity icon/spawn-egg slot) and wires the same tooltip callback to all of them, so any slot without a matching drop entry throws.
+
+**Workaround / Resolution:**
+Patched via a Mixin in `Jayces Tweaks` (`MobTooltipCrashGuardMixin`): an `@Inject` at the head of `jeresources.jei.mob.MobTooltip#onTooltip` that cancels the callback when the slot index has no matching drop, letting JER's own code run untouched otherwise. Fix ships in Jayce's Tweaks v0.2.0+.
+
+**Related:**
+https://github.com/way2muchnoise/JustEnoughResources - no upstream issue filed for this specific bug yet. We are not filing one as the creator has not updated the 1.21.1 version since 2025. They seem to be only focusing on more current game versions.
+
+**Last Updated:** 08-30-2026
+
+---
+
 ## Create: Totem Factory Causes KubeJS Errors
 
 **Status:** ❌ No Current Fix Possible
