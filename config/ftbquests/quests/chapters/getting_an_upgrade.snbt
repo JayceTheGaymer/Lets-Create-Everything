@@ -52,6 +52,9 @@
 		}
 		{
 			dependencies: ["0DB8E94FA320E579"]
+			icon: {
+				id: "minecraft:warden_spawn_egg"
+			}
 			id: "37BFF185D867F4E1"
 			tasks: [
 				{
@@ -134,7 +137,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 8.5d
+			y: 7.0d
 		}
 		{
 			dependencies: ["5BF76EDA30B94783"]
@@ -145,7 +148,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 10.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["5BF76EDA30B94783"]
@@ -156,7 +159,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 11.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["5BF76EDA30B94783"]
@@ -166,8 +169,8 @@
 				item: { count: 1, id: "deeperdarker:warden_hoe" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 12.5d
+			x: 0.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["5BF76EDA30B94783"]
@@ -177,13 +180,13 @@
 				item: { count: 1, id: "deeperdarker:warden_sword" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 7.0d
+			x: -1.5d
+			y: 12.5d
 		}
 		{
 			dependencies: [
-				"4FCA70E46259534C"
 				"4F7BCB654B796C54"
+				"22DF388CFE8C4702"
 			]
 			id: "5BF76EDA30B94783"
 			tasks: [{
@@ -206,6 +209,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["4FCA70E46259534C"]
 			id: "22DF388CFE8C4702"
 			tasks: [{
 				id: "3AA9B319CAB40183"

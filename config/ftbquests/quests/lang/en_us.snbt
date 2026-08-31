@@ -20,6 +20,7 @@
 	chapter_group.718FD040212D6C62.title: "Introduction"
 	quest.05385743C91B10EF.quest_desc: ["You don't &oneed&r a &lDepot&r but it does make some Mechanical Press recipes a little easier."]
 	quest.05385743C91B10EF.quest_subtitle: "Not necessary, but helpful."
+	quest.061B997DF0B9BA30.title: "Totem Casings"
 	quest.0D0E239059813776.quest_desc: [
 		"Different mobs can be attached to the &bHorse Crank&r with a lead. How well they perform is up to you."
 		""
@@ -59,7 +60,19 @@
 		"  &62x rpm multiplier&r"
 	]
 	quest.0D0E239059813776.quest_subtitle: "Quit horsing around!"
+	quest.0E3A25DA30C2097E.quest_desc: [
+		"There's no FTB Chunks here, to force load Chunk you'll need to get your hands on a Chunk Loader. These run on rotational power though so make sure you have some to spare."
+		""
+		"Start by crafting an empty Andesite or Brass Chunk Loader. Then pop into the Nether, just like you have to catch a Blaze for a Blaze Burner, the Chunk Loader needs a Ghast trapped inside."
+		""
+		"The Andesite Chunk loader is basic and only loads one chunk."
+		""
+		"The Brass Chunk Loader is configurable to either a 1x1, 3x3, or 5x5 chunk area."
+	]
+	quest.0E3A25DA30C2097E.quest_subtitle: "Done the Create way"
+	quest.0E3A25DA30C2097E.title: "Chunk Loading"
 	quest.109938A7176DF606.quest_desc: ["Make sure to collect a few &6Blaze Rods&r, you'll need them for later. Also, if you've started to dive further into Create take a look at the &l&nBlaze Burner&r&r quest."]
+	quest.117E25EE71C5F77E.title: "Totem Head \\& Body"
 	quest.11F06828FFDC0CF3.title: "Netherite Chest"
 	quest.14843176225FA014.quest_desc: [
 		"Quests are entirely optional and you can completely ignore them if you so chose. We do NOT recommend this though because there are many custom changes to mechanics and recipes in our pack. The quests are designed to guide you through this process."
@@ -138,6 +151,7 @@
 	]
 	quest.357C17BFAF372EB5.quest_subtitle: "Yes, this can mine coal"
 	quest.357C17BFAF372EB5.title: "Now Thats A Pick!"
+	quest.37BFF185D867F4E1.title: "The Warden"
 	quest.39307676CADEBE59.quest_desc: [
 		"Your first source of &bRotational Power&r to begin your journey into &6Create!&r This power source will make you hungry quickly and requires you to constantly crank it to keep your machines going."
 		""
@@ -170,6 +184,7 @@
 		"Build a balloon above the burner, taking care to have a hole into the balloon above the burner."
 	]
 	quest.4E928F73B2BDB3E6.title: "Take To The Sky"
+	quest.4FCA70E46259534C.title: "The Otherside"
 	quest.54FB4C5B0F2890BA.quest_desc: ["To get your first &6Copper Ingots&r place your Raw Copper onto the campfire."]
 	quest.54FB4C5B0F2890BA.title: "3x Copper Ingots"
 	quest.553B12306F604327.quest_desc: [
@@ -220,7 +235,7 @@
 	task.051062613B3CAF05.title: "Sleeping Bags"
 	task.05442BE53686A487.title: "Warden"
 	task.0BAEE30819528638.title: "The End?"
-	task.108945DE8E3BF701.title: "Deeper Darker"
+	task.108945DE8E3BF701.title: "The Otherside"
 	task.2092D4B6AD12691D.title: "Ancient City"
 	task.221595421F1B4BA6.title: "Gold Chest"
 	task.26326A127E19388F.title: "Netherite Chest"
