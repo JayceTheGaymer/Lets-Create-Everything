@@ -2914,6 +2914,11 @@ file = "mods/spelunkery-1.21.1-0.4.3-neoforge.jar"
 hash = "43c40a6e2eaa59e61360aec59b948ee84e391d917eba0fa51927324a5ff4783a"
 
 [[files]]
+file = "mods/sponge-plus.pw.toml"
+hash = "c9c690552649961c68f62153181fff16f46bb9cc5b74e9b1e524d3b3c355ec99"
+metafile = true
+
+[[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
 hash = "60d6921ec70b1c098fcfbf0254022b7a9a3a859635e6857fd6dc64c12381aeac"
 metafile = true

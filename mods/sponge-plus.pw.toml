@@ -1,0 +1,13 @@
+name = "Sponge Plus"
+filename = "sponge_plus-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8998eaedd89249bb881bc6b487b82eefcff76a39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8773272
+project-id = 1675479
