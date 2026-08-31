@@ -2061,7 +2061,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "e3304daa476fa3ac90a018720d190fd366cf6e20e9ce33b5aa8d16b40eaf3446"
+hash = "3b1b6163af92aa709dbc1800f76654db759a6ae590a6dd1858509138e1a70d6c"
 metafile = true
 
 [[files]]
@@ -2491,7 +2491,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
+hash = "055b6a985f7b81ef953c5c516b56cd6889ef327e1789e2e2723860fa021817a5"
 metafile = true
 
 [[files]]
@@ -2626,7 +2626,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ed6ac1b169f40d6ea67376edac878c6eb842c935f743553016ba3817e67b9830"
+hash = "1813b429f0782edb4d0c428f00da0c760acea32ede566656588af99c6ad10a11"
 metafile = true
 
 [[files]]
@@ -2741,7 +2741,7 @@ metafile = true
 
 [[files]]
 file = "mods/powerful-pottery.pw.toml"
-hash = "456cf06e24defd4d696cfd892678b7d223a981a8e5668cd49f6d6534b08a287d"
+hash = "57e9c2af52a1eebf0147a9aa931dc76876b7a3f63628144b493fa98373ffd70c"
 metafile = true
 
 [[files]]
@@ -2756,7 +2756,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
+hash = "775097fcba4e4fecf8c6b5ac1984e361d0d069171e6c764929320b7fd1d86031"
 metafile = true
 
 [[files]]
@@ -2915,7 +2915,7 @@ hash = "43c40a6e2eaa59e61360aec59b948ee84e391d917eba0fa51927324a5ff4783a"
 
 [[files]]
 file = "mods/sponge-plus.pw.toml"
-hash = "c9c690552649961c68f62153181fff16f46bb9cc5b74e9b1e524d3b3c355ec99"
+hash = "f7412a4eeef331f7b1943deefa0d39cd00c3ea647fa956dc7eb4ff8ea65c8e11"
 metafile = true
 
 [[files]]
