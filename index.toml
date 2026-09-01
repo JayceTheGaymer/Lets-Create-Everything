@@ -2090,6 +2090,11 @@ hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "c12d2dc7c116f12a8f321b1c5fcd3a0231eb06dcebfe4e08231b91c915abc337"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "87cc67538d60973cf296adf7cd6f198b2aa2ffb5a2a17e3ce9977c0cd05ddcef"
 metafile = true
@@ -2136,7 +2141,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
-hash = "cd39142a4bbf918c58f8feae2ed0ffc2af6515c395f75920172b6039c4c7eb20"
+hash = "666e716359853dd926dcdfd83dc79b637b552ef7cc5f79ceb4006c7158af7e63"
 metafile = true
 
 [[files]]
@@ -2165,6 +2170,11 @@ hash = "9a68ce4e0ac51c48e325ab407003c590223fb54a32a1e3b482c7068343746cfb"
 metafile = true
 
 [[files]]
+file = "mods/create-oxidized.pw.toml"
+hash = "cde568a867601aaf6b779b6565bf2ed19f127fa1415f8d68f30b25b2dc70de42"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "3872eeb409b1a2b5acdf5a270825a9e703e240ee8230a08b820a21c19f14c27e"
 metafile = true
@@ -2175,6 +2185,11 @@ hash = "1ac6806141e72f15c41c51ef3fe9e411f9e3c56b53e8d05a448e9b95a7ab8fae"
 metafile = true
 
 [[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "87a280b3f1851afa3300fa8f238fad2d1b4516e48886df1dcd19ff3d595fe616"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "5de4795ed5c92e6f4013057bbf3374ea348ed0c8d6e7468a203573aa623c1f70"
 metafile = true
@@ -2182,6 +2197,11 @@ metafile = true
 [[files]]
 file = "mods/create-the-factory-must-backport.pw.toml"
 hash = "d3285f1404d7e56cf63d403f46bf587334a1f4042ff96bc48790c583cd64947c"
+metafile = true
+
+[[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "5b38747d6ac0f9b216885a6a1d45508354a0ab6077d72510c73b65e147210ca5"
 metafile = true
 
 [[files]]
@@ -2240,6 +2260,11 @@ hash = "e16341547a7e580456c1ec30e0b220ee6db94f40293b839e15d09d793468c0df"
 metafile = true
 
 [[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "eacde4eca33c5c723b07a1631818121235b5baa83b48bb8c7fd4619efe0249f9"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "c0788e2fde5c68eb046fcdf14ad0e4882325c8a4988a67eb3631d752b509b762"
 metafile = true
@@ -2272,6 +2297,11 @@ metafile = true
 [[files]]
 file = "mods/delight-lib.pw.toml"
 hash = "53db992bf801e7788e72d611281252f73b53c1161c8958137f8a1b912bb3f615"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "c49a7dff3e52d696cc632ed5602870b396b43eb800c4f448fa0d82cd066463f0"
 metafile = true
 
 [[files]]
@@ -2465,8 +2495,18 @@ hash = "5b143c449f0f85511a021fe5237f3e6fc0fa79b5a922c4f7f4c9f8e419661da2"
 metafile = true
 
 [[files]]
+file = "mods/hots-aerostuff.pw.toml"
+hash = "7db93b8c044ce26cfafb264d07d5e1a5c7cde3859615713719420eb6261d2c8b"
+metafile = true
+
+[[files]]
 file = "mods/hypertubes.pw.toml"
 hash = "3e7678d56426a61b7f67a2f6e8e50dc1d5c3b27a6a82a772990b3eec3ca8e150"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "3fd3c85f4ac889ee87857be7c64e883efe6cb06de73ab7babf07521977912353"
 metafile = true
 
 [[files]]
@@ -2576,7 +2616,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c861621c655d44fe78279ddc76d5881fa4ad2fdf52c7ed3a84864b988a3e0b64"
+hash = "a18e3ccdf71e346bcd5f772c235ad9244aec9dfc128402486e91bffc807832a9"
 metafile = true
 
 [[files]]
@@ -2981,6 +3021,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "2ed8143d74813a492685aa18210835862a6bd70789e6a0301ceb270174b51460"
+metafile = true
+
+[[files]]
+file = "mods/vista.pw.toml"
+hash = "fa200c80b737dae28979181ca9722be33532b3d5fb11e719f996319fb351ba8a"
 metafile = true
 
 [[files]]
