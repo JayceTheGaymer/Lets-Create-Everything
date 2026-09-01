@@ -2,7 +2,7 @@
 	autofocus_id: "585731D1D1090925"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "create_power"
+	filename: "create_main"
 	group: "2FD7CB0B96627668"
 	icon: {
 		id: "create:wrench"
@@ -116,8 +116,8 @@
 				item: { count: 1, id: "minecraft:totem_of_undying" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 3.0d
+			x: 9.0d
+			y: -1.5d
 		}
 		{
 			id: "2C7CCC9D4A1744FA"
@@ -225,8 +225,8 @@
 				item: { count: 1, id: "totemfactory:inactive_totem" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 1.5d
+			x: 7.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["061B997DF0B9BA30"]
@@ -243,8 +243,8 @@
 					type: "item"
 				}
 			]
-			x: 8.5d
-			y: 0.0d
+			x: 6.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["745F78B10ACE683D"]
@@ -261,18 +261,29 @@
 					type: "item"
 				}
 			]
-			x: 8.5d
+			x: 4.5d
 			y: -1.5d
 		}
 		{
+			dependencies: ["19F0933B272E6FE9"]
 			id: "745F78B10ACE683D"
 			tasks: [{
 				id: "3108F3E3F71ACB52"
 				item: { count: 1, id: "totemfactory:tumbaga_alloy" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -3.0d
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "56B8C1CF7E2DA8ED"
+			tasks: [{
+				id: "465D722795558F15"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(create:spouts)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
 		}
 	]
 }
