@@ -2310,6 +2310,11 @@ hash = "1bbe182b3a43c998b702e565e7f061125a491c5ee385fd9b050de0faaf28647f"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "df34236e43c955ceb2b0a267ae280bc3adc747d71d70aa6f58a5ca3bbe2e895e"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
 metafile = true
@@ -2362,6 +2367,11 @@ metafile = true
 [[files]]
 file = "mods/emf-compat-watut.pw.toml"
 hash = "92f1412b54adc59288c606de431612e9bbaf7993f214d1c2cf34116bbde9ffe2"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
 metafile = true
 
 [[files]]
@@ -2557,6 +2567,11 @@ metafile = true
 [[files]]
 file = "mods/jayces-tweaks.pw.toml"
 hash = "6b6bf699d06287ef897f3708bf0ade80dc6603ddf6289bd54abc07464c609e04"
+metafile = true
+
+[[files]]
+file = "mods/jei-emi-toggle.pw.toml"
+hash = "2b95189ae0c4a69a6b047af2359eef77633dcb3ac04a192c2cb5f6bb9d719402"
 metafile = true
 
 [[files]]
@@ -2825,6 +2840,11 @@ hash = "ce61f87e6cefb6d492facaad5b5bcdb0cdf14d194e1d52b978aa993bda147710"
 metafile = true
 
 [[files]]
+file = "mods/reliable-emi.pw.toml"
+hash = "b761b210487e282aae82aa75f4565bc92148ab81dea409596f037b442125d23c"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
 metafile = true
@@ -3016,6 +3036,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "3cd7280f90ef9e2754cf2b6f45b749d1054c6348873a61044ce808dfe977c15a"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
 metafile = true
 
 [[files]]
