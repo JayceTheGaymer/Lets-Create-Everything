@@ -20,6 +20,7 @@
 	chapter_group.718FD040212D6C62.title: "Introduction"
 	quest.05385743C91B10EF.quest_desc: ["You don't &oneed&r a &lDepot&r but it does make some Mechanical Press recipes a little easier."]
 	quest.05385743C91B10EF.quest_subtitle: "Not necessary, but helpful."
+	quest.061B997DF0B9BA30.title: "Totem Casings"
 	quest.0D0E239059813776.quest_desc: [
 		"Different mobs can be attached to the &bHorse Crank&r with a lead. How well they perform is up to you."
 		""
@@ -59,7 +60,19 @@
 		"  &62x rpm multiplier&r"
 	]
 	quest.0D0E239059813776.quest_subtitle: "Quit horsing around!"
+	quest.0E3A25DA30C2097E.quest_desc: [
+		"There's no FTB Chunks here, to force load Chunk you'll need to get your hands on a Chunk Loader. These run on rotational power though so make sure you have some to spare."
+		""
+		"Start by crafting an empty Andesite or Brass Chunk Loader. Then pop into the Nether, just like you have to catch a Blaze for a Blaze Burner, the Chunk Loader needs a Ghast trapped inside."
+		""
+		"The Andesite Chunk loader is basic and only loads one chunk."
+		""
+		"The Brass Chunk Loader is configurable to either a 1x1, 3x3, or 5x5 chunk area."
+	]
+	quest.0E3A25DA30C2097E.quest_subtitle: "Done the Create way"
+	quest.0E3A25DA30C2097E.title: "Chunk Loading"
 	quest.109938A7176DF606.quest_desc: ["Make sure to collect a few &6Blaze Rods&r, you'll need them for later. Also, if you've started to dive further into Create take a look at the &l&nBlaze Burner&r&r quest."]
+	quest.117E25EE71C5F77E.title: "Totem Head \\& Body"
 	quest.11F06828FFDC0CF3.title: "Netherite Chest"
 	quest.14843176225FA014.quest_desc: [
 		"Quests are entirely optional and you can completely ignore them if you so chose. We do NOT recommend this though because there are many custom changes to mechanics and recipes in our pack. The quests are designed to guide you through this process."
@@ -138,6 +151,7 @@
 	]
 	quest.357C17BFAF372EB5.quest_subtitle: "Yes, this can mine coal"
 	quest.357C17BFAF372EB5.title: "Now Thats A Pick!"
+	quest.37BFF185D867F4E1.title: "The Warden"
 	quest.39307676CADEBE59.quest_desc: [
 		"Your first source of &bRotational Power&r to begin your journey into &6Create!&r This power source will make you hungry quickly and requires you to constantly crank it to keep your machines going."
 		""
@@ -170,6 +184,14 @@
 		"Build a balloon above the burner, taking care to have a hole into the balloon above the burner."
 	]
 	quest.4E928F73B2BDB3E6.title: "Take To The Sky"
+	quest.4FCA70E46259534C.title: "The Otherside"
+	quest.530ACB2BC238A0CA.quest_desc: [
+		"The helve hammer will be used for all your smithing table needs!"
+		""
+		"Throw your pickaxe, smithing template, and netherite ingot onto the helve hammer with a smithing table under it and watch it clank away!"
+		""
+		"It can also be used for anvil recipes."
+	]
 	quest.54FB4C5B0F2890BA.quest_desc: ["To get your first &6Copper Ingots&r place your Raw Copper onto the campfire."]
 	quest.54FB4C5B0F2890BA.title: "3x Copper Ingots"
 	quest.553B12306F604327.quest_desc: [
@@ -183,19 +205,27 @@
 	quest.553B12306F604327.title: "Heating"
 	quest.565FFFC5B476D0F4.quest_desc: ["Now that you have Blaze Rods you can collect some Ender Pearls to make Eyes of Ender to head to The End!"]
 	quest.565FFFC5B476D0F4.title: "Eye of Ender"
+	quest.56B8C1CF7E2DA8ED.title: "Spouts"
+	quest.5713D602851800E8.quest_desc: [
+		""
+		"&lNOTE: FIREPITS CANNOT BE USED TO HEAT STEAM ENGINE, USE BASIC BURNER"
+	]
 	quest.58AC8BB07E727365.quest_desc: ["The &lLathe&r will be needed to make all of your &bDiamond Tool Heads&r. This block requires a high amount of &6Stress Units&r and &6RPM from Create&r, so it is recommended to explore into the &l&nCreate Main quest line&r&r to increase your power creation."]
 	quest.5CA3BA1BD02D46AE.title: "Copper Chest"
 	quest.5E2B89D9EB7C3C39.quest_subtitle: "It is called MineCRAFT after all"
 	quest.6117F4FC083336E6.quest_desc: ["[ \"The pack is still a work in progress and is considered in an Alpha state. Please report any bugs/issues, or make suggestions over on \", { \"text\": \"Github\", \"underlined\": true, \"clickEvent\": { \"action\": \"open_url\", \"value\": \"https://github.com/JayceTheGaymer/NoNameModpack/issues\" } } ]"]
 	quest.6117F4FC083336E6.title: "Welcome To Our Pack!"
-	quest.619D3D7E4BA848B8.title: "Echo Pour"
 	quest.6791E24A9CFA844A.quest_desc: [
 		"While you're exploring the fortress you'll likely enounter a few Wither Skeletons that are trying to &mkill you&r give you hugs. Be sure to &mcollect their skulls&r hug them back!"
 		""
 		"Once you have 3 of them, if you feel prepared, you can take on the Wither!"
 	]
 	quest.6791E24A9CFA844A.title: "Spooky Scary Skeletons"
-	quest.6C13696A75659F6E.quest_desc: ["When you first mine Diamond ore you'll get &bRough Diamonds&r. You need to right click them on the Diamond Grindstone to get Diamonds."]
+	quest.6C13696A75659F6E.quest_desc: [
+		"When you first mine Diamond ore you'll get &bRough Diamonds&r. You need to right click them on the Diamond Grindstone to get Diamonds."
+		""
+		"Careful not to convert all your rough diamond to diamonds, you'll need a rough diamond block per diamond tool head later on."
+	]
 	quest.6C13696A75659F6E.title: "Diamonds"
 	quest.6C194A6B436F7907.title: "Drawer 1x1"
 	quest.6CF4337005785644.quest_desc: ["Don't go trying to punch trees with your fist just yet. To get started you need to collect &7&lrocks&r&r from the ground and break some leaves to get sticks."]
@@ -209,7 +239,6 @@
 	]
 	quest.707A04EA9F99F727.quest_subtitle: "Lets Get Physical"
 	quest.707A04EA9F99F727.title: "Your First Contraption"
-	quest.72243D0B13CB9C99.title: "Lava Pour"
 	quest.7580CF6BB97FDCA0.quest_subtitle: "Buffer This"
 	quest.7580CF6BB97FDCA0.title: "Item Vaults"
 	quest.76FAFD6C5E57C363.title: "Time To Drive"
@@ -220,20 +249,21 @@
 	quest.7B51DA14155497B4.title: "Time for iron!"
 	task.04EA546ADA843FD2.title: "Diamond Chest"
 	task.051062613B3CAF05.title: "Sleeping Bags"
+	task.05442BE53686A487.title: "Warden"
 	task.0BAEE30819528638.title: "The End?"
+	task.108945DE8E3BF701.title: "The Otherside"
+	task.2092D4B6AD12691D.title: "Ancient City"
 	task.221595421F1B4BA6.title: "Gold Chest"
 	task.26326A127E19388F.title: "Netherite Chest"
 	task.2734F92DC5D53EDF.title: "Click To Complete"
 	task.2B6189EA1DC50557.title: "Storm The Fortress!"
-	task.3149348184E91F66.title: "Echo pour"
 	task.37798570815BDFEE.title: "Iron Chest"
-	task.435DDBA41E950C50.title: "Press"
+	task.465D722795558F15.title: "Spouts"
 	task.4777A3B45D1E47DE.title: "Any #constructionstick:construction_sticks"
 	task.4C3076E2E49B30C9.title: "Book Shelves"
 	task.5667A5ADE390CD2A.title: "The Stronghold"
 	task.58B3FF85FB33875D.title: "Sophisticated Chest"
 	task.5B1D9749FBABEAAE.title: "Hammocks"
-	task.5DD6AC5F712C62B2.title: "Lava poor"
 	task.5E61D5953E0044B4.title: "Kill the Wither"
 	task.6077E4F3B91394D2.title: "Blaze"
 	task.64B3275BE73B8DEA.title: "The End"

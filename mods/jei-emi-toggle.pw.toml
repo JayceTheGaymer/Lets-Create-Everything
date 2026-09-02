@@ -1,0 +1,13 @@
+name = "JEI - EMI Toggle"
+filename = "jei_emi_toggle-1.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "b1d6a23879fce647cd7c836fefc0e1ca38fd95a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8781198
+project-id = 1676896

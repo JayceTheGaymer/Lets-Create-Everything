@@ -246,3 +246,51 @@ ServerEvents.generateData('after_mods', event => {
       }
     )
 })
+// kubejsstudio custom: kubejsstudio:grinder_polishing/rose_quartz
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/grinder_polishing/rough_diamond',
+      {
+        "type": "createvintageneoforged:polishing",
+        "ingredients": [{"tag":"c:raw_materials/diamond"}],
+        "results": [{"id":"minecraft:diamond"}],
+        "processing_time": 100
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:grinder_polishing/rough_emerald
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/grinder_polishing/rough_emerald',
+      {
+        "type": "createvintageneoforged:polishing",
+        "ingredients": [{"tag":"c:raw_materials/emerald"}],
+        "results": [{"id":"minecraft:emerald"}],
+        "processing_time": 100
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:grinder_polishing/rough_lazurite
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/grinder_polishing/rough_lazurite',
+      {
+        "type": "createvintageneoforged:polishing",
+        "ingredients": [{"tag":"c:raw_materials/lapis"}],
+        "results": [{"id":"minecraft:lapis_lazuli"}],
+        "processing_time": 100
+      }
+    )
+})
+// kubejsstudio custom: kubejsstudio:grinder_polishing/rough_cinabar
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'kubejsstudio:recipe/grinder_polishing/rough_cinabar',
+      {
+        "type": "createvintageneoforged:polishing",
+        "ingredients": [{"tag":"c:raw_materials/cinnabar"}],
+        "results": [{"id":"spelunkery:cinnabar"}, {"id": "minecraft:redstone"}],
+        "processing_time": 100
+      }
+    )
+})

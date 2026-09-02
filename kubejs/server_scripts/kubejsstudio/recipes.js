@@ -76,4 +76,8 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'deeperdarker:warden_chestplate_smithing' })
     event.remove({ id: 'deeperdarker:warden_axe_smithing' })
     event.remove({ id: 'deeperdarker:warden_boots_smithing' })
+    event.remove({ id: 'spelunkery:sandpaper_polishing/diamond' })
+    event.remove({ id: 'spelunkery:sandpaper_polishing/emerald' })
+    event.remove({ id: 'spelunkery:sandpaper_polishing/cinnabar' })
+    event.remove({ id: 'spelunkery:sandpaper_polishing/lapis' })
 })

@@ -7,5 +7,26 @@
 	images: [ ]
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "219178244CA7B62A"
+			tasks: [{
+				id: "1FE62B22B9B746D5"
+				item: { count: 1, id: "farmersdelight:cooking_pot" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			id: "5D1B07F8650F111A"
+			tasks: [{
+				id: "79AE55E8B6488805"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+	]
 }
