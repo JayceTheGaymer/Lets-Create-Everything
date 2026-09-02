@@ -102,8 +102,8 @@
 					type: "item"
 				}
 				{
-					id: "1FC2AEAE9011294E"
-					item: { count: 1, id: "aeronautics:wooden_propeller" }
+					id: "27803FF23395D79F"
+					item: { count: 1, id: "aeronautics:andesite_propeller" }
 					type: "item"
 				}
 			]
@@ -118,8 +118,8 @@
 				item: { count: 1, id: "offroad:tire" }
 				type: "item"
 			}]
-			x: -11.0d
-			y: 3.5d
+			x: -11.5d
+			y: 3.0d
 		}
 		{
 			id: "08F3F170732A4F12"

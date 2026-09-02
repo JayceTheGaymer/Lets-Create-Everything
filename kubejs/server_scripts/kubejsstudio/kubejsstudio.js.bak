@@ -289,7 +289,7 @@ ServerEvents.generateData('after_mods', event => {
       {
         "type": "createvintageneoforged:polishing",
         "ingredients": [{"tag":"c:raw_materials/cinnabar"}],
-        "results": [{"id":"spelunkery:cinnabar"}, {"id": "minecraft:redstone"}],
+        "results": [{"id":"spelunkery:cinnabar"}],
         "processing_time": 100
       }
     )

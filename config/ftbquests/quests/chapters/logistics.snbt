@@ -40,8 +40,8 @@
 					type: "item"
 				}
 				{
-					id: "714A9ACEB3B0C6D9"
-					item: { components: { "ftbquests:missing_item": "create_factory_logistics:jar_packager" }, count: 1, id: "ftbquests:missing_item" }
+					id: "4BBB89259A8BD4B3"
+					item: { count: 1, id: "create_factory_logistics:jar_packager" }
 					type: "item"
 				}
 			]
