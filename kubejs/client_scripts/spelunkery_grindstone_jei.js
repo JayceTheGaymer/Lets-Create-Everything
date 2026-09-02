@@ -6,10 +6,10 @@
 //
 // Layout mirrors Spelunkery's own EMI "World Interaction" display: [input] + [workstation] -> [output(s)]
 //
-// Scope: only the rough gem tiers that prompted this patch (diamond/emerald/cinnabar/lazurite)
-// plus rock salt and Create's rose quartz, matching what Spelunkery's own EMI plugin covers.
-// The plain stone-polishing loot tables (andesite/diorite/granite/blackstone/deepslate variants)
-// are intentionally left out for now - ask if you want those added too.
+// Covers every entry in Spelunkery's grindstone_polishing/diamond_grindstone_polishing loot tables:
+// the rough gem tiers, rock salt, Create's rose quartz (matching Spelunkery's own EMI plugin), and
+// the plain stone/mineral polishing conversions (andesite/diorite/granite/blackstone/deepslate/
+// nephrite/rock salt block variants) that EMI's plugin never covered either.
 
 // Minecraft resource location namespaces can't contain spaces, capitals, or apostrophes,
 // so "lets_create_everything" is as close to the full pack name as the id format allows.
@@ -87,4 +87,36 @@ JEIAddedEvents.registerRecipes(event => {
         .add({ workstation: "spelunkery:diamond_grindstone", input: "spelunkery:rough_emerald", outputs: ["minecraft:emerald"] })
         .add({ workstation: "spelunkery:diamond_grindstone", input: "spelunkery:rough_cinnabar", outputs: ["spelunkery:cinnabar", "minecraft:redstone"] })
         .add({ workstation: "spelunkery:diamond_grindstone", input: "spelunkery:rough_lazurite", outputs: ["minecraft:lapis_lazuli", "spelunkery:raw_gold_nugget"] })
+        // Plain stone/mineral polishing (regular Grindstone only) - pulled from Spelunkery's
+        // data/spelunkery/loot_table/gameplay/grindstone_polishing/*.json, all single-output.
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:andesite", outputs: ["minecraft:polished_andesite"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:andesite_slab", outputs: ["minecraft:polished_andesite_slab"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:andesite_stairs", outputs: ["minecraft:polished_andesite_stairs"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:basalt", outputs: ["minecraft:polished_basalt"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:blackstone", outputs: ["minecraft:polished_blackstone"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:blackstone_slab", outputs: ["minecraft:polished_blackstone_slab"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:blackstone_stairs", outputs: ["minecraft:polished_blackstone_stairs"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:blackstone_wall", outputs: ["minecraft:polished_blackstone_wall"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:cobbled_deepslate", outputs: ["minecraft:polished_deepslate"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:cobbled_deepslate_slab", outputs: ["minecraft:polished_deepslate_slab"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:cobbled_deepslate_stairs", outputs: ["minecraft:polished_deepslate_stairs"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:cobbled_deepslate_wall", outputs: ["minecraft:polished_deepslate_wall"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:deepslate", outputs: ["minecraft:polished_deepslate"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:diorite", outputs: ["minecraft:polished_diorite"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:diorite_slab", outputs: ["minecraft:polished_diorite_slab"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:diorite_stairs", outputs: ["minecraft:polished_diorite_stairs"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:granite", outputs: ["minecraft:polished_granite"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:granite_slab", outputs: ["minecraft:polished_granite_slab"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:granite_stairs", outputs: ["minecraft:polished_granite_stairs"] })
+        .add({ workstation: "minecraft:grindstone", input: "minecraft:lapis_lazuli", outputs: ["minecraft:blue_dye"] })
+        // Spelunkery nephrite
+        .add({ workstation: "minecraft:grindstone", input: "spelunkery:nephrite", outputs: ["spelunkery:polished_nephrite"] })
+        .add({ workstation: "minecraft:grindstone", input: "spelunkery:nephrite_slab", outputs: ["spelunkery:polished_nephrite_slab"] })
+        .add({ workstation: "minecraft:grindstone", input: "spelunkery:nephrite_stairs", outputs: ["spelunkery:polished_nephrite_stairs"] })
+        .add({ workstation: "minecraft:grindstone", input: "spelunkery:nephrite_wall", outputs: ["spelunkery:polished_nephrite_wall"] })
+        // Spelunkery rock salt block (distinct from the raw "rock_salt" -> "salt" recipe above)
+        .add({ workstation: "minecraft:grindstone", input: "spelunkery:rock_salt_block", outputs: ["spelunkery:polished_rock_salt"] })
+        .add({ workstation: "minecraft:grindstone", input: "spelunkery:rock_salt_slab", outputs: ["spelunkery:polished_rock_salt_slab"] })
+        .add({ workstation: "minecraft:grindstone", input: "spelunkery:rock_salt_stairs", outputs: ["spelunkery:polished_rock_salt_stairs"] })
+        .add({ workstation: "minecraft:grindstone", input: "spelunkery:rock_salt_wall", outputs: ["spelunkery:polished_rock_salt_wall"] })
 })

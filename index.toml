@@ -748,11 +748,11 @@ hash = "1309eaf707549788d57cc23384f754a4dcb9717425cbd4051a5aaab3e4a868d6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/aeronautics.snbt"
-hash = "35e82529a47a822cad93d3e1a57f66c45fee7a2e4c162b5a1bdb2556a4e5639b"
+hash = "51701ebe50dc9dc613bf0d2e4d6ebc36d6f99ee0625227b03bb32637ded8f211"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/create_power.snbt"
-hash = "9579ef5daca2ff9a52f5924ed8b7146ed73c21fbf4d48bc622d8820d389e8a4e"
+file = "config/ftbquests/quests/chapters/create_main.snbt"
+hash = "02eb41fabe123f5a1dc1f2d583ea2b2f171c26222419385da2030210c16246e8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/enchantment_industry.snbt"
@@ -760,7 +760,7 @@ hash = "eb5ff2acc97cb3b85cea1eba23e80a50a007592208493eee9d39039a66d7d0aa"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farmer_delight.snbt"
-hash = "556bfa4b8f76d9846b9a850e8f8c2d31e408def9a8fc6665ed4d6098cc1ec5f1"
+hash = "7b3f525b1314577af7f895ba5eb1aaa1b46044af11b668a8677bfc46b3f48c63"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farming_with_create.snbt"
@@ -768,7 +768,7 @@ hash = "11b07f4345c871fd6dc8217d0c9d773855b17f85c9be7768111c32c00002d9db"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/getting_an_upgrade.snbt"
-hash = "68412aeb080f19300b40de2aae4dbe7d321f7a10809884f10fa46722a8cc3bcf"
+hash = "abe96de493c5f245113bf3c5aba8c70bc33cf19709ecf82e90c9f502a8864ecc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hexalia.snbt"
@@ -780,7 +780,7 @@ hash = "12b9db61323a0d4bec3de29b01da4b40a60ded55d2c6799716bb919e70e8af51"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/logistics.snbt"
-hash = "2eb5b6dcfacaf81861d76540619c727134a372d1dec740f060f1f8e9e883053e"
+hash = "009abf55666b0a5ff895518bf10943d62d7ed6c31a204c96fb3a90d93f2285cc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/powerful_pots.snbt"
@@ -788,7 +788,7 @@ hash = "d4008c3c0deacd09393ff918f72e78baa28994888cbd9746913e39e75ea6fb81"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
-hash = "5be12a80deb9428806b552d40d247716ca993126bcf54944d72c21e19b823dfb"
+hash = "3f511c1f4464ca3a1143f3a7c6d07c735e7a966dc3d2d52624b6a1b586aaa0e6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_factory_must_grow.snbt"
@@ -808,7 +808,7 @@ hash = "41ad6e627ce7a30615d0f10704a75803606451799f397ba439c54700c843e60f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "baac1326a5252b4e25ab68787847d0ab15963bdd02bd90bc1d0261497fe0e068"
+hash = "8513fddab8ef7813ee2e60756879563a4778193573a53082f35dd513fc54b3f0"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -920,7 +920,7 @@ hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "83af0a0efba30a7b47487d251067ef74c4bc12d94166f0c6effdfd82fb07685f"
+hash = "73a02a2e2f221f40edc3b3149326f6d672153f31718b89258b5f00c00e10ae69"
 
 [[files]]
 file = "config/jei/world/local/Superflat/lookupHistory.json"
@@ -1300,7 +1300,7 @@ hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/spelunkery-client.toml"
-hash = "36635dc4076f7b1a3b533290938cdabceb69f6eb17ae189aa5d6bacacdd005fd"
+hash = "71bb302b618aa9545a2ba14c67edbfc784eb937b039fc9c0ee6dda43e677f0b9"
 
 [[files]]
 file = "config/spelunkery-common.toml"
@@ -1599,6 +1599,10 @@ file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
 [[files]]
+file = "kubejs/client_scripts/spelunkery_grindstone_jei.js"
+hash = "05bf3526ee983ae305ebd0b67dcd3fbf819b6caf9bf58bbb737e5a5b73551e63"
+
+[[files]]
 file = "kubejs/config/client.json"
 hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
 
@@ -1720,31 +1724,31 @@ hash = "4972ad5024b6c175e9611d45f879543255923ea7ac60003d2be5c43db0386ff5"
 
 [[files]]
 file = "kubejs/server_scripts/kubejsstudio/kubejsstudio.js"
-hash = "9b07900383fe600948cc965e1b0ef2c1c52165bd9435f3321793f30ee8cdb34d"
+hash = "1e88ce4f7fd4c84ab43170ad6eb4f216149f7c81fa91bad67952a9cc94506ac1"
 
 [[files]]
 file = "kubejs/server_scripts/kubejsstudio/kubejsstudio.js.bak"
-hash = "9b07900383fe600948cc965e1b0ef2c1c52165bd9435f3321793f30ee8cdb34d"
+hash = "de2b922ed9d8536089fcf2f65587ef59eb76bc3a318ec8dff49551a6e2093820"
 
 [[files]]
 file = "kubejs/server_scripts/kubejsstudio/loot_modifiers.js"
-hash = "b551dec2695957a4c3722df0e724a46015952daa56fff7b0dd68ae242fbb91ef"
+hash = "3d56c7c5ffb0b0b42a4c5acdbb949a384b4691698b907691e171c151ed56f61d"
 
 [[files]]
 file = "kubejs/server_scripts/kubejsstudio/loot_tables.js"
-hash = "50b9b0c7bbffd58f354f8184988c0473b345003b9926d6a61b36af6637b68e77"
+hash = "38ba70e6eb7e1427622aa93d68b3d2e7624546fce4bcc1958c154c2453fafe63"
 
 [[files]]
 file = "kubejs/server_scripts/kubejsstudio/recipes.js"
-hash = "a5e6c7911ded1bd58f4b59921544bfcc671212e30dd0505aac5c6859e632b66c"
-
-[[files]]
-file = "kubejs/server_scripts/kubejsstudio/recipes.js.bak"
-hash = "9f585a5ad7ce73d2a4b23980489005648e38a1cb0084fa26e57e44a75de1bddb"
+hash = "4092d0edf045a7155511a4f31546c26fca068bbfc8ce4e839a2152123c9c4fc4"
 
 [[files]]
 file = "kubejs/server_scripts/kubejsstudio/tags/item.js"
 hash = "4e5f93be3dbe39457a0c118f54159fa22bf03f390127741cac904192d9cd4a49"
+
+[[files]]
+file = "kubejs/server_scripts/spelunkery_grindstone_emi_dedup.js"
+hash = "c5d274a2d83b900817dc649db4e3b995a074811f486fd71852d0c0509c037057"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -2301,7 +2305,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "c49a7dff3e52d696cc632ed5602870b396b43eb800c4f448fa0d82cd066463f0"
+hash = "b210a17a51e1143ce69dd2adc9f4d4ff7c13775721a2067be6ca6712cb76fd71"
 metafile = true
 
 [[files]]
@@ -2311,7 +2315,7 @@ metafile = true
 
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
-hash = "df34236e43c955ceb2b0a267ae280bc3adc747d71d70aa6f58a5ca3bbe2e895e"
+hash = "559997348e6cf4020ca79d65cd05716b2d58ae6d138fae6b5681f358a90cb88d"
 metafile = true
 
 [[files]]
@@ -2371,7 +2375,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
+hash = "1bf40089f627ffd1b9f6a883cfe6f9c8741c7d8543a21dd188aeaf3181d073ce"
 metafile = true
 
 [[files]]
@@ -2571,7 +2575,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei-emi-toggle.pw.toml"
-hash = "2b95189ae0c4a69a6b047af2359eef77633dcb3ac04a192c2cb5f6bb9d719402"
+hash = "3f9ab4fe5368374a076cc00cf7169dec59049cf63bc1d20581fdd2f5fd82227a"
 metafile = true
 
 [[files]]
@@ -2841,7 +2845,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-emi.pw.toml"
-hash = "b761b210487e282aae82aa75f4565bc92148ab81dea409596f037b442125d23c"
+hash = "53a761bd7e0c93f4287c07dbdc14550c96afa502caed1a2c0fc90bb088c8bc80"
 metafile = true
 
 [[files]]
