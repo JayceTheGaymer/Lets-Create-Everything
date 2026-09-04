@@ -1,13 +1,13 @@
 name = "Sponge Plus"
-filename = "sponge_plus-neoforge-1.1.0+mc1.21.1.jar"
+filename = "sponge_plus-neoforge-1.2.0+mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c228d50f4896cc0f99b08c5d41f3020be414047c"
+hash = "44bf8eb260a3b10c0985ecf3fa2509ae48baf797"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8779542
+file-id = 8797140
 project-id = 1675479
